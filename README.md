@@ -2,6 +2,7 @@
 
 ## Learn business skills  
 
+- [ ] [Lynda: Develop Your Finance and Accounting Skills](https://www.lynda.com/learning-paths/Business/develop-your-finance-and-accounting-skills)
 - [ ] [Coursera: Successful Negotiation: Essential Strategies and Skills](https://www.coursera.org/learn/negotiation-skills)
 - [ ] [Udemy: How To Become A Top-Rated & Top-Earning Upwork Freelancer](https://www.udemy.com/course/how-to-become-a-top-rated-top-earning-upwork-freelancer/)
 - [ ] [Udemy: Advanced Upwork Proposals: Tips to 10X Client Responses Fast](https://www.udemy.com/course/upwork-proposals/)
@@ -11,6 +12,8 @@
 ## Learn to communicate well
 
 - [ ] [Lynda: Develop Your Communication Skills and Interpersonal Influence](https://www.lynda.com/learning-paths/Business/develop-your-communication-skills-and-interpersonal-influence)
+- [ ] [Lynda: Communicating during Times of Change](https://www.lynda.com/learning-paths/Business/communicating-during-times-of-change)
+- [ ] [Pluralsight: Communications for Technologists](https://www.pluralsight.com/paths/communications-for-technologists-skill)
 - [ ] [Coursera: https://www.coursera.org/specializations/improve-english](https://www.coursera.org/specializations/improve-english)
 
 ## Learn UI/UX design
@@ -21,6 +24,7 @@
 - [ ] [Coursera: User Interface Design Specialization](https://www.coursera.org/specializations/user-interface-design)
 - [ ] [Coursera: Mobile Interaction Design: How to Design Usable Mobile Products and Services](https://www.coursera.org/learn/mobile-interaction-design)
 - [ ] [Coursera: User Experience Research and Design Specialization](https://www.coursera.org/specializations/michiganux)
+- [ ] [Pluralsight: Visual Design for UX](https://www.pluralsight.com/paths/visual-design-for-ux)
 - [ ] [Book: Refactoring UI](https://refactoringui.com/)
 
 ## Master C#
