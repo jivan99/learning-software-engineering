@@ -64,3 +64,12 @@
 - [ ] [Docs: Rust-lang](https://doc.rust-lang.org/book/)
 - [ ] [Book: Fullstack Rust](https://www.newline.co/fullstack-rust)
 - [ ] [Book: Programming Rust](https://www.oreilly.com/library/view/programming-rust/9781491927274/)
+
+## Be Proficient with Git & Github
+
+- [ ] [Coursera: Version Control with Git](https://www.coursera.org/learn/version-control-with-git: )
+- [ ] [CodeWithMosh: The Ultimate Git Mastery Course](https://codewithmosh.com/p/the-ultimate-git-course)
+- [ ] [Pluralsight: Managing Source Code with Git](https://www.pluralsight.com/paths/managing-source-code-with-git)
+- [ ] [Book: Building Git](https://shop.jcoglan.com/building-git/)
+- [ ] [Book: Pro Git](https://git-scm.com/book/en/v2)
+- [ ] [Pluralsight: Collaborative Coding with GitHub](https://www.pluralsight.com/paths/collaborative-coding-with-github)
