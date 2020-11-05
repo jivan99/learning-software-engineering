@@ -27,7 +27,15 @@
 - [ ] [Pluralsight: Visual Design for UX](https://www.pluralsight.com/paths/visual-design-for-ux)
 - [ ] [Book: Refactoring UI](https://refactoringui.com/)
 
-## Master C#
+## Learn Compiled Language
+
+#### Master Rust
+
+- [ ] [Docs: Rust-lang](https://doc.rust-lang.org/book/)
+- [ ] [Book: Fullstack Rust](https://www.newline.co/fullstack-rust)
+- [ ] [Book: Programming Rust](https://www.oreilly.com/library/view/programming-rust/9781491927274/)
+
+#### Master C#
 
 - [ ] [Pluralsight: C# Fundamentals](https://www.pluralsight.com/courses/csharp-fundamentals-dev)
 	- [x] 01 Course Overview
@@ -57,17 +65,9 @@
 - [ ] [Pluralsight: C# Events, Delegates and Lambdas](https://www.pluralsight.com/courses/csharp-events-delegates)
 - [ ] [Pluralsight: C# Advanced C# Collections](https://www.pluralsight.com/courses/csharp-collections-advanced)
 - [ ] [Pluralsight: C# Tips and Traps](https://www.pluralsight.com/courses/c-sharp-tips-traps)
-- [ ] [Pluralsight: C# Concurremtn Collections](https://www.pluralsight.com/courses/c-sharp-concurrent-collections)
+- [ ] [Pluralsight: C# Concurrent Collections](https://www.pluralsight.com/courses/c-sharp-concurrent-collections)
 - [ ] [ASP.NET Core](https://www.pluralsight.com/paths/aspnet-core)
 - [ ] [ASP.NET MVC 5](https://www.pluralsight.com/paths/mvc5)
-
-## Learn Compiled Language
-
-#### Master Rust
-
-- [ ] [Docs: Rust-lang](https://doc.rust-lang.org/book/)
-- [ ] [Book: Fullstack Rust](https://www.newline.co/fullstack-rust)
-- [ ] [Book: Programming Rust](https://www.oreilly.com/library/view/programming-rust/9781491927274/)
 
 ## Be Proficient with Git & Github
 
