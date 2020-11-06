@@ -2,8 +2,11 @@
 
 ## Learn business skills  
 
+- [ ] [Masterclass: Robin Roberts Teaches Effective and Authentic Communication](https://www.masterclass.com/classes/robin-roberts-teaches-effective-and-authentic-communication)
+- [ ] [Masterclass: Chriss Voss Teaches the Art of Negotiation](https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation)
 - [ ] [Lynda: Develop Your Finance and Accounting Skills](https://www.lynda.com/learning-paths/Business/develop-your-finance-and-accounting-skills)
 - [ ] [Coursera: Successful Negotiation: Essential Strategies and Skills](https://www.coursera.org/learn/negotiation-skills)
+- [ ] [Udemy: Seth Godin's Freelancer Course](https://www.udemy.com/course/seth-godin-freelancer-course/)
 - [ ] [Udemy: How To Become A Top-Rated & Top-Earning Upwork Freelancer](https://www.udemy.com/course/how-to-become-a-top-rated-top-earning-upwork-freelancer/)
 - [ ] [Udemy: Advanced Upwork Proposals: Tips to 10X Client Responses Fast](https://www.udemy.com/course/upwork-proposals/)
 - [ ] [Udemy: Advanced Upwork Profiles: Craft a Magnetic Profile Today!](https://www.udemy.com/course/upwork-profiles/)
@@ -15,6 +18,7 @@
 - [ ] [Lynda: Communicating during Times of Change](https://www.lynda.com/learning-paths/Business/communicating-during-times-of-change)
 - [ ] [Pluralsight: Communications for Technologists](https://www.pluralsight.com/paths/communications-for-technologists-skill)
 - [ ] [Coursera: https://www.coursera.org/specializations/improve-english](https://www.coursera.org/specializations/improve-english)
+- [ ] [Udemy: The Complete Communication Skills Master Class for Life](https://www.udemy.com/course/the-complete-communication-skills-master-class-for-life/)
 
 ## Learn UI/UX design
 
