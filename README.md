@@ -81,3 +81,25 @@
 - [ ] [Book: Building Git](https://shop.jcoglan.com/building-git/)
 - [ ] [Book: Pro Git](https://git-scm.com/book/en/v2)
 - [ ] [Pluralsight: Collaborative Coding with GitHub](https://www.pluralsight.com/paths/collaborative-coding-with-github)
+
+## Learn Web Development
+
+### Master Frontend Development
+
+#### Be Proficient in CSS
+
+- [ ] [Udemy: Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/)
+- [ ] [Book: CSS Secrets](https://www.oreilly.com/library/view/css-secrets/9781449372736/)
+
+#### Be Proficient in JS
+
+- [ ] [Udemy: The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+- [ ] [Frontendmasters: JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
+- [ ] [Frontendmasters: JavaScript: The New Hard Parts](https://frontendmasters.com/courses/javascript-new-hard-parts/)
+- [ ] [Frontendmasters: JavaScript: The Hard Parts of Object Oriented JavaScript](https://frontendmasters.com/courses/object-oriented-js/)
+- [ ] [Frontendmasters: Hard Parts: Functional JS Foundations](https://frontendmasters.com/courses/functional-js-fundamentals/)
+- [ ] [Frontendmasters: Hardcore Functional Architecture Patterns in JavaScript](https://frontendmasters.com/courses/hardcore-js-patterns/)
+- [ ] [Frontendmasters: Hardcore Functional Architecture Patterns in JavaScript](https://frontendmasters.com/courses/hardcore-js-patterns/)
+- [ ] [Frontendmasters: Hardcore Functional Programming in JavaScript, v2](https://frontendmasters.com/courses/hardcore-js-v2/)
+
+
