@@ -46,8 +46,8 @@
 	- [x] 02 Introducing C# and .NET
 	- [x] 03 Learning the C# Syntax
 	- [x] 04 Working with Classes and Objects
-	- [ ] 05 Testing Your Code
-	- [ ] 06 Working with Reference Types and Value Types
+	- [x] 05 Testing Your Code
+	- [x] 06 Working with Reference Types and Value Types
 	- [ ] 07 Controlling the Flow of Execution
 	- [ ] 08 Building Types
 	- [ ] 09 OOP with C#
