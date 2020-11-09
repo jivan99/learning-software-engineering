@@ -59,6 +59,7 @@
 - [ ] [Pluralsight: Object-Oriented Programming Fundamentals in C#](https://www.pluralsight.com/courses/object-oriented-programming-fundamentals-csharp)
 - [ ] [Pluralsight: Add Features to Grade Book Application Using C#](https://www.pluralsight.com/projects/add-features-to-grade-book-application-using-c-sharp)
 - [ ] [Pluralsight: C#: Using LINQ Queries & Operators](https://www.pluralsight.com/interactive-courses/csharp-using-linq-queries-operators)
+- [ ] [Pluralsight: C# Generics](https://app.pluralsight.com/library/courses/csharp-generics/table-of-contents)
 - [ ] [Pluralsight: C#: LINQ Fundamentals](https://www.pluralsight.com/courses/linq-fundamentals-csharp-6)
 - [ ] [Pluralsight: C#: Dates and Times in .NET](https://www.pluralsight.com/courses/dotnet-dates-times)
 - [ ] [Pluralsight: Working with Nulls in C#](https://www.pluralsight.com/courses/working-with-nulls-csharp)
