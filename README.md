@@ -48,8 +48,8 @@
 	- [x] 04 Working with Classes and Objects
 	- [x] 05 Testing Your Code
 	- [x] 06 Working with Reference Types and Value Types
-	- [ ] 07 Controlling the Flow of Execution
-	- [ ] 08 Building Types
+	- [x] 07 Controlling the Flow of Execution
+	- [x] 08 Building Types
 	- [ ] 09 OOP with C#
 	- [ ] 10 Going Further with C#
 	- [ ] 11 Catching Up with Latest C#
