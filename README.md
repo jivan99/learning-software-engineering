@@ -50,7 +50,7 @@
 	- [x] 06 Working with Reference Types and Value Types
 	- [x] 07 Controlling the Flow of Execution
 	- [x] 08 Building Types
-	- [ ] 09 OOP with C#
+	- [x] 09 OOP with C#
 	- [ ] 10 Going Further with C#
 	- [ ] 11 Catching Up with Latest C#
 - [ ] [Pluralsight: C#: Using Variables and Conditionals](https://www.pluralsight.com/interactive-courses/csharp-variables-conditionals)
