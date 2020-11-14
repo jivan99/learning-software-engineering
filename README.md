@@ -41,18 +41,7 @@
 
 #### Master C#
 
-- [ ] [Pluralsight: C# Fundamentals](https://www.pluralsight.com/courses/csharp-fundamentals-dev)
-	- [x] 01 Course Overview
-	- [x] 02 Introducing C# and .NET
-	- [x] 03 Learning the C# Syntax
-	- [x] 04 Working with Classes and Objects
-	- [x] 05 Testing Your Code
-	- [x] 06 Working with Reference Types and Value Types
-	- [x] 07 Controlling the Flow of Execution
-	- [x] 08 Building Types
-	- [x] 09 OOP with C#
-	- [x] 10 Catching Up with Latest C#
-	- [x] 11 Going Further with C#
+- [x] [Pluralsight: C# Fundamentals](https://www.pluralsight.com/courses/csharp-fundamentals-dev)
 - [ ] [Pluralsight: C#: Using Variables and Conditionals](https://www.pluralsight.com/interactive-courses/csharp-variables-conditionals)
 - [ ] [Pluralsight: C#: Using Classes, Methods, Objects and Loops](https://www.pluralsight.com/interactive-courses/csharp-classes-methods-objects-loops)
 - [ ] [Pluralsight: Beginning C# Collections](https://www.pluralsight.com/courses/csharp-collections-beginning)
