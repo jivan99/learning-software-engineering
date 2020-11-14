@@ -51,8 +51,8 @@
 	- [x] 07 Controlling the Flow of Execution
 	- [x] 08 Building Types
 	- [x] 09 OOP with C#
-	- [ ] 10 Going Further with C#
-	- [ ] 11 Catching Up with Latest C#
+	- [ ] 10 Catching Up with Latest C#
+	- [ ] 11 Going Further with C#
 - [ ] [Pluralsight: C#: Using Variables and Conditionals](https://www.pluralsight.com/interactive-courses/csharp-variables-conditionals)
 - [ ] [Pluralsight: C#: Using Classes, Methods, Objects and Loops](https://www.pluralsight.com/interactive-courses/csharp-classes-methods-objects-loops)
 - [ ] [Pluralsight: Beginning C# Collections](https://www.pluralsight.com/courses/csharp-collections-beginning)
