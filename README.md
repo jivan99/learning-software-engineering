@@ -49,6 +49,13 @@
 - [ ] [Pluralsight: Add Features to Grade Book Application Using C#](https://www.pluralsight.com/projects/add-features-to-grade-book-application-using-c-sharp)
 - [ ] [Pluralsight: C#: Using LINQ Queries & Operators](https://www.pluralsight.com/interactive-courses/csharp-using-linq-queries-operators)
 - [ ] [Pluralsight: C# Generics](https://app.pluralsight.com/library/courses/csharp-generics/table-of-contents)
+  - [ ] 01 C# Generics - Why Generics
+  - [ ] 02 Working with Generic Collections
+  - [ ] 03 Generic Classes & Interfaces
+  - [ ] 04 Generic Methods & Delegates
+  - [ ] 05 Constraints, Covariance, and Contravariance
+  - [ ] 06 Generics & Reflection
+  - [ ] 07 Generic Odds & Ends
 - [ ] [Pluralsight: C#: LINQ Fundamentals](https://www.pluralsight.com/courses/linq-fundamentals-csharp-6)
 - [ ] [Pluralsight: C#: Dates and Times in .NET](https://www.pluralsight.com/courses/dotnet-dates-times)
 - [ ] [Pluralsight: Working with Nulls in C#](https://www.pluralsight.com/courses/working-with-nulls-csharp)
