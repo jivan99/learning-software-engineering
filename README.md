@@ -49,7 +49,7 @@
 - [ ] [Pluralsight: Add Features to Grade Book Application Using C#](https://www.pluralsight.com/projects/add-features-to-grade-book-application-using-c-sharp)
 - [ ] [Pluralsight: C#: Using LINQ Queries & Operators](https://www.pluralsight.com/interactive-courses/csharp-using-linq-queries-operators)
 - [ ] [Pluralsight: C# Generics](https://app.pluralsight.com/library/courses/csharp-generics/table-of-contents)
-  - [ ] 01 C# Generics - Why Generics
+  - [x] 01 C# Generics - Why Generics
   - [ ] 02 Working with Generic Collections
   - [ ] 03 Generic Classes & Interfaces
   - [ ] 04 Generic Methods & Delegates
