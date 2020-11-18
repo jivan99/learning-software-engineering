@@ -61,6 +61,11 @@
 - [ ] [Pluralsight: Working with Nulls in C#](https://www.pluralsight.com/courses/working-with-nulls-csharp)
 - [ ] [Pluralsight: Error Handling in C# with Exceptions](https://www.pluralsight.com/courses/c-sharp-error-handling-exceptions)
 - [ ] [Pluralsight: Getting Started with Asynchronous Programming in .NET](https://www.pluralsight.com/courses/getting-started-with-asynchronous-programming-dotnet)
+  - [ ] 01 Course Overview
+  - [ ] 02 Asynchronous Programming in .NET Using Async and Await
+  - [ ] 03 Using the Task Parallel Library in .NET
+  - [ ] 04 Parallel Programming Using the Parallel Extensions
+  - [ ] 05 Asynchronous Programming Deep Dive
 - [ ] [Pluralsight: C# Interfaces](https://www.pluralsight.com/courses/using-csharp-interfaces)
 - [ ] [Pluralsight: C# Extension Methods](https://www.pluralsight.com/courses/c-sharp-extension-methods)
 - [ ] [Pluralsight: C# Events, Delegates and Lambdas](https://www.pluralsight.com/courses/csharp-events-delegates)
