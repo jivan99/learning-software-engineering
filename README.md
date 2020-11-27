@@ -102,4 +102,10 @@
 - [ ] [Frontendmasters: Hardcore Functional Architecture Patterns in JavaScript](https://frontendmasters.com/courses/hardcore-js-patterns/)
 - [ ] [Frontendmasters: Hardcore Functional Programming in JavaScript, v2](https://frontendmasters.com/courses/hardcore-js-v2/)
 
+#### Learn Cloud Computing
+
+- [ ] [Frontendmasters: AWS for Front-End Engineers (ft. S3, Cloudfront & Route 53)](https://frontendmasters.com/courses/aws-frontend-react/)
+- [ ] [Frontendmasters: Rapid Development on AWS: React, Node.js & GraphQL](https://frontendmasters.com/courses/aws-react-node-graphql/)
+- [ ] [Frontendmasters: Serverless with AWS Lambda](https://frontendmasters.com/courses/serverless-aws/)
+
 
