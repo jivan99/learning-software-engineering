@@ -105,6 +105,16 @@
 #### Learn Cloud Computing
 
 - [ ] [Frontendmasters: AWS for Front-End Engineers (ft. S3, Cloudfront & Route 53)](https://frontendmasters.com/courses/aws-frontend-react/)
+  - [ ] 01 Introduction
+  - [ ] 02 IAM Account Management
+  - [ ] 03 Storage & Hosting with S3
+  - [ ] 04 The AWS CLI
+  - [ ] 05 DNS with Route 53
+  - [ ] 06 Routing with S3 & S53
+  - [ ] 07 Cloudfront
+  - [ ] 08 Setting up & Building pipeline
+  - [ ] 09 Lambda @ Edge
+  - [ ] 10 Wrapping up
 - [ ] [Frontendmasters: Rapid Development on AWS: React, Node.js & GraphQL](https://frontendmasters.com/courses/aws-react-node-graphql/)
 - [ ] [Frontendmasters: Serverless with AWS Lambda](https://frontendmasters.com/courses/serverless-aws/)
 
