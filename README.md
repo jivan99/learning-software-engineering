@@ -74,6 +74,15 @@
 - [ ] [Pluralsight: C# Concurrent Collections](https://www.pluralsight.com/courses/c-sharp-concurrent-collections)
 - [ ] [Pluralsight: ASP.NET Core Learning Path](https://www.pluralsight.com/paths/aspnet-core)
   - [ ] [Pluralsight: ASP.NET Core Fundamentals](https://app.pluralsight.com/library/courses/aspnet-core-fundamentals/table-of-contents)
+    - [ ] 01 Course Overview
+    - [ ] 02 Drilling into Data
+    - [ ] 03 Working with Models and Model Binding
+    - [ ] 04 Editing Data with Razor Pages
+    - [ ] 05 Working with SQL Server and the Entity Framework Core
+    - [ ] 06 Building the User Interface
+    - [ ] 07 Integrating Client-side Javascript and CSS
+    - [ ] 08 Working with Internals of ASP.NET Core
+    - [ ] 09 Deploying ASP.NET Core Web Applications
   - [ ] [Pluralsight: Building Web Applications with ASP.NET Core MVC](https://app.pluralsight.com/library/courses/building-aspdotnet-core-mvc-web-applications/table-of-contents)
   - [ ] [Pluralsight: Building an API with ASP.NET Core](https://app.pluralsight.com/library/courses/building-api-aspdotnet-core/table-of-contents)
   - [ ] [Pluralsight: Dependency Injection in ASP.NET Core](https://app.pluralsight.com/library/courses/aspdotnet-core-dependency-injection/table-of-contents)
