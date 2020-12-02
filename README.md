@@ -72,7 +72,20 @@
 - [ ] [Pluralsight: C# Advanced C# Collections](https://www.pluralsight.com/courses/csharp-collections-advanced)
 - [ ] [Pluralsight: C# Tips and Traps](https://www.pluralsight.com/courses/c-sharp-tips-traps)
 - [ ] [Pluralsight: C# Concurrent Collections](https://www.pluralsight.com/courses/c-sharp-concurrent-collections)
-- [ ] [ASP.NET Core](https://www.pluralsight.com/paths/aspnet-core)
+- [ ] [Pluralsight: ASP.NET Core Learning Path](https://www.pluralsight.com/paths/aspnet-core)
+  - [ ] [Pluralsight: ASP.NET Core Fundamentals](https://app.pluralsight.com/library/courses/aspnet-core-fundamentals/table-of-contents)
+  - [ ] [Pluralsight: Building Web Applications with ASP.NET Core MVC](https://app.pluralsight.com/library/courses/building-aspdotnet-core-mvc-web-applications/table-of-contents)
+  - [ ] [Pluralsight: Building an API with ASP.NET Core](https://app.pluralsight.com/library/courses/building-api-aspdotnet-core/table-of-contents)
+  - [ ] [Pluralsight: Dependency Injection in ASP.NET Core](https://app.pluralsight.com/library/courses/aspdotnet-core-dependency-injection/table-of-contents)
+  - [ ] [Pluralsight: Using Configuration and Options in .NET Core and ASP.NET Core Apps](https://app.pluralsight.com/library/courses/dotnet-core-aspnet-core-configuration-options/table-of-contents)
+  - [ ] [Pluralsight: Effective Logging in ASP.NET Core](https://app.pluralsight.com/library/courses/asp-dotnet-core-effective-logging/table-of-contents)
+  - [ ] [Pluralsight: ASP.NET Core 3.0: The MVC Request Life Cycle](https://app.pluralsight.com/library/courses/aspnet-core-3-mvc-request-life-cycle/table-of-contents)
+  - [ ] [Pluralsight: Improving .NET Core MVC Apps Using Extension Points](https://app.pluralsight.com/library/courses/dotnet-core-mvc-apps-extensions/table-of-contents)
+  - [ ] [Pluralsight: Authentication and Authorization in ASP.NET Core](https://app.pluralsight.com/library/courses/authentication-authorization-aspnet-core/table-of-contents)
+  - [ ] [Pluralsight: Building ASP.NET Core Hosted Services and .NET Core Worker Services](https://app.pluralsight.com/library/courses/building-aspnet-core-hosted-services-net-core-worker-services/table-of-contents)
+  - [ ] [Pluralsight: Getting Started with ASP.NET Core SignalR](https://app.pluralsight.com/library/courses/aspdotnet-core-signalr-getting-started/table-of-contents)
+  - [ ] [Pluralsight: ASP.NET Core Tag Helpers and View Components](https://app.pluralsight.com/library/courses/aspdotnet-core-tag-helpers/table-of-contents)
+  - [ ] [Pluralsight: ASP.NET Core Health Checks](https://app.pluralsight.com/library/courses/asp-dot-net-core-health-checks/table-of-contents)
 - [ ] [ASP.NET MVC 5](https://www.pluralsight.com/paths/mvc5)
 
 ## Be Proficient with Git & Github
@@ -105,7 +118,7 @@
 #### Learn Cloud Computing
 
 - [ ] [Frontendmasters: AWS for Front-End Engineers (ft. S3, Cloudfront & Route 53)](https://frontendmasters.com/courses/aws-frontend-react/)
-  - [ ] 01 Introduction
+  - [x] 01 Introduction
   - [ ] 02 IAM Account Management
   - [ ] 03 Storage & Hosting with S3
   - [ ] 04 The AWS CLI
