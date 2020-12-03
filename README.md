@@ -74,7 +74,7 @@
 - [ ] [Pluralsight: C# Concurrent Collections](https://www.pluralsight.com/courses/c-sharp-concurrent-collections)
 - [ ] [Pluralsight: ASP.NET Core Learning Path](https://www.pluralsight.com/paths/aspnet-core)
   - [ ] [Pluralsight: ASP.NET Core Fundamentals](https://app.pluralsight.com/library/courses/aspnet-core-fundamentals/table-of-contents)
-    - [ ] 01 Course Overview
+    - [x] 01 Course Overview
     - [ ] 02 Drilling into Data
     - [ ] 03 Working with Models and Model Binding
     - [ ] 04 Editing Data with Razor Pages
