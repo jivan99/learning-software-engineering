@@ -17,7 +17,7 @@
 - [ ] [Lynda: Develop Your Communication Skills and Interpersonal Influence](https://www.lynda.com/learning-paths/Business/develop-your-communication-skills-and-interpersonal-influence)
 - [ ] [Lynda: Communicating during Times of Change](https://www.lynda.com/learning-paths/Business/communicating-during-times-of-change)
 - [ ] [Pluralsight: Communications for Technologists](https://www.pluralsight.com/paths/communications-for-technologists-skill)
-- [ ] [Coursera: https://www.coursera.org/specializations/improve-english](https://www.coursera.org/specializations/improve-english)
+- [ ] [Coursera: Improve Your English Communication Skills Specialization](https://www.coursera.org/specializations/improve-english)
 - [ ] [Udemy: The Complete Communication Skills Master Class for Life](https://www.udemy.com/course/the-complete-communication-skills-master-class-for-life/)
 
 ## Learn UI/UX design
