@@ -20,6 +20,67 @@
 - [ ] [Pluralsight: Communications for Technologists](https://www.pluralsight.com/paths/communications-for-technologists-skill)
 - [ ] [Coursera: Improve Your English Communication Skills Specialization](https://www.coursera.org/specializations/improve-english)
   - [ ] [Write Professional Emails in English](https://www.coursera.org/learn/professional-emails-english)
+    - [ ] **Week 1 (Get to Know Basic Email Writing Structures)**
+      - [ ] 01 Introduction to Course
+        - [ ] Video: Introduction to Course `00:01:00`
+        - [ ] Reading: Consent Form `00:10:00`
+      - [ ] 02 Professional Email Basics
+        - [ ] Video: DOS and DON'Ts in Professional Email `00:07:00`
+        - [ ] Practice Quiz: Check Your Knowledge `3 questions`
+        - [ ] Video: Organization, Style & Editing Basics `00:06:00`
+        - [ ] Reading: Write a Practice Email `00:10:00`
+      - [ ] 03 Punctuation and Capitalization
+        - [ ] Video: Common Errors in Punctuation `00:05:00`
+        - [ ] Practice Quiz: Check Your knowledge `1 question`
+        - [ ] Video: Common Errors in Capitalization `00:02:00`
+        - [ ] Practice Quiz: Check Your Knowledge `1 question`
+        - [ ] Reading: Additional Resources `00:10:00`
+        - [ ] Peer-graded Assignment: Rewrite Kevin's Email `01:00:00`
+        - [ ] Review Your Peers: Rewrite Kevin's Email
+        - [ ] Reading: Get More from The Georgia Tech Language Institue `00:10:00`
+    - [ ] **Week 2 (Let's Start Writing)**
+      - [ ] 01 The Subject Line
+        - [ ] Video: Write Effective Subject Lines `00:06:00`
+        - [ ] Practice Quiz: Check Your Knowledge `3 questions`
+      - [ ] 02 The Email Text (Body)
+        - [ ] Video: Write Well-organized Email Text `00:06:00`
+        - [ ] Practice Quiz: Check Your Knowledge `3 questions`
+        - [ ] Reading: Additional Resources `00:10:00`
+        - [ ] Peer-graded Assignment: Complete Monica's Email `01:00:00`
+        - [ ] Review Your Peers: Complete Monica's Email
+    - [ ] **Week 3 (Introduction and Announcement Emails)**
+      - [ ] 01 The Basics
+        - [ ] Video: Overview of Introduction & Announcement Emails `00:03:00`
+        - [ ] Practice Quiz: Check Your Knowledge `2 questions`
+      - [ ] 02 Write Introduction & Announcement Emails
+        - [ ] Video: Key Language for Writing These Types of Emails
+        - [ ] Reading: Additional Resources `00:10:00`
+        - [ ] Practice Quiz: Check Your Knowledge `3 questions`
+        - [ ] Peer-graded Assignment: Revise Your Introduction Email `00:60:00`
+        - [ ] Review Your Peers: Revise Your Introduction Email
+    - [ ] **Week 4 (Request and Apology Emails)**
+      - [ ] 01 Write Request Emails
+        - [ ] Video: How to Write Request Emails `00:06:00`
+        - [ ] Practice Quiz: Check Your Knowledge `3 questions`
+      - [ ] 02 Write Apology Emails
+        - [ ] Video: How to Write Apology Emails `00:05:00`
+        - [ ] Reading: Additional Resources `00:20:00`
+        - [ ] Practice Quiz: Check Your Knowledge `3 questions`
+        - [ ] Peer-graded Assignment: Complete Martina's Request/Apology Email `01:00:00`
+        - [ ] Review Your Peers: Complete Martina's Request/Apology Email
+    - [ ] **Week 5 (Culture Matters)**
+      - [ ] 01 High/Low Context Communication
+        - [ ] Video: High/Low Context Communication `00:07:00`
+        - [ ] Discussion Prompt: Communication Styles `00:10:00`
+        - [ ] Practice Quiz: Check Your Knowledge `2 questions`
+      - [ ] 02 Age & Gender Considerations
+        - [ ] Video: Age & Gender Considerations `00:05:00`
+        - [ ] Reading: Additional Resources `00:20:00`
+        - [ ] Quiz: Test Your Knowledge: Correct These Emails `2 questions`
+        - [ ] Peer-graded Assignment: Write an Email to Yourself `01:00:00`
+        - [ ] Review Your Peers: Write an Email to Yourself
+        - [ ] Reading: Where to go from here? `00:10:00`
+
   - [ ] [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally)
   - [ ] [Build Your Professional ePortfolio in English](https://www.coursera.org/learn/eportfolio-english)
   - [ ] [Take Your English Communication Skills to the Next Level](https://www.coursera.org/learn/english-communication-capstone)
