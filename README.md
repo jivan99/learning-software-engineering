@@ -2,6 +2,7 @@
 
 ## Learn business skills  
 
+- [ ] [TheFutur: Business Bootcamp](https://thefutur.com/business-bootcamp)
 - [ ] [Masterclass: Robin Roberts Teaches Effective and Authentic Communication](https://www.masterclass.com/classes/robin-roberts-teaches-effective-and-authentic-communication)
 - [ ] [Masterclass: Chriss Voss Teaches the Art of Negotiation](https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation)
 - [ ] [Lynda: Develop Your Finance and Accounting Skills](https://www.lynda.com/learning-paths/Business/develop-your-finance-and-accounting-skills)
