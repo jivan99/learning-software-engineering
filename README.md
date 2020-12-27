@@ -21,9 +21,9 @@
 - [ ] [Coursera: Improve Your English Communication Skills Specialization](https://www.coursera.org/specializations/improve-english)
   - [ ] [Write Professional Emails in English](https://www.coursera.org/learn/professional-emails-english)
     - [ ] **Week 1 (Get to Know Basic Email Writing Structures)**
-      - [ ] 01 Introduction to Course
-        - [ ] Video: Introduction to Course `00:01:00`
-        - [ ] Reading: Consent Form `00:10:00`
+      - [x] 01 Introduction to Course
+        - [x] Video: Introduction to Course `00:01:00`
+        - [x] Reading: Consent Form `00:10:00`
       - [ ] 02 Professional Email Basics
         - [ ] Video: DOS and DON'Ts in Professional Email `00:07:00`
         - [ ] Practice Quiz: Check Your Knowledge `3 questions`
