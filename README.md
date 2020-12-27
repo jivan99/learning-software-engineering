@@ -24,11 +24,11 @@
       - [x] 01 Introduction to Course
         - [x] Video: Introduction to Course `00:01:00`
         - [x] Reading: Consent Form `00:10:00`
-      - [ ] 02 Professional Email Basics
-        - [ ] Video: DOS and DON'Ts in Professional Email `00:07:00`
-        - [ ] Practice Quiz: Check Your Knowledge `3 questions`
-        - [ ] Video: Organization, Style & Editing Basics `00:06:00`
-        - [ ] Reading: Write a Practice Email `00:10:00`
+      - [x] 02 Professional Email Basics
+        - [x] Video: DOS and DON'Ts in Professional Email `00:07:00`
+        - [x] Practice Quiz: Check Your Knowledge `3 questions`
+        - [x] Video: Organization, Style & Editing Basics `00:06:00`
+        - [x] Reading: Write a Practice Email `00:10:00`
       - [ ] 03 Punctuation and Capitalization
         - [ ] Video: Common Errors in Punctuation `00:05:00`
         - [ ] Practice Quiz: Check Your knowledge `1 question`
