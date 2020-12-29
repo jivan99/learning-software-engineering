@@ -30,7 +30,7 @@
         - [x] Video: Organization, Style & Editing Basics `00:06:00`
         - [x] Reading: Write a Practice Email `00:10:00`
       - [ ] 03 Punctuation and Capitalization
-        - [ ] Video: Common Errors in Punctuation `00:05:00`
+        - [x] Video: Common Errors in Punctuation `00:05:00`
         - [ ] Practice Quiz: Check Your knowledge `1 question`
         - [ ] Video: Common Errors in Capitalization `00:02:00`
         - [ ] Practice Quiz: Check Your Knowledge `1 question`
