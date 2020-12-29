@@ -31,7 +31,7 @@
         - [x] Reading: Write a Practice Email `00:10:00`
       - [ ] 03 Punctuation and Capitalization
         - [x] Video: Common Errors in Punctuation `00:05:00`
-        - [ ] Practice Quiz: Check Your knowledge `1 question`
+        - [x] Practice Quiz: Check Your knowledge `1 question`
         - [ ] Video: Common Errors in Capitalization `00:02:00`
         - [ ] Practice Quiz: Check Your Knowledge `1 question`
         - [ ] Reading: Additional Resources `00:10:00`
