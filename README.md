@@ -203,6 +203,7 @@
   - [ ] 08 Setting up & Building pipeline
   - [ ] 09 Lambda @ Edge
   - [ ] 10 Wrapping up
+- [ ] [Frontendmasters: Full Stack for Front-End Engineers, v2](https://frontendmasters.com/courses/fullstack-v2/)
 - [ ] [Frontendmasters: Rapid Development on AWS: React, Node.js & GraphQL](https://frontendmasters.com/courses/aws-react-node-graphql/)
 - [ ] [Frontendmasters: Serverless with AWS Lambda](https://frontendmasters.com/courses/serverless-aws/)
 
