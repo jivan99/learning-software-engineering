@@ -204,6 +204,58 @@
   - [ ] 09 Lambda @ Edge
   - [ ] 10 Wrapping up
 - [ ] [Frontendmasters: Full Stack for Front-End Engineers, v2](https://frontendmasters.com/courses/fullstack-v2/)
+  - [ ] **01 Getting Started with Full Stack**
+    - [ ] 1. Course Introduction
+    - [ ] 2. Full Stack for Frontend Part 1 Recap Purpose
+  - [ ] **02 Server Setup**
+    - [ ] 3. Basic Server Setup Updating & User Permissions
+    - [ ] 4. Node Setup and Installation
+  - [ ] **03 Server Security**
+    - [ ] 5. Security Overview
+    - [ ] 6. Adding SSH Keys
+    - [ ] 7. Security Settings
+    - [ ] 8. Firewalls
+    - [ ] 9. Firewall configurations iptables
+    - [ ] 10. Firewall configurations UFW and GUI options
+    - [ ] 11. Automatic Updates
+    - [ ] 12. Fail2ban Exercise
+  - [ ] **04 Advanced Shells**
+    - [ ] 13. Shell Tools Find and Grep
+    - [ ] 14. Find Exercise
+    - [ ] 15. Grep Exercise
+    - [ ] 16. Redirection
+    - [ ] 17. Shells
+    - [ ] 18. Shell Scripting
+    - [ ] 19. Bash Scripting Exercise
+    - [ ] 20. Creating a Shell Script with Node Exercise
+  - [ ] **05 HTTPS**
+    - [ ] 21 Nginx Setup Installation
+    - [ ] 22 Nginx Setup Proxy Traffic to Node Server
+    - [ ] 23 Nginx Setup Adding a Domain Name and Opening Port 443
+    - [ ] 24 Why HTTPS
+    - [ ] 25 Installing HTTPS Certificate
+    - [ ] 26 Cron
+    - [ ] 27 Cron Exercise
+  - [ ] **06 Nginx Tuning**
+    - [ ] 28 Nginx Tuning Overview & Gzip
+    - [ ] 29 Expires Headers
+    - [ ] 30 Caching
+    - [ ] 31 Websockets Setup
+    - [ ] 32 Websockets Clientside Code & Observables
+    - [ ] 33 Websockets Exercise
+    - [ ] 34 HTTP2
+    - [ ] 35 HTTP2 Exercise
+    - [ ] 36 Redirect
+  - [ ] **07 Databases**
+    - [ ] 37 Database Types
+    - [ ] 38 Exercise MySQL Installation
+    - [ ] 39 Database Best Practices
+  - [ ] **08 Containers & More**
+    - [ ] 40 Containers
+    - [ ] 41 Orchestration
+    - [ ] 42 Automated Deployments
+  - [ ] **09 Wrapping UP & More**
+    - [ ] 43 Review & QnA
 - [ ] [Frontendmasters: Rapid Development on AWS: React, Node.js & GraphQL](https://frontendmasters.com/courses/aws-react-node-graphql/)
 - [ ] [Frontendmasters: Serverless with AWS Lambda](https://frontendmasters.com/courses/serverless-aws/)
 
