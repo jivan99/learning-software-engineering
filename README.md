@@ -204,9 +204,9 @@
   - [ ] 09 Lambda @ Edge
   - [ ] 10 Wrapping up
 - [ ] [Frontendmasters: Full Stack for Front-End Engineers, v2](https://frontendmasters.com/courses/fullstack-v2/)
-  - [ ] **01 Getting Started with Full Stack**
-    - [ ] 1. Course Introduction
-    - [ ] 2. Full Stack for Frontend Part 1 Recap Purpose
+  - [x] **01 Getting Started with Full Stack**
+    - [x] 1. Course Introduction
+    - [x] 2. Full Stack for Frontend Part 1 Recap Purpose
   - [ ] **02 Server Setup**
     - [ ] 3. Basic Server Setup Updating & User Permissions
     - [ ] 4. Node Setup and Installation
