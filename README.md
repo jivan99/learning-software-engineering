@@ -203,6 +203,7 @@
   - [ ] 08 Setting up & Building pipeline
   - [ ] 09 Lambda @ Edge
   - [ ] 10 Wrapping up
+- [ ] [Frontendmasters: Full Stack for Front End Engineers](https://frontendmasters.com/courses/full-stack/)
 - [ ] [Frontendmasters: Full Stack for Front-End Engineers, v2](https://frontendmasters.com/courses/fullstack-v2/)
   - [x] **01 Getting Started with Full Stack**
     - [x] 1. Course Introduction
