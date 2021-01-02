@@ -204,58 +204,88 @@
   - [ ] 09 Lambda @ Edge
   - [ ] 10 Wrapping up
 - [ ] [Frontendmasters: Full Stack for Front-End Engineers, v2](https://frontendmasters.com/courses/fullstack-v2/)
-  - [x] **01 Getting Started with Full Stack**
-    - [x] 1. Course Introduction
-    - [x] 2. Full Stack for Frontend Part 1 Recap Purpose
-  - [ ] **02 Server Setup**
-    - [ ] 3. Basic Server Setup Updating & User Permissions
-    - [ ] 4. Node Setup and Installation
-  - [ ] **03 Server Security**
-    - [ ] 5. Security Overview
-    - [ ] 6. Adding SSH Keys
-    - [ ] 7. Security Settings
-    - [ ] 8. Firewalls
-    - [ ] 9. Firewall configurations iptables
-    - [ ] 10. Firewall configurations UFW and GUI options
-    - [ ] 11. Automatic Updates
-    - [ ] 12. Fail2ban Exercise
-  - [ ] **04 Advanced Shells**
-    - [ ] 13. Shell Tools Find and Grep
-    - [ ] 14. Find Exercise
-    - [ ] 15. Grep Exercise
-    - [ ] 16. Redirection
-    - [ ] 17. Shells
-    - [ ] 18. Shell Scripting
-    - [ ] 19. Bash Scripting Exercise
-    - [ ] 20. Creating a Shell Script with Node Exercise
-  - [ ] **05 HTTPS**
-    - [ ] 21 Nginx Setup Installation
-    - [ ] 22 Nginx Setup Proxy Traffic to Node Server
-    - [ ] 23 Nginx Setup Adding a Domain Name and Opening Port 443
-    - [ ] 24 Why HTTPS
-    - [ ] 25 Installing HTTPS Certificate
-    - [ ] 26 Cron
-    - [ ] 27 Cron Exercise
-  - [ ] **06 Nginx Tuning**
-    - [ ] 28 Nginx Tuning Overview & Gzip
-    - [ ] 29 Expires Headers
-    - [ ] 30 Caching
-    - [ ] 31 Websockets Setup
-    - [ ] 32 Websockets Clientside Code & Observables
-    - [ ] 33 Websockets Exercise
-    - [ ] 34 HTTP2
-    - [ ] 35 HTTP2 Exercise
-    - [ ] 36 Redirect
-  - [ ] **07 Databases**
-    - [ ] 37 Database Types
-    - [ ] 38 Exercise MySQL Installation
-    - [ ] 39 Database Best Practices
-  - [ ] **08 Containers & More**
-    - [ ] 40 Containers
-    - [ ] 41 Orchestration
-    - [ ] 42 Automated Deployments
-  - [ ] **09 Wrapping UP & More**
-    - [ ] 43 Review & QnA
+  - [x] **01 Introduction**
+    - [ ] 1. Introduction
+    - [ ] 2. Why Full Stack
+    - [ ] 3. Command Line Overview
+    - [ ] 4. Command Line Practice
+    - [ ] 5. Shells
+  - [ ] **02 Understanding the Internet**
+    - [ ] 6. Understanding the Internet
+    - [ ] 7. IP Addresses & Protocols
+    - [ ] 8. Domain Name System
+    - [ ] 9. Trace Routes Practice
+    - [ ] 10. Packets
+    - [ ] 11. Understanding Net Neutrality
+  - [ ] **03 Servers**
+    - [ ] 12. VIM Overview & Modes
+    - [ ] 13. VIM Practice
+    - [ ] 14. Server Exercise
+    - [ ] 15. Server Solution
+    - [ ] 16. Data Centers & the Cloud
+    - [ ] 17. Virtual Private Server Setup
+    - [ ] 18. Operating Systems
+    - [ ] 20. SSH Key Practice
+    - [ ] 21. Connecting to the Server
+  - [ ] **04 Server Setup**
+    - [ ] 22. Buying a Domain Name
+    - [ ] 23. Domain Setup
+    - [ ] 24. Server Setup
+    - [ ] 25. User Setup
+    - [ ] 26. Setting User Permissions
+    - [ ] 27. Disabling the Root User
+    - [ ] 28. Nginx Overview
+    - [ ] 29. Nginx Configuration
+    - [ ] 30. Node.js Configuration
+    - [ ] 31. Application Architecture
+    - [ ] 32. Application Setup
+    - [ ] 33. Proxy Passing Traffic
+    - [ ] 34. Process Manager
+    - [ ] 35. Version Control with Git
+    - [ ] 36. Server Setup Recap
+  - [ ] **05 Bash Basics**
+    - [ ] 37. Standard Streams & Redirection
+    - [ ] 38. Finding Files & Directories
+    - [ ] 39. Bash History Tips
+    - [ ] 40. Searching File Contents with grep & zgrep
+  - [ ] **06 Nginx Config Basics**
+    - [ ] 41. Nginx Redirect
+    - [ ] 42. Nginx Subdomain
+    - [ ] 43. Nginx File Compression
+  - [ ] **07 Security**
+    - [ ] 44. Why Security
+    - [ ] 45. Read Auth.log
+    - [ ] 46. Security Checklist
+    - [ ] 47. Unattended Upgrades
+    - [ ] 48. Security Ethics
+    - [ ] 49. Firewalls
+    - [ ] 50. Ports
+    - [ ] 51. Uncomplicated Firewall
+    - [ ] 52. Permissions
+    - [ ] 53. Upgrade Node.js
+  - [ ] **08 HTTP**
+    - [ ] 54. Defining HTTP
+    - [ ] 55. HTTP Headers & Cookies
+    - [ ] 56. Custom Header & Status Code Exercise
+    - [ ] 57. Custom Header & Status Code Solution
+    - [ ] 58. HTTPs
+    - [ ] 59. Adding HTTPs to NGINX
+    - [ ] 60. HTTP/2
+    - [ ] 61. HTTP/3
+  - [ ] **09 Container Basics**
+    - [ ] 62. Container & Microservices
+    - [ ] 63. Docker & Orchestration
+    - [ ] 64. Load Balancers
+    - [ ] 65. Deployment
+  - [ ] **10 Saving Data**
+    - [ ] 66. Files & Databases Overview
+    - [ ] 67. Database Types
+    - [ ] 68. Redis
+    - [ ] 69. WebSockets
+    - [ ] 70. Chat Bot: Exercise
+    - [ ] 71. Chat Bot: Solution
+  - [ ] **11 Wrapping Up**
+    - [ ] 72. Wrapping Up
 - [ ] [Frontendmasters: Rapid Development on AWS: React, Node.js & GraphQL](https://frontendmasters.com/courses/aws-react-node-graphql/)
 - [ ] [Frontendmasters: Serverless with AWS Lambda](https://frontendmasters.com/courses/serverless-aws/)
 
