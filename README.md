@@ -204,6 +204,66 @@
   - [ ] 09 Lambda @ Edge
   - [ ] 10 Wrapping up
 - [ ] [Frontendmasters: Full Stack for Front End Engineers](https://frontendmasters.com/courses/full-stack/)
+  - [ ] **01 Full Stack for Frontend Engineers**
+    - [ ] 1. Introduction
+  - [ ] **02 Domains**
+    - [ ] 2. Introducing domains
+    - [ ] 3. DNS
+    - [ ] 4. Exercise 1: Ping
+    - [ ] 5. DNS Caches
+    - [ ] 6. Security
+    - [ ] 7. Cache Poisoning
+    - [ ] 8. Exercise 2: Traceroute
+  - [ ] **03 Vim**
+    - [ ] 9. Exercise 3: Introducing Vim
+    - [ ] 10. Exercise 4: Vim modes
+    - [ ] 11. VIM command mode
+    - [ ] 12. Exercise 5: Vim command mode
+    - [ ] 13. Editing & Saving in Vim
+    - [ ] 14. Exercise 6: Editing & Saving in Vim
+  - [ ] **04 Servers**
+    - [ ] 15. Exercise 7: Introducing Servers
+    - [ ] 16. SSH
+    - [ ] 17. Exercise 8: Creating an SSH Key
+  - [ ] **05 Setting up a VPS**
+    - [ ] 18. VPS & Cloud Computing
+    - [ ] 19. Exercise 9: Buy a VPS
+    - [ ] 20. Exercise 10: Log onto your own server
+    - [ ] 21. Exercise 11: top
+    - [ ] 22. Exercise 12: Setting up your server
+    - [ ] 23. Logging in with SSH
+    - [ ] 24. Disable rooot access
+  - [ ] **06 Getting a Domain Name**
+    - [ ] 25. Buying a domain
+    - [ ] 26. Associating the DNS
+    - [ ] 27. Using CNAMEs
+    - [ ] 28. Wrapping Up
+  - [ ] **07 Setting Up the Server**
+    - [ ] 29. Introducing Unix Operating Systems
+    - [ ] 30. Introducing Nginx
+    - [ ] 31. Exercise 13: Nginx
+    - [ ] 32. Exercise 14: Nginx configuration
+    - [ ] 33. Installing Git, NodeJS, and NPM
+    - [ ] 34. Making a symbolic link
+    - [ ] 35. Creating a web directory
+    - [ ] 36. Changing permissions
+    - [ ] 37. Cloning a Git repository
+    - [ ] 38. Rename directory and installing npm
+    - [ ] 39. Starting the server
+  - [ ] **08 Modifying the Server**
+    - [ ] 40. Changing server ports
+  - [ ] **09 Deploying Code**
+    - [ ] 41. Deploying Code & Introducing Gulp
+    - [ ] 42. Exercise 15: Creating Gulp tasks
+    - [ ] 43. Installing Gulp
+    - [ ] 44. Keeping an app running
+  - [ ] **10 Log Files**
+    - [ ] 45. Log files
+    - [ ] 46. Exercise 16: Tailing a log file
+  - [ ] **11 Putting it all together**
+    - [ ] 47. Exercise 17: Putting it all together
+  - [ ] **12 Wrapping Up and Q&A**
+    - [ ] 48. Course wrap-up
 - [ ] [Frontendmasters: Full Stack for Front-End Engineers, v2](https://frontendmasters.com/courses/fullstack-v2/)
   - [x] **01 Getting Started with Full Stack**
     - [x] 1. Course Introduction
