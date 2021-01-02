@@ -210,7 +210,7 @@
     - [x] 4. Command Line Practice
     - [x] 5. Shells
   - [ ] **02 Understanding the Internet**
-    - [ ] 6. Understanding the Internet
+    - [x] 6. Understanding the Internet
     - [ ] 7. IP Addresses & Protocols
     - [ ] 8. Domain Name System
     - [ ] 9. Trace Routes Practice
