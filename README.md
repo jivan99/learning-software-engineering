@@ -1,7 +1,6 @@
 # learning-software-engineering
 
 ## Learn business skills  
-
 - [ ] [TheFutur: Business Bootcamp](https://thefutur.com/business-bootcamp)
 - [ ] [Masterclass: Robin Roberts Teaches Effective and Authentic Communication](https://www.masterclass.com/classes/robin-roberts-teaches-effective-and-authentic-communication)
 - [ ] [Masterclass: Chriss Voss Teaches the Art of Negotiation](https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation)
@@ -205,11 +204,11 @@
   - [ ] 10 Wrapping up
 - [ ] [Frontendmasters: Full Stack for Front-End Engineers, v2](https://frontendmasters.com/courses/fullstack-v2/)
   - [x] **01 Introduction**
-    - [ ] 1. Introduction
-    - [ ] 2. Why Full Stack
-    - [ ] 3. Command Line Overview
-    - [ ] 4. Command Line Practice
-    - [ ] 5. Shells
+    - [x] 1. Introduction
+    - [x] 2. Why Full Stack
+    - [x] 3. Command Line Overview
+    - [x] 4. Command Line Practice
+    - [x] 5. Shells
   - [ ] **02 Understanding the Internet**
     - [ ] 6. Understanding the Internet
     - [ ] 7. IP Addresses & Protocols
