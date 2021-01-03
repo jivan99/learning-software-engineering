@@ -217,7 +217,7 @@
     - [x] 10. Packets
     - [x] 11. Understanding Net Neutrality
   - [ ] **03 Servers**
-    - [ ] 12. VIM Overview & Modes
+    - [x] 12. VIM Overview & Modes
     - [ ] 13. VIM Practice
     - [ ] 14. Server Exercise
     - [ ] 15. Server Solution
