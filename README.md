@@ -233,7 +233,7 @@
     - [x] 24. Server Setup
     - [x] 25. User Setup
     - [x] 26. Setting User Permissions
-    - [ ] 27. Disabling the Root User
+    - [x] 27. Disabling the Root User
     - [ ] 28. Nginx Overview
     - [ ] 29. Nginx Configuration
     - [ ] 30. Node.js Configuration
