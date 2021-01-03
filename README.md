@@ -236,7 +236,7 @@
     - [x] 27. Disabling the Root User
     - [x] 28. Nginx Overview
     - [x] 29. Nginx Configuration
-    - [ ] 30. Node.js Configuration
+    - [x] 30. Node.js Configuration
     - [ ] 31. Application Architecture
     - [ ] 32. Application Setup
     - [ ] 33. Proxy Passing Traffic
