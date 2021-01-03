@@ -221,7 +221,7 @@
     - [x] 13. VIM Practice
     - [x] 14. Server Exercise
     - [x] 15. Server Solution
-    - [ ] 16. Data Centers & the Cloud
+    - [x] 16. Data Centers & the Cloud
     - [ ] 17. Virtual Private Server Setup
     - [ ] 18. Operating Systems
     - [ ] 20. SSH Key Practice
