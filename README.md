@@ -224,7 +224,7 @@
     - [x] 16. Data Centers & the Cloud
     - [x] 17. Virtual Private Server Setup
     - [x] 18. Operating Systems
-    - [ ] 19. SSH
+    - [x] 19. SSH
     - [ ] 20. SSH Key Practice
     - [ ] 21. Connecting to the Server
   - [ ] **04 Server Setup**
