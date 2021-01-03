@@ -215,7 +215,7 @@
     - [x] 8. Domain Name System
     - [x] 9. Trace Routes Practice
     - [x] 10. Packets
-    - [ ] 11. Understanding Net Neutrality
+    - [x] 11. Understanding Net Neutrality
   - [ ] **03 Servers**
     - [ ] 12. VIM Overview & Modes
     - [ ] 13. VIM Practice
