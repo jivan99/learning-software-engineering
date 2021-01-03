@@ -218,7 +218,7 @@
     - [x] 11. Understanding Net Neutrality
   - [ ] **03 Servers**
     - [x] 12. VIM Overview & Modes
-    - [ ] 13. VIM Practice
+    - [x] 13. VIM Practice
     - [ ] 14. Server Exercise
     - [ ] 15. Server Solution
     - [ ] 16. Data Centers & the Cloud
