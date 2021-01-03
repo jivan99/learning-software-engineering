@@ -231,7 +231,7 @@
     - [ ] 22. Buying a Domain Name
     - [ ] 23. Domain Setup
     - [x] 24. Server Setup
-    - [ ] 25. User Setup
+    - [x] 25. User Setup
     - [ ] 26. Setting User Permissions
     - [ ] 27. Disabling the Root User
     - [ ] 28. Nginx Overview
