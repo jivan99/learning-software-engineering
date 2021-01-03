@@ -213,7 +213,7 @@
     - [x] 6. Understanding the Internet
     - [x] 7. IP Addresses & Protocols
     - [x] 8. Domain Name System
-    - [ ] 9. Trace Routes Practice
+    - [x] 9. Trace Routes Practice
     - [ ] 10. Packets
     - [ ] 11. Understanding Net Neutrality
   - [ ] **03 Servers**
