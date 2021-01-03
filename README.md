@@ -225,7 +225,7 @@
     - [x] 17. Virtual Private Server Setup
     - [x] 18. Operating Systems
     - [x] 19. SSH
-    - [ ] 20. SSH Key Practice
+    - [x] 20. SSH Key Practice
     - [ ] 21. Connecting to the Server
   - [ ] **04 Server Setup**
     - [ ] 22. Buying a Domain Name
