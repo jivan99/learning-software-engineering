@@ -232,7 +232,7 @@
     - [ ] 23. Domain Setup
     - [x] 24. Server Setup
     - [x] 25. User Setup
-    - [ ] 26. Setting User Permissions
+    - [x] 26. Setting User Permissions
     - [ ] 27. Disabling the Root User
     - [ ] 28. Nginx Overview
     - [ ] 29. Nginx Configuration
