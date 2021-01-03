@@ -212,7 +212,7 @@
   - [ ] **02 Understanding the Internet**
     - [x] 6. Understanding the Internet
     - [x] 7. IP Addresses & Protocols
-    - [ ] 8. Domain Name System
+    - [x] 8. Domain Name System
     - [ ] 9. Trace Routes Practice
     - [ ] 10. Packets
     - [ ] 11. Understanding Net Neutrality
