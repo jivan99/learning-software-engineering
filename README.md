@@ -219,7 +219,7 @@
   - [ ] **03 Servers**
     - [x] 12. VIM Overview & Modes
     - [x] 13. VIM Practice
-    - [ ] 14. Server Exercise
+    - [x] 14. Server Exercise
     - [ ] 15. Server Solution
     - [ ] 16. Data Centers & the Cloud
     - [ ] 17. Virtual Private Server Setup
