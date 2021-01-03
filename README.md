@@ -214,7 +214,7 @@
     - [x] 7. IP Addresses & Protocols
     - [x] 8. Domain Name System
     - [x] 9. Trace Routes Practice
-    - [ ] 10. Packets
+    - [x] 10. Packets
     - [ ] 11. Understanding Net Neutrality
   - [ ] **03 Servers**
     - [ ] 12. VIM Overview & Modes
