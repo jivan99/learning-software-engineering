@@ -235,7 +235,7 @@
     - [x] 26. Setting User Permissions
     - [x] 27. Disabling the Root User
     - [x] 28. Nginx Overview
-    - [ ] 29. Nginx Configuration
+    - [x] 29. Nginx Configuration
     - [ ] 30. Node.js Configuration
     - [ ] 31. Application Architecture
     - [ ] 32. Application Setup
