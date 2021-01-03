@@ -230,7 +230,7 @@
   - [ ] **04 Server Setup**
     - [ ] 22. Buying a Domain Name
     - [ ] 23. Domain Setup
-    - [ ] 24. Server Setup
+    - [x] 24. Server Setup
     - [ ] 25. User Setup
     - [ ] 26. Setting User Permissions
     - [ ] 27. Disabling the Root User
