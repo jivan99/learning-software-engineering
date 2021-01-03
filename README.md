@@ -226,7 +226,7 @@
     - [x] 18. Operating Systems
     - [x] 19. SSH
     - [x] 20. SSH Key Practice
-    - [ ] 21. Connecting to the Server
+    - [x] 21. Connecting to the Server
   - [ ] **04 Server Setup**
     - [ ] 22. Buying a Domain Name
     - [ ] 23. Domain Setup
