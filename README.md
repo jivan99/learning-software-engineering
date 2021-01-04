@@ -239,7 +239,7 @@
     - [x] 30. Node.js Configuration
     - [x] 31. Application Architecture
     - [x] 32. Application Setup
-    - [ ] 33. Proxy Passing Traffic
+    - [x] 33. Proxy Passing Traffic
     - [ ] 34. Process Manager
     - [ ] 35. Version Control with Git
     - [ ] 36. Server Setup Recap
