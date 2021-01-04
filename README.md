@@ -242,7 +242,7 @@
     - [x] 33. Proxy Passing Traffic
     - [x] 34. Process Manager
     - [x] 35. Version Control with Git
-    - [ ] 36. Server Setup Recap
+    - [x] 36. Server Setup Recap
   - [ ] **05 Bash Basics**
     - [ ] 37. Standard Streams & Redirection
     - [ ] 38. Finding Files & Directories
