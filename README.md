@@ -241,7 +241,7 @@
     - [x] 32. Application Setup
     - [x] 33. Proxy Passing Traffic
     - [x] 34. Process Manager
-    - [ ] 35. Version Control with Git
+    - [x] 35. Version Control with Git
     - [ ] 36. Server Setup Recap
   - [ ] **05 Bash Basics**
     - [ ] 37. Standard Streams & Redirection
