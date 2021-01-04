@@ -238,7 +238,7 @@
     - [x] 29. Nginx Configuration
     - [x] 30. Node.js Configuration
     - [x] 31. Application Architecture
-    - [ ] 32. Application Setup
+    - [x] 32. Application Setup
     - [ ] 33. Proxy Passing Traffic
     - [ ] 34. Process Manager
     - [ ] 35. Version Control with Git
