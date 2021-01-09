@@ -184,7 +184,7 @@
   - [ ] **01 Welcome, Welcome, Welcome!**
     - [x] 1. Course Structure and Projects
     - [x] 2. Watch Before You Start!
-    - [ ] 3. Read Before You Start!
+    - [x] 3. Read Before You Start!
     - [ ] 4. Migration Guide to v2 + Old Course
     - [ ] 5. Setting Up Our Code Editor
   - [ ] **02 JavaScript Fundamentals - Part 1**
