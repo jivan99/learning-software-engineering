@@ -182,7 +182,7 @@
 
 - [ ] [Udemy: The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
   - [ ] **01 Welcome, Welcome, Welcome!**
-    - [ ] 1. Course Structure and Projects
+    - [x] 1. Course Structure and Projects
     - [ ] 2. Watch Before You Start!
     - [ ] 3. Read Before You Start!
     - [ ] 4. Migration Guide to v2 + Old Course
