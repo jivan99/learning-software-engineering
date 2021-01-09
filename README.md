@@ -181,7 +181,7 @@
 #### Be Proficient in JS
 
 - [ ] [Udemy: The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
-  - [ ] **01 Welcome, Welcome, Welcome!**
+  - [x] **01 Welcome, Welcome, Welcome!**
     - [x] 1. Course Structure and Projects
     - [x] 2. Watch Before You Start!
     - [x] 3. Read Before You Start!
