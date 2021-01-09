@@ -181,6 +181,334 @@
 #### Be Proficient in JS
 
 - [ ] [Udemy: The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+  - [ ] **01 Welcome, Welcome, Welcome!**
+    - [ ] 1. Course Structure and Projects
+    - [ ] 2. Watch Before You Start!
+    - [ ] 3. Read Before You Start!
+    - [ ] 4. Migration Guide to v2 + Old Course
+    - [ ] 5. Setting Up Our Code Editor
+  - [ ] **02 JavaScript Fundamentals - Part 1**
+    - [ ] 1. Section Intro
+    - [ ] 2. Hello World!
+    - [ ] 3. A Brief Introduction to JavaScript
+    - [ ] 4. Linking a JavaScript File
+    - [ ] 5. Values and Variables
+    - [ ] 6. Practice Assignments
+    - [ ] 7. Data Types
+    - [ ] 8. let, const and var
+    - [ ] 9. Basic Operators
+    - [ ] 10. Operator Precedence
+    - [ ] 11. Coding Challenge #1
+    - [ ] 12. Strings and Template Literals
+    - [ ] 13. Tacking Decisions: if / else statements
+    - [ ] 14. Coding Challenge #2
+    - [ ] 15. Type Conversion and Coercion
+    - [ ] 16. Truthy and Falsy Values
+    - [ ] 17. Equality Operators: == vs. ===
+    - [ ] 18. Boolean Logic
+    - [ ] 19. Logical Operators
+    - [ ] 20. Coding Challenge #3
+    - [ ] 21. The switch Statement
+    - [ ] 22. Statements and Expressions
+    - [ ] 23. The Conditional (Ternary) Operator
+    - [ ] 24. Coding Challenge #4
+    - [ ] 25. JavaScript Releases: ES5, ES6+ and ESNext
+  - [ ] **03 JavaScript Fundamentals - Part 2**
+    - [ ] 1. Section Intro
+    - [ ] 2. Activating Strict Mode
+    - [ ] 3. Functions
+    - [ ] 4. Function Declarations vs. Expressions
+    - [ ] 5. Arrow Functioins
+    - [ ] 6. Functions Calling Other Functions
+    - [ ] 7. Reviewing Functions
+    - [ ] 8. Coding Challenge #1
+    - [ ] 9. Introduction to Arrays
+    - [ ] 10. Basic Array Operations (Methods)
+    - [ ] 11. Coding Challenge #2
+    - [ ] 12. Introduction to Objects
+    - [ ] 13. Dot vs. Bracket Notation
+    - [ ] 14. Object Methods
+    - [ ] 15. Coding Challenge #3
+    - [ ] 16. Iteration: The for Loop
+    - [ ] 17. Looping Arrays, Breaking and Continuing
+    - [ ] 18. Looping Backwards and Loops in Loops
+    - [ ] 19. The While Loop
+    - [ ] 20. Coding Challenge #4
+  - [ ] **04 How to Navigate This Course**
+    - [ ] 1. Pathways and Section Roadmaps
+    - [ ] 2. Course Pathways
+  - [ ] **05 Developer Skills & Editor Setup**
+    - [ ] 1. Section Intro
+    - [ ] 2. Section Roadmap
+    - [ ] 3. Setting up Prettier and VS Code
+    - [ ] 4. Installing Node.js and Setting Up a Dev Environment
+    - [ ] 5. Learning How to Code
+    - [ ] 6. How to Think Like a Developer: Become a Problem Solver!
+    - [ ] 7. Using Google, StackOverflow and MDN
+    - [ ] 8. Debugging (Fixing Errors)
+    - [ ] 9. Debugging with the Console and Breakpoints
+    - [ ] 10. Coding Challenge #1
+  - [ ] **06 [OPTIONAL] HTML & CSS Crash Course**
+    - [ ] 1. Section Intro
+    - [ ] 2. Basic HTML Structure and Elements
+    - [ ] 3. Attributes, Classes and IDs
+    - [ ] 4. Basic Styling with CSS
+    - [ ] 5. Introduction to the CSS Box Model
+  - [ ] **07 JavaScript in the Browser: DOM and Events Fundamentals**
+    - [ ] 1. Section Intro
+    - [ ] 2. Section Roadmap
+    - [ ] 3. PROJECT #1: Guess My Number!
+    - [ ] 4. What's the DOM and DOM Manipulation
+    - [ ] 5. Selecting and Manipulating Elements
+    - [ ] 6. Handling Click Events
+    - [ ] 7. Implementing the Game Logic
+    - [ ] 8. Manipulating CSS Styles
+    - [ ] 9. Coding Challenge #1
+    - [ ] 10. Implementing Highscores
+    - [ ] 11. Refactoring Our Code: The DRY Principle
+    - [ ] 12. PROJECT #2: Modal Window
+    - [ ] 13. Working With Classes
+    - [ ] 14. Handling an "Esc" Keypress Event
+    - [ ] 15. PROJECT #3: Pig Game
+    - [ ] 16. Rolling the Dice
+    - [ ] 17. Switching the Active Player
+    - [ ] 18. Holding Current Score
+    - [ ] 19. Resetting the Game 
+  - [ ] **08 How JavaScript Works Behind the Scenes**
+    - [ ] 1. Section Intro
+    - [ ] 2. Section Roadmap
+    - [ ] 3. An High-Level Overview of JavaScript
+    - [ ] 4. The JavaScript Engine and Runtime
+    - [ ] 5. Execution Contexts and The Call Stack
+    - [ ] 6. Scope and The Scope Chain
+    - [ ] 7. Scoping in Practice
+    - [ ] 8. Variable Environment: Hoisting and The TDZ
+    - [ ] 9. Hoisting and TDZ in Practice
+    - [ ] 10. The this Keyword
+    - [ ] 11. The this Keyword in Practice
+    - [ ] 12. Regular Functions vs. Arrow Functions
+    - [ ] 13. Primitives vs. Objects (Primitive vs. Reference Types)
+    - [ ] 14. Primitives vs. Objects in Practice
+  - [ ] **09 Data Structures, Modern Operators and Strings**
+    - [ ] 1. Section Intro
+    - [ ] 2. Section Roadmap
+    - [ ] 3. Destructuring Arrays
+    - [ ] 4. Destructuring Objects
+    - [ ] 5. The Spread Operator (...)
+    - [ ] 6. Rest Pattern and Parameters
+    - [ ] 7. Short Circuiting (&& and ||)
+    - [ ] 8. The Nullish Coalescing Operator (??)
+    - [ ] 9. Coding Challenge #1
+    - [ ] 10. Looping Arrays: The for-of Loop
+    - [ ] 11. Enhanced Object Literals
+    - [ ] 12. Optional Chaining (.?)
+    - [ ] 13. Looping Objects: Object Keys, Values and Entries
+    - [ ] 14. Coding Challenge #2
+    - [ ] 15. Sets
+    - [ ] 16. Maps: Fundamentals
+    - [ ] 17. Maps: Iteration
+    - [ ] 18. Summary: Which Data Structure to Use?
+    - [ ] 19. Coding Challenge #3
+    - [ ] 20. Working With Strings - Part 1
+    - [ ] 21. Working With Strings - Part 2
+    - [ ] 22. Working With Strings - Part 3
+    - [ ] 23. Coding Challenge #4
+  - [ ] **10 A Closer Look at Functions**
+    - [ ] 1. Section Intro
+    - [ ] 2. Section Roadmap
+    - [ ] 3. Default Parameters
+    - [ ] 4. How Passing Arguments Works: Value vs. Reference
+    - [ ] 5. First-Class and Higher-Order Functions
+    - [ ] 6. Functions Accepting Callback Functions
+    - [ ] 7. Functions Returning Functions
+    - [ ] 8. The call and apply Methods
+    - [ ] 9. The bind Method
+    - [ ] 10. Coding Challenge #1
+    - [ ] 11. Immediately Invoked Function Expressions (IIFE)
+    - [ ] 12. Closures
+    - [ ] 13. Coding Challenge #2
+  - [ ] **11 Working With Arrays**
+    - [ ] 1. Section Intro
+    - [ ] 2. Section Roadmap
+    - [ ] 3. Simple Array Methods
+    - [ ] 4. Looping Arrays: forEach
+    - [ ] 5. forEach With Maps and Sets
+    - [ ] 6. PROJECT: "Bankist" App
+    - [ ] 7. Creating DOM Elements
+    - [ ] 8. Coding Challenge #1
+    - [ ] 9. Data Transformations: map, filter, reduce
+    - [ ] 10. The map Method
+    - [ ] 11. Computing Usernames
+    - [ ] 12. The filter Method
+    - [ ] 13. The reduce Method
+    - [ ] 14. Coding Challenge #2
+    - [ ] 15. The Magic of Chaining Methods
+    - [ ] 16. Coding Challenge #3
+    - [ ] 17. The find Method
+    - [ ] 18. Implementing Login
+    - [ ] 19. Implementing Transfers
+    - [ ] 20. The findIndex Method
+    - [ ] 21. some and every
+    - [ ] 22. flat and flatMap
+    - [ ] 23. Sorting Arrays
+    - [ ] 24. More Ways of Creating and Filling Arrays
+    - [ ] 25. Summary: Which Array Method to Use?
+    - [ ] 26. Coding Challenge #4
+  - [ ] **12 Numbers, Dates, Intl and Timers**
+    - [ ] 1. Section Intro
+    - [ ] 2. Section Roadmap
+    - [ ] 3. Converting and Checking Numbers
+    - [ ] 4. Math and Rounding
+    - [ ] 5. The Remainder Operator
+    - [ ] 6. Working with BigInt
+    - [ ] 7. Creating Dates
+    - [ ] 8. Adding Dates to "Bankist" App
+    - [ ] 9. Operations With Dates
+    - [ ] 10. Internationalizing Dates (Intl)
+    - [ ] 11. Internationalizing Numbers (Intl)
+    - [ ] 12. Timers: setTimeout and setInterval
+    - [ ] 13. Implementing a Countdown Timer
+  - [ ] **13 Advanced DOM and Events**
+    - [ ] 1. Section Intro
+    - [ ] 2. Section Roadmap
+    - [ ] 3. PROJECT: "Bankist" Website
+    - [ ] 4. How the DOM Really Works
+    - [ ] 5. Selecting, Creating and Deleting Elements
+    - [ ] 6. Styles, Attributes and Classes
+    - [ ] 7. Implementing Smooth Scrolling
+    - [ ] 8. Types of Events and Event Handlers
+    - [ ] 9. Event Propagation: Bubbling and Capturing
+    - [ ] 10. Event Propagation in Practice
+    - [ ] 11. Event Delegation: Implementing Page Navigation
+    - [ ] 12. DOM Traversing
+    - [ ] 13. Building a Tabbed Component
+    - [ ] 14. Passing Arguments to Event Handlers
+    - [ ] 15. Implementing a Sticky Navigation: The Scroll Event
+    - [ ] 16. A Better Way: The Intersection Observer API
+    - [ ] 17. Revealing Elements on Scroll
+    - [ ] 18. Lazy Loading Images
+    - [ ] 19. Building a Slider Component: Part 1
+    - [ ] 20. Building a Slider Component: Part 2
+    - [ ] 21. Lifecycle DOM Events
+    - [ ] 22. Efficient Script Loading: defer and async
+  - [ ] **14 Object-Oriented Programming (OOP) with JavaScript**
+    - [ ] 1. Section Intro
+    - [ ] 2. Section Roadmap
+    - [ ] 3. What is Object-Oriented Programming?
+    - [ ] 4. OOP in JavaScript
+    - [ ] 5. Constructor Functions and the new Operator
+    - [ ] 6. Prototypes
+    - [ ] 7. Prototypal Inheritance and The Prototype Chain
+    - [ ] 8. Prototypal Inheritance on Built-In Objects
+    - [ ] 9. Coding Challenge #1
+    - [ ] 10. ES6 Classes
+    - [ ] 11. Setters and Getters
+    - [ ] 12. Static Methods
+    - [ ] 13. Object.create
+    - [ ] 14. Coding Challenge #2
+    - [ ] 15. Inheritance Between "Classes": Constructor Functions
+    - [ ] 16. Coding Challenge #3
+    - [ ] 17. Inheritance Between "Classes": ES6 Classes
+    - [ ] 18. Inheritance Between "Classes": Object.create
+    - [ ] 19. Another Class Example
+    - [ ] 20. Encapsulation: Protected Properties and Methods
+    - [ ] 21. Encapsulation: Private Class Fields and Mehtods
+    - [ ] 22. Chaining Methods
+    - [ ] 23. ES6 Classes Summary
+    - [ ] 24. Coding Challenge #4
+  - [ ] **15 Mapty App: OOP, Geolocation, External Libraries, and More!**
+    - [ ] 1. Section Intro
+    - [ ] 2. Section Roadmap
+    - [ ] 3. Project Overview
+    - [ ] 4. How to Plan a Web Project
+    - [ ] 5. Using the Geolocation API
+    - [ ] 6. Displaying a Map Using Leaflet Library
+    - [ ] 7. Displaying a Map Marker
+    - [ ] 8. Rendering Workout Input Form
+    - [ ] 9. Project Architecture
+    - [ ] 10. Refactoring for Project Architecture
+    - [ ] 11. Managing Workout Data: Creating Classes
+    - [ ] 12. Creating a New Workout
+    - [ ] 13. Rendering Workouts
+    - [ ] 14. Move to Marker On Click
+    - [ ] 15. Working with localStorage
+    - [ ] 16. Final Considerations
+  - [ ] **16 Asynchronous JavaScript: Promises, Async/Await and AJAX**
+    - [ ] 1. Section Intro
+    - [ ] 2. Section Roadmap
+    - [ ] 3. Asynchronous JavaScript, AJAX and APIs
+    - [ ] 4. Our First AJAX Call: XMLHttpRequest
+    - [ ] 5. [OPTIONAL] How the Web Works: Requests and Responses
+    - [ ] 6. Welcome to Callback Hell
+    - [ ] 7. Promiese and the Fetch API
+    - [ ] 8. Consuming Promises
+    - [ ] 9. Chaining Promises
+    - [ ] 10. Handling Rejected Promises
+    - [ ] 11. Throwing Errors Manually
+    - [ ] 12. Coding Challenge #1
+    - [ ] 13. Asynchronous Behind the Scenes: The Event Loop
+    - [ ] 14. The Event Loop in Practice
+    - [ ] 15. Building a Simple Promise
+    - [ ] 16. Promisifying the Geolocation API
+    - [ ] 17. Coding Challenge #2
+    - [ ] 18. Consuming Promises with Async/Await
+    - [ ] 19. Error Handling With try...catch
+    - [ ] 20. Returning Vaues from Async Functions
+    - [ ] 21. Running Promises in Parallel
+    - [ ] 22. Other Promise Combinators: race, allSettled and any
+    - [ ] 23. Coding Challenge #3
+  - [ ] **17 Modern JavaScript Development: Modules and Tooling**
+    - [ ] 1. Section Intro
+    - [ ] 2. Section Roadmap
+    - [ ] 3. An Overview of Modern JavaScript Development
+    - [ ] 4. An Overview of Modules in JavaScript
+    - [ ] 5. Exporting and Importing in ES6 Modules
+    - [ ] 6. The Module Pattern
+    - [ ] 7. CommonJS Modules
+    - [ ] 8. A Brief Introduction to the Command Line
+    - [ ] 9. Introduction to NPM
+    - [ ] 10. Bundling With Parcel and NPM Scripts
+    - [ ] 11. Configuring Babel and Polyfilling
+    - [ ] 12. Modern, Clean and Declarative JavaScript Programming
+    - [ ] 13. Let's Fix Some Bad Code!
+  - [ ] **18 Forkify App: Building a Modern Application**
+    - [ ] 1. Section Intro
+    - [ ] 2. Section Roadmap
+    - [ ] 3. Project Overview and Planning I
+    - [ ] 4. Loading a Recipe from API
+    - [ ] 5. Rendering the Recipe
+    - [ ] 6. Listening For load and hashchange Events
+    - [ ] 7. The MVC Architecture
+    - [ ] 8. Refactoring for MVC
+    - [ ] 9. Helpers and Configuration Files
+    - [ ] 10. Event Handlers in MVC: Publisher-Subscriber Pattern
+    - [ ] 11. Implementing Error and Success Messages
+    - [ ] 12. Implementing Search Results - Part 1
+    - [ ] 13. Implementing Search Results - Part 2
+    - [ ] 14. Implementing Pagination - Part 1
+    - [ ] 15. Implementing Pagination - Part 2
+    - [ ] 16. Project Planning II
+    - [ ] 17. Updating Recipe Servings
+    - [ ] 18. Developing a DOM Updating Algorithm
+    - [ ] 19. Implementing Bookmarks - Part 1
+    - [ ] 20. Implementing Bookmarks - Part 2
+    - [ ] 21. Storing Bookmarks with localStorage
+    - [ ] 22. Project Planning III
+    - [ ] 23. Uploading a New Recipe - Part 1
+    - [ ] 24. Uploading a New Recipe - Part 2
+    - [ ] 25. Uploading a New Recipe - Part 3
+    - [ ] 26. Wrapping Up: Final Considerations
+  - [ ] **19 Setting Up Git and Deployment**
+    - [ ] 1. Section Intro
+    - [ ] 2. Section Roadmap
+    - [ ] 3. Simple Deployment With Netlify
+    - [ ] 4. Setting Up Git and GitHub
+    - [ ] 5. Git Fundamentals
+    - [ ] 6. Pushing to GitHub
+    - [ ] 7. Setting Up Continuous Integration With Netlify
+  - [ ] **20 The End!**
+    - [ ] 1. Where to Go from Here
+    - [ ] 2. My Other Courses + Updates
 - [ ] [Frontendmasters: JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
 - [ ] [Frontendmasters: JavaScript: The New Hard Parts](https://frontendmasters.com/courses/javascript-new-hard-parts/)
 - [ ] [Frontendmasters: JavaScript: The Hard Parts of Object Oriented JavaScript](https://frontendmasters.com/courses/object-oriented-js/)
