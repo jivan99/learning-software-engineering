@@ -189,7 +189,7 @@
     - [x] 5. Setting Up Our Code Editor
   - [ ] **02 JavaScript Fundamentals - Part 1**
     - [x] 1. Section Intro
-    - [ ] 2. Hello World!
+    - [x] 2. Hello World!
     - [ ] 3. A Brief Introduction to JavaScript
     - [ ] 4. Linking a JavaScript File
     - [ ] 5. Values and Variables
