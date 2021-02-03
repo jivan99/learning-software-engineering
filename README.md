@@ -191,7 +191,7 @@
     - [x] 1. Section Intro
     - [x] 2. Hello World!
     - [x] 3. A Brief Introduction to JavaScript
-    - [ ] 4. Linking a JavaScript File
+    - [x] 4. Linking a JavaScript File
     - [ ] 5. Values and Variables
     - [ ] 6. Practice Assignments
     - [ ] 7. Data Types
