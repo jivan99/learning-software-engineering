@@ -200,7 +200,7 @@
     - [x] 10. Operator Precedence
     - [x] 11. Coding Challenge #1
     - [x] 12. Strings and Template Literals
-    - [ ] 13. Tacking Decisions: if / else statements
+    - [x] 13. Taking Decisions: if / else statements
     - [ ] 14. Coding Challenge #2
     - [ ] 15. Type Conversion and Coercion
     - [ ] 16. Truthy and Falsy Values
