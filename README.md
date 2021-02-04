@@ -196,7 +196,7 @@
     - [x] 6. Practice Assignments
     - [x] 7. Data Types
     - [x] 8. let, const and var
-    - [ ] 9. Basic Operators
+    - [x] 9. Basic Operators
     - [ ] 10. Operator Precedence
     - [ ] 11. Coding Challenge #1
     - [ ] 12. Strings and Template Literals
