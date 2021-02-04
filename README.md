@@ -193,7 +193,7 @@
     - [x] 3. A Brief Introduction to JavaScript
     - [x] 4. Linking a JavaScript File
     - [x] 5. Values and Variables
-    - [ ] 6. Practice Assignments
+    - [x] 6. Practice Assignments
     - [ ] 7. Data Types
     - [ ] 8. let, const and var
     - [ ] 9. Basic Operators
