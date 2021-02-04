@@ -201,7 +201,7 @@
     - [x] 11. Coding Challenge #1
     - [x] 12. Strings and Template Literals
     - [x] 13. Taking Decisions: if / else statements
-    - [ ] 14. Coding Challenge #2
+    - [x] 14. Coding Challenge #2
     - [ ] 15. Type Conversion and Coercion
     - [ ] 16. Truthy and Falsy Values
     - [ ] 17. Equality Operators: == vs. ===
