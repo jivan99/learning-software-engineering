@@ -198,7 +198,7 @@
     - [x] 8. let, const and var
     - [x] 9. Basic Operators
     - [x] 10. Operator Precedence
-    - [ ] 11. Coding Challenge #1
+    - [x] 11. Coding Challenge #1
     - [ ] 12. Strings and Template Literals
     - [ ] 13. Tacking Decisions: if / else statements
     - [ ] 14. Coding Challenge #2
