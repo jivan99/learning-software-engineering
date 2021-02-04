@@ -194,7 +194,7 @@
     - [x] 4. Linking a JavaScript File
     - [x] 5. Values and Variables
     - [x] 6. Practice Assignments
-    - [ ] 7. Data Types
+    - [x] 7. Data Types
     - [ ] 8. let, const and var
     - [ ] 9. Basic Operators
     - [ ] 10. Operator Precedence
