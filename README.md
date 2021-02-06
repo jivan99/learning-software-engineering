@@ -205,7 +205,7 @@
     - [x] 15. Type Conversion and Coercion
     - [x] 16. Truthy and Falsy Values
     - [x] 17. Equality Operators: == vs. ===
-    - [ ] 18. Boolean Logic
+    - [x] 18. Boolean Logic
     - [ ] 19. Logical Operators
     - [ ] 20. Coding Challenge #3
     - [ ] 21. The switch Statement
