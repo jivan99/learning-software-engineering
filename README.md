@@ -210,7 +210,7 @@
     - [x] 20. Coding Challenge #3
     - [x] 21. The switch Statement
     - [x] 22. Statements and Expressions
-    - [ ] 23. The Conditional (Ternary) Operator
+    - [x] 23. The Conditional (Ternary) Operator
     - [ ] 24. Coding Challenge #4
     - [ ] 25. JavaScript Releases: ES5, ES6+ and ESNext
   - [ ] **03 JavaScript Fundamentals - Part 2**
