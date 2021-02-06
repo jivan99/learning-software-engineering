@@ -206,7 +206,7 @@
     - [x] 16. Truthy and Falsy Values
     - [x] 17. Equality Operators: == vs. ===
     - [x] 18. Boolean Logic
-    - [ ] 19. Logical Operators
+    - [x] 19. Logical Operators
     - [ ] 20. Coding Challenge #3
     - [ ] 21. The switch Statement
     - [ ] 22. Statements and Expressions
