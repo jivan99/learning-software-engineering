@@ -207,7 +207,7 @@
     - [x] 17. Equality Operators: == vs. ===
     - [x] 18. Boolean Logic
     - [x] 19. Logical Operators
-    - [ ] 20. Coding Challenge #3
+    - [x] 20. Coding Challenge #3
     - [ ] 21. The switch Statement
     - [ ] 22. Statements and Expressions
     - [ ] 23. The Conditional (Ternary) Operator
