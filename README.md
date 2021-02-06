@@ -187,7 +187,7 @@
     - [x] 3. Read Before You Start!
     - [x] 4. Migration Guide to v2 + Old Course
     - [x] 5. Setting Up Our Code Editor
-  - [ ] **02 JavaScript Fundamentals - Part 1**
+  - [x] **02 JavaScript Fundamentals - Part 1**
     - [x] 1. Section Intro
     - [x] 2. Hello World!
     - [x] 3. A Brief Introduction to JavaScript
