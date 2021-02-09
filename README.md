@@ -219,7 +219,7 @@
     - [x] 3. Functions
     - [x] 4. Function Declarations vs. Expressions
     - [x] 5. Arrow Functioins
-    - [ ] 6. Functions Calling Other Functions
+    - [x] 6. Functions Calling Other Functions
     - [ ] 7. Reviewing Functions
     - [ ] 8. Coding Challenge #1
     - [ ] 9. Introduction to Arrays
