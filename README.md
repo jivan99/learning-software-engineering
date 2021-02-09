@@ -221,7 +221,7 @@
     - [x] 5. Arrow Functioins
     - [x] 6. Functions Calling Other Functions
     - [x] 7. Reviewing Functions
-    - [ ] 8. Coding Challenge #1
+    - [x] 8. Coding Challenge #1
     - [ ] 9. Introduction to Arrays
     - [ ] 10. Basic Array Operations (Methods)
     - [ ] 11. Coding Challenge #2
