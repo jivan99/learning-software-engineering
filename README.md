@@ -215,7 +215,7 @@
     - [x] 25. JavaScript Releases: ES5, ES6+ and ESNext
   - [ ] **03 JavaScript Fundamentals - Part 2**
     - [x] 1. Section Intro
-    - [ ] 2. Activating Strict Mode
+    - [x] 2. Activating Strict Mode
     - [ ] 3. Functions
     - [ ] 4. Function Declarations vs. Expressions
     - [ ] 5. Arrow Functioins
