@@ -217,7 +217,7 @@
     - [x] 1. Section Intro
     - [x] 2. Activating Strict Mode
     - [x] 3. Functions
-    - [ ] 4. Function Declarations vs. Expressions
+    - [x] 4. Function Declarations vs. Expressions
     - [ ] 5. Arrow Functioins
     - [ ] 6. Functions Calling Other Functions
     - [ ] 7. Reviewing Functions
