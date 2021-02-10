@@ -225,7 +225,7 @@
     - [x] 9. Introduction to Arrays
     - [x] 10. Basic Array Operations (Methods)
     - [x] 11. Coding Challenge #2
-    - [ ] 12. Introduction to Objects
+    - [x] 12. Introduction to Objects
     - [ ] 13. Dot vs. Bracket Notation
     - [ ] 14. Object Methods
     - [ ] 15. Coding Challenge #3
