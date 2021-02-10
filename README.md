@@ -229,7 +229,7 @@
     - [x] 13. Dot vs. Bracket Notation
     - [x] 14. Object Methods
     - [x] 15. Coding Challenge #3
-    - [ ] 16. Iteration: The for Loop
+    - [x] 16. Iteration: The for Loop
     - [ ] 17. Looping Arrays, Breaking and Continuing
     - [ ] 18. Looping Backwards and Loops in Loops
     - [ ] 19. The While Loop
