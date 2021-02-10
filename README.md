@@ -230,7 +230,7 @@
     - [x] 14. Object Methods
     - [x] 15. Coding Challenge #3
     - [x] 16. Iteration: The for Loop
-    - [ ] 17. Looping Arrays, Breaking and Continuing
+    - [x] 17. Looping Arrays, Breaking and Continuing
     - [ ] 18. Looping Backwards and Loops in Loops
     - [ ] 19. The While Loop
     - [ ] 20. Coding Challenge #4
