@@ -223,7 +223,7 @@
     - [x] 7. Reviewing Functions
     - [x] 8. Coding Challenge #1
     - [x] 9. Introduction to Arrays
-    - [ ] 10. Basic Array Operations (Methods)
+    - [x] 10. Basic Array Operations (Methods)
     - [ ] 11. Coding Challenge #2
     - [ ] 12. Introduction to Objects
     - [ ] 13. Dot vs. Bracket Notation
