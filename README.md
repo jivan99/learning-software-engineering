@@ -241,7 +241,7 @@
     - [x] 1. Section Intro
     - [x] 2. Section Roadmap
     - [x] 3. Setting up Prettier and VS Code
-    - [ ] 4. Installing Node.js and Setting Up a Dev Environment
+    - [x] 4. Installing Node.js and Setting Up a Dev Environment
     - [ ] 5. Learning How to Code
     - [ ] 6. How to Think Like a Developer: Become a Problem Solver!
     - [ ] 7. Using Google, StackOverflow and MDN
