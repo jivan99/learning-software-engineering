@@ -244,7 +244,7 @@
     - [x] 4. Installing Node.js and Setting Up a Dev Environment
     - [x] 5. Learning How to Code
     - [x] 6. How to Think Like a Developer: Become a Problem Solver!
-    - [ ] 7. Using Google, StackOverflow and MDN
+    - [x] 7. Using Google, StackOverflow and MDN
     - [ ] 8. Debugging (Fixing Errors)
     - [ ] 9. Debugging with the Console and Breakpoints
     - [ ] 10. Coding Challenge #1
