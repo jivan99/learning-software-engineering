@@ -238,7 +238,7 @@
     - [x] 1. Pathways and Section Roadmaps
     - [x] 2. Course Pathways
   - [ ] **05 Developer Skills & Editor Setup**
-    - [ ] 1. Section Intro
+    - [x] 1. Section Intro
     - [ ] 2. Section Roadmap
     - [ ] 3. Setting up Prettier and VS Code
     - [ ] 4. Installing Node.js and Setting Up a Dev Environment
