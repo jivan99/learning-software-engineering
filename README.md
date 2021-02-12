@@ -234,7 +234,7 @@
     - [x] 18. Looping Backwards and Loops in Loops
     - [x] 19. The While Loop
     - [x] 20. Coding Challenge #4
-  - [ ] **04 How to Navigate This Course**
+  - [x] **04 How to Navigate This Course**
     - [x] 1. Pathways and Section Roadmaps
     - [x] 2. Course Pathways
   - [ ] **05 Developer Skills & Editor Setup**
