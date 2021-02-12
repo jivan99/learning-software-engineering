@@ -236,7 +236,7 @@
     - [x] 20. Coding Challenge #4
   - [ ] **04 How to Navigate This Course**
     - [x] 1. Pathways and Section Roadmaps
-    - [ ] 2. Course Pathways
+    - [x] 2. Course Pathways
   - [ ] **05 Developer Skills & Editor Setup**
     - [ ] 1. Section Intro
     - [ ] 2. Section Roadmap
