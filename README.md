@@ -240,7 +240,7 @@
   - [ ] **05 Developer Skills & Editor Setup**
     - [x] 1. Section Intro
     - [x] 2. Section Roadmap
-    - [ ] 3. Setting up Prettier and VS Code
+    - [x] 3. Setting up Prettier and VS Code
     - [ ] 4. Installing Node.js and Setting Up a Dev Environment
     - [ ] 5. Learning How to Code
     - [ ] 6. How to Think Like a Developer: Become a Problem Solver!
