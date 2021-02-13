@@ -246,7 +246,7 @@
     - [x] 6. How to Think Like a Developer: Become a Problem Solver!
     - [x] 7. Using Google, StackOverflow and MDN
     - [x] 8. Debugging (Fixing Errors)
-    - [ ] 9. Debugging with the Console and Breakpoints
+    - [x] 9. Debugging with the Console and Breakpoints
     - [ ] 10. Coding Challenge #1
   - [ ] **06 [OPTIONAL] HTML & CSS Crash Course**
     - [ ] 1. Section Intro
