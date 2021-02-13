@@ -250,7 +250,7 @@
     - [x] 10. Coding Challenge #1
   - [ ] **06 [OPTIONAL] HTML & CSS Crash Course**
     - [x] 1. Section Intro
-    - [ ] 2. Basic HTML Structure and Elements
+    - [x] 2. Basic HTML Structure and Elements
     - [ ] 3. Attributes, Classes and IDs
     - [ ] 4. Basic Styling with CSS
     - [ ] 5. Introduction to the CSS Box Model
