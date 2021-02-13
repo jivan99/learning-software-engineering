@@ -248,7 +248,7 @@
     - [x] 8. Debugging (Fixing Errors)
     - [x] 9. Debugging with the Console and Breakpoints
     - [x] 10. Coding Challenge #1
-  - [ ] **06 [OPTIONAL] HTML & CSS Crash Course**
+  - [x] **06 [OPTIONAL] HTML & CSS Crash Course**
     - [x] 1. Section Intro
     - [x] 2. Basic HTML Structure and Elements
     - [x] 3. Attributes, Classes and IDs
