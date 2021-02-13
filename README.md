@@ -253,7 +253,7 @@
     - [x] 2. Basic HTML Structure and Elements
     - [x] 3. Attributes, Classes and IDs
     - [x] 4. Basic Styling with CSS
-    - [ ] 5. Introduction to the CSS Box Model
+    - [x] 5. Introduction to the CSS Box Model
   - [ ] **07 JavaScript in the Browser: DOM and Events Fundamentals**
     - [ ] 1. Section Intro
     - [ ] 2. Section Roadmap
