@@ -247,7 +247,7 @@
     - [x] 7. Using Google, StackOverflow and MDN
     - [x] 8. Debugging (Fixing Errors)
     - [x] 9. Debugging with the Console and Breakpoints
-    - [ ] 10. Coding Challenge #1
+    - [x] 10. Coding Challenge #1
   - [ ] **06 [OPTIONAL] HTML & CSS Crash Course**
     - [ ] 1. Section Intro
     - [ ] 2. Basic HTML Structure and Elements
