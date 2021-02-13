@@ -237,7 +237,7 @@
   - [x] **04 How to Navigate This Course**
     - [x] 1. Pathways and Section Roadmaps
     - [x] 2. Course Pathways
-  - [ ] **05 Developer Skills & Editor Setup**
+  - [x] **05 Developer Skills & Editor Setup**
     - [x] 1. Section Intro
     - [x] 2. Section Roadmap
     - [x] 3. Setting up Prettier and VS Code
