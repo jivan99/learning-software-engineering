@@ -258,7 +258,7 @@
     - [x] 1. Section Intro
     - [x] 2. Section Roadmap
     - [x] 3. PROJECT #1: Guess My Number!
-    - [ ] 4. What's the DOM and DOM Manipulation
+    - [x] 4. What's the DOM and DOM Manipulation
     - [ ] 5. Selecting and Manipulating Elements
     - [ ] 6. Handling Click Events
     - [ ] 7. Implementing the Game Logic
