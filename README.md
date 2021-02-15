@@ -260,7 +260,7 @@
     - [x] 3. PROJECT #1: Guess My Number!
     - [x] 4. What's the DOM and DOM Manipulation
     - [x] 5. Selecting and Manipulating Elements
-    - [ ] 6. Handling Click Events
+    - [x] 6. Handling Click Events
     - [ ] 7. Implementing the Game Logic
     - [ ] 8. Manipulating CSS Styles
     - [ ] 9. Coding Challenge #1
