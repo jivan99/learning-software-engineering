@@ -262,7 +262,7 @@
     - [x] 5. Selecting and Manipulating Elements
     - [x] 6. Handling Click Events
     - [x] 7. Implementing the Game Logic
-    - [ ] 8. Manipulating CSS Styles
+    - [x] 8. Manipulating CSS Styles
     - [ ] 9. Coding Challenge #1
     - [ ] 10. Implementing Highscores
     - [ ] 11. Refactoring Our Code: The DRY Principle
