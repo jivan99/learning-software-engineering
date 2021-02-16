@@ -264,7 +264,7 @@
     - [x] 7. Implementing the Game Logic
     - [x] 8. Manipulating CSS Styles
     - [x] 9. Coding Challenge #1
-    - [ ] 10. Implementing Highscores
+    - [x] 10. Implementing Highscores
     - [ ] 11. Refactoring Our Code: The DRY Principle
     - [ ] 12. PROJECT #2: Modal Window
     - [ ] 13. Working With Classes
