@@ -263,7 +263,7 @@
     - [x] 6. Handling Click Events
     - [x] 7. Implementing the Game Logic
     - [x] 8. Manipulating CSS Styles
-    - [ ] 9. Coding Challenge #1
+    - [x] 9. Coding Challenge #1
     - [ ] 10. Implementing Highscores
     - [ ] 11. Refactoring Our Code: The DRY Principle
     - [ ] 12. PROJECT #2: Modal Window
