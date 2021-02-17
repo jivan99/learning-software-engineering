@@ -270,7 +270,7 @@
     - [x] 13. Working With Classes
     - [x] 14. Handling an "Esc" Keypress Event
     - [x] 15. PROJECT #3: Pig Game
-    - [ ] 16. Rolling the Dice
+    - [x] 16. Rolling the Dice
     - [ ] 17. Switching the Active Player
     - [ ] 18. Holding Current Score
     - [ ] 19. Resetting the Game 
