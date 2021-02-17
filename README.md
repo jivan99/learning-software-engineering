@@ -254,7 +254,7 @@
     - [x] 3. Attributes, Classes and IDs
     - [x] 4. Basic Styling with CSS
     - [x] 5. Introduction to the CSS Box Model
-  - [ ] **07 JavaScript in the Browser: DOM and Events Fundamentals**
+  - [x] **07 JavaScript in the Browser: DOM and Events Fundamentals**
     - [x] 1. Section Intro
     - [x] 2. Section Roadmap
     - [x] 3. PROJECT #1: Guess My Number!
