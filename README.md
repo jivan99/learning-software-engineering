@@ -266,7 +266,7 @@
     - [x] 9. Coding Challenge #1
     - [x] 10. Implementing Highscores
     - [x] 11. Refactoring Our Code: The DRY Principle
-    - [ ] 12. PROJECT #2: Modal Window
+    - [x] 12. PROJECT #2: Modal Window
     - [ ] 13. Working With Classes
     - [ ] 14. Handling an "Esc" Keypress Event
     - [ ] 15. PROJECT #3: Pig Game
