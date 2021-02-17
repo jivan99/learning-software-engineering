@@ -273,7 +273,7 @@
     - [x] 16. Rolling the Dice
     - [x] 17. Switching the Active Player
     - [x] 18. Holding Current Score
-    - [ ] 19. Resetting the Game 
+    - [x] 19. Resetting the Game 
   - [ ] **08 How JavaScript Works Behind the Scenes**
     - [ ] 1. Section Intro
     - [ ] 2. Section Roadmap
