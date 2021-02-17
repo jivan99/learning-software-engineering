@@ -267,7 +267,7 @@
     - [x] 10. Implementing Highscores
     - [x] 11. Refactoring Our Code: The DRY Principle
     - [x] 12. PROJECT #2: Modal Window
-    - [ ] 13. Working With Classes
+    - [x] 13. Working With Classes
     - [ ] 14. Handling an "Esc" Keypress Event
     - [ ] 15. PROJECT #3: Pig Game
     - [ ] 16. Rolling the Dice
