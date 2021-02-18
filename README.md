@@ -278,7 +278,7 @@
     - [x] 1. Section Intro
     - [x] 2. Section Roadmap
     - [x] 3. An High-Level Overview of JavaScript
-    - [ ] 4. The JavaScript Engine and Runtime
+    - [x] 4. The JavaScript Engine and Runtime
     - [ ] 5. Execution Contexts and The Call Stack
     - [ ] 6. Scope and The Scope Chain
     - [ ] 7. Scoping in Practice
