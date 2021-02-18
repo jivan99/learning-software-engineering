@@ -277,7 +277,7 @@
   - [ ] **08 How JavaScript Works Behind the Scenes**
     - [x] 1. Section Intro
     - [x] 2. Section Roadmap
-    - [ ] 3. An High-Level Overview of JavaScript
+    - [x] 3. An High-Level Overview of JavaScript
     - [ ] 4. The JavaScript Engine and Runtime
     - [ ] 5. Execution Contexts and The Call Stack
     - [ ] 6. Scope and The Scope Chain
