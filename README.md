@@ -275,7 +275,7 @@
     - [x] 18. Holding Current Score
     - [x] 19. Resetting the Game 
   - [ ] **08 How JavaScript Works Behind the Scenes**
-    - [ ] 1. Section Intro
+    - [x] 1. Section Intro
     - [ ] 2. Section Roadmap
     - [ ] 3. An High-Level Overview of JavaScript
     - [ ] 4. The JavaScript Engine and Runtime
