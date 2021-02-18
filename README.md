@@ -276,7 +276,7 @@
     - [x] 19. Resetting the Game 
   - [ ] **08 How JavaScript Works Behind the Scenes**
     - [x] 1. Section Intro
-    - [ ] 2. Section Roadmap
+    - [x] 2. Section Roadmap
     - [ ] 3. An High-Level Overview of JavaScript
     - [ ] 4. The JavaScript Engine and Runtime
     - [ ] 5. Execution Contexts and The Call Stack
