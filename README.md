@@ -280,7 +280,7 @@
     - [x] 3. An High-Level Overview of JavaScript
     - [x] 4. The JavaScript Engine and Runtime
     - [x] 5. Execution Contexts and The Call Stack
-    - [ ] 6. Scope and The Scope Chain
+    - [x] 6. Scope and The Scope Chain
     - [ ] 7. Scoping in Practice
     - [ ] 8. Variable Environment: Hoisting and The TDZ
     - [ ] 9. Hoisting and TDZ in Practice
