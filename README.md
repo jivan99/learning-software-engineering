@@ -283,7 +283,7 @@
     - [x] 6. Scope and The Scope Chain
     - [x] 7. Scoping in Practice
     - [x] 8. Variable Environment: Hoisting and The TDZ
-    - [ ] 9. Hoisting and TDZ in Practice
+    - [x] 9. Hoisting and TDZ in Practice
     - [ ] 10. The this Keyword
     - [ ] 11. The this Keyword in Practice
     - [ ] 12. Regular Functions vs. Arrow Functions
