@@ -282,7 +282,7 @@
     - [x] 5. Execution Contexts and The Call Stack
     - [x] 6. Scope and The Scope Chain
     - [x] 7. Scoping in Practice
-    - [ ] 8. Variable Environment: Hoisting and The TDZ
+    - [x] 8. Variable Environment: Hoisting and The TDZ
     - [ ] 9. Hoisting and TDZ in Practice
     - [ ] 10. The this Keyword
     - [ ] 11. The this Keyword in Practice
