@@ -285,7 +285,7 @@
     - [x] 8. Variable Environment: Hoisting and The TDZ
     - [x] 9. Hoisting and TDZ in Practice
     - [x] 10. The this Keyword
-    - [ ] 11. The this Keyword in Practice
+    - [x] 11. The this Keyword in Practice
     - [ ] 12. Regular Functions vs. Arrow Functions
     - [ ] 13. Primitives vs. Objects (Primitive vs. Reference Types)
     - [ ] 14. Primitives vs. Objects in Practice
