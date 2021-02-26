@@ -514,7 +514,6 @@
 - [ ] [Frontendmasters: JavaScript: The Hard Parts of Object Oriented JavaScript](https://frontendmasters.com/courses/object-oriented-js/)
 - [ ] [Frontendmasters: Hard Parts: Functional JS Foundations](https://frontendmasters.com/courses/functional-js-fundamentals/)
 - [ ] [Frontendmasters: Hardcore Functional Architecture Patterns in JavaScript](https://frontendmasters.com/courses/hardcore-js-patterns/)
-- [ ] [Frontendmasters: Hardcore Functional Architecture Patterns in JavaScript](https://frontendmasters.com/courses/hardcore-js-patterns/)
 - [ ] [Frontendmasters: Hardcore Functional Programming in JavaScript, v2](https://frontendmasters.com/courses/hardcore-js-v2/)
 
 #### Learn Cloud Computing
