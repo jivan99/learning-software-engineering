@@ -288,7 +288,7 @@
     - [x] 11. The this Keyword in Practice
     - [x] 12. Regular Functions vs. Arrow Functions
     - [x] 13. Primitives vs. Objects (Primitive vs. Reference Types)
-    - [ ] 14. Primitives vs. Objects in Practice
+    - [x] 14. Primitives vs. Objects in Practice
   - [ ] **09 Data Structures, Modern Operators and Strings**
     - [ ] 1. Section Intro
     - [ ] 2. Section Roadmap
