@@ -274,7 +274,7 @@
     - [x] 17. Switching the Active Player
     - [x] 18. Holding Current Score
     - [x] 19. Resetting the Game 
-  - [ ] **08 How JavaScript Works Behind the Scenes**
+  - [x] **08 How JavaScript Works Behind the Scenes**
     - [x] 1. Section Intro
     - [x] 2. Section Roadmap
     - [x] 3. An High-Level Overview of JavaScript
