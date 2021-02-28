@@ -650,6 +650,13 @@
 - [ ] [Frontendmasters: Hardcore Functional Architecture Patterns in JavaScript](https://frontendmasters.com/courses/hardcore-js-patterns/)
 - [ ] [Frontendmasters: Hardcore Functional Programming in JavaScript, v2](https://frontendmasters.com/courses/hardcore-js-v2/)
 
+#### Be Proficient in TypeScript
+
+- [ ] [Udemy: Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript/)
+- [ ] [Frontendmasters: JavaScript and TypeScript Monorepos](https://frontendmasters.com/courses/monorepos/)
+- [ ] [Frontendmasters: Production-Grade TypeScript](https://frontendmasters.com/courses/production-typescript/)
+- [ ] [Frontendmasters: Enterprise Architecture Patterns](https://frontendmasters.com/courses/enterprise-patterns/)
+
 #### Learn Cloud Computing
 
 - [ ] [Frontendmasters: AWS for Front-End Engineers (ft. S3, Cloudfront & Route 53)](https://frontendmasters.com/courses/aws-frontend-react/)
