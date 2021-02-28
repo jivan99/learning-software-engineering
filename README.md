@@ -176,9 +176,9 @@
 #### Be Proficient in CSS
 
 - [ ] [Udemy: Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/)
-    - [ ] **01 Welcome, Welcome, Welcome!**
+    - [x] **01 Welcome, Welcome, Welcome!**
       - [x] 1. Welcome to the Most Advanced CSS Course Ever!
-      - [ ] 2. Setting up Our Tools
+      - [x] 2. Setting up Our Tools
     - [ ] **02 Natours Project - Setup and First Steps (Part 1)**
       - [ ] 1. Section Intro
       - [ ] 2. Project Overview
