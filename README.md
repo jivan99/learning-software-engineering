@@ -184,7 +184,7 @@
       - [x] 2. Project Overview
       - [x] 3. Building the Header - Part 1
       - [x] 4. Building the Header - Part 2
-      - [ ] 5. Creating Cool CSS Animations
+      - [x] 5. Creating Cool CSS Animations
       - [ ] 6. Building a Complex Animated Button - Part 1
       - [ ] 7. Building a Complex Animated Button - Part 2
     - [ ] **03 How CSS Works: A Look Behind the Scenes**
