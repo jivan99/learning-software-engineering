@@ -179,14 +179,14 @@
     - [x] **01 Welcome, Welcome, Welcome!**
       - [x] 1. Welcome to the Most Advanced CSS Course Ever!
       - [x] 2. Setting up Our Tools
-    - [ ] **02 Natours Project - Setup and First Steps (Part 1)**
+    - [x] **02 Natours Project - Setup and First Steps (Part 1)**
       - [x] 1. Section Intro
       - [x] 2. Project Overview
       - [x] 3. Building the Header - Part 1
       - [x] 4. Building the Header - Part 2
       - [x] 5. Creating Cool CSS Animations
       - [x] 6. Building a Complex Animated Button - Part 1
-      - [ ] 7. Building a Complex Animated Button - Part 2
+      - [x] 7. Building a Complex Animated Button - Part 2
     - [ ] **03 How CSS Works: A Look Behind the Scenes**
       - [ ] 1. Section Intro
       - [ ] 2. Three Pillars of Writing Good HTML and CSS (Never Forget Them!)
