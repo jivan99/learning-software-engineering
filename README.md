@@ -182,7 +182,7 @@
     - [ ] **02 Natours Project - Setup and First Steps (Part 1)**
       - [x] 1. Section Intro
       - [x] 2. Project Overview
-      - [ ] 3. Building the Header - Part 1
+      - [x] 3. Building the Header - Part 1
       - [ ] 4. Building the Header - Part 2
       - [ ] 5. Creating Cool CSS Animations
       - [ ] 6. Building a Complex Animated Button - Part 1
