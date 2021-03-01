@@ -181,7 +181,7 @@
       - [x] 2. Setting up Our Tools
     - [ ] **02 Natours Project - Setup and First Steps (Part 1)**
       - [x] 1. Section Intro
-      - [ ] 2. Project Overview
+      - [x] 2. Project Overview
       - [ ] 3. Building the Header - Part 1
       - [ ] 4. Building the Header - Part 2
       - [ ] 5. Creating Cool CSS Animations
