@@ -196,7 +196,7 @@
       - [x] 6. How CSS is Parsed, Part 2: Value Processing
       - [x] 7. How CSS is Parsed, Part 3: Inheritance
       - [x] 8. Converting px to rem: An Effective Workflow
-      - [ ] 9. How CSS Renders a Website: The Visual Formatting Model
+      - [x] 9. How CSS Renders a Website: The Visual Formatting Model
       - [ ] 10. CSS Architecture, Components and BEM
       - [ ] 11. Implementing BEM in the Natours Project
     - [ ] **04 Introduction to Sass and NPM**
