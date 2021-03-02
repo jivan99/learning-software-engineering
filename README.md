@@ -192,7 +192,7 @@
       - [x] 2. Three Pillars of Writing Good HTML and CSS (Never Forget Them!)
       - [x] 3. How CSS Works Behind the Scenes: An Overview
       - [x] 4. How CSS is Parsed, Part 1: The Cascade and Specificity
-      - [ ] 5. Specificity in Practice
+      - [x] 5. Specificity in Practice
       - [ ] 6. How CSS is Parsed, Part 2: Value Processing
       - [ ] 7. How CSS is Parsed, Part 3: Inheritance
       - [ ] 8. Converting px to rem: An Effective Workflow
