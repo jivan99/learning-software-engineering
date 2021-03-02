@@ -193,7 +193,7 @@
       - [x] 3. How CSS Works Behind the Scenes: An Overview
       - [x] 4. How CSS is Parsed, Part 1: The Cascade and Specificity
       - [x] 5. Specificity in Practice
-      - [ ] 6. How CSS is Parsed, Part 2: Value Processing
+      - [x] 6. How CSS is Parsed, Part 2: Value Processing
       - [ ] 7. How CSS is Parsed, Part 3: Inheritance
       - [ ] 8. Converting px to rem: An Effective Workflow
       - [ ] 9. How CSS Renders a Website: The Visual Formatting Model
