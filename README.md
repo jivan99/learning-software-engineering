@@ -188,7 +188,7 @@
       - [x] 6. Building a Complex Animated Button - Part 1
       - [x] 7. Building a Complex Animated Button - Part 2
     - [ ] **03 How CSS Works: A Look Behind the Scenes**
-      - [ ] 1. Section Intro
+      - [x] 1. Section Intro
       - [ ] 2. Three Pillars of Writing Good HTML and CSS (Never Forget Them!)
       - [ ] 3. How CSS Works Behind the Scenes: An Overview
       - [ ] 4. How CSS is Parsed, Part 1: The Cascade and Specificity
