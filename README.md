@@ -200,7 +200,7 @@
       - [x] 10. CSS Architecture, Components and BEM
       - [x] 11. Implementing BEM in the Natours Project
     - [ ] **04 Introduction to Sass and NPM**
-      - [ ] 1. Section Intro
+      - [x] 1. Section Intro
       - [ ] 2. What is Sass?
       - [ ] 3. First Steps with Sass: Variables and Nesting
       - [ ] 4. First Steps with Sass: Mixins, Extends and Functions
