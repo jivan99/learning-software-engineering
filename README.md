@@ -187,7 +187,7 @@
       - [x] 5. Creating Cool CSS Animations
       - [x] 6. Building a Complex Animated Button - Part 1
       - [x] 7. Building a Complex Animated Button - Part 2
-    - [ ] **03 How CSS Works: A Look Behind the Scenes**
+    - [x] **03 How CSS Works: A Look Behind the Scenes**
       - [x] 1. Section Intro
       - [x] 2. Three Pillars of Writing Good HTML and CSS (Never Forget Them!)
       - [x] 3. How CSS Works Behind the Scenes: An Overview
@@ -198,7 +198,7 @@
       - [x] 8. Converting px to rem: An Effective Workflow
       - [x] 9. How CSS Renders a Website: The Visual Formatting Model
       - [x] 10. CSS Architecture, Components and BEM
-      - [ ] 11. Implementing BEM in the Natours Project
+      - [x] 11. Implementing BEM in the Natours Project
     - [ ] **04 Introduction to Sass and NPM**
       - [ ] 1. Section Intro
       - [ ] 2. What is Sass?
