@@ -204,7 +204,7 @@
       - [x] 2. What is Sass?
       - [x] 3. First Steps with Sass: Variables and Nesting
       - [x] 4. First Steps with Sass: Mixins, Extends and Functions
-      - [ ] 5. A Brief Introduction to the Command Line
+      - [x] 5. A Brief Introduction to the Command Line
       - [ ] 6. NPM Packages: Let's Install Sass Locally
       - [ ] 7. NPM Scripts: Let's Write and Compile Sass Locally
       - [ ] 8. The Easiest Way of Automatically Reloading a Page on File Changes
