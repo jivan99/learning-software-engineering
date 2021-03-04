@@ -202,7 +202,7 @@
     - [ ] **04 Introduction to Sass and NPM**
       - [x] 1. Section Intro
       - [x] 2. What is Sass?
-      - [ ] 3. First Steps with Sass: Variables and Nesting
+      - [x] 3. First Steps with Sass: Variables and Nesting
       - [ ] 4. First Steps with Sass: Mixins, Extends and Functions
       - [ ] 5. A Brief Introduction to the Command Line
       - [ ] 6. NPM Packages: Let's Install Sass Locally
