@@ -201,7 +201,7 @@
       - [x] 11. Implementing BEM in the Natours Project
     - [ ] **04 Introduction to Sass and NPM**
       - [x] 1. Section Intro
-      - [ ] 2. What is Sass?
+      - [x] 2. What is Sass?
       - [ ] 3. First Steps with Sass: Variables and Nesting
       - [ ] 4. First Steps with Sass: Mixins, Extends and Functions
       - [ ] 5. A Brief Introduction to the Command Line
