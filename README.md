@@ -199,7 +199,7 @@
       - [x] 9. How CSS Renders a Website: The Visual Formatting Model
       - [x] 10. CSS Architecture, Components and BEM
       - [x] 11. Implementing BEM in the Natours Project
-    - [ ] **04 Introduction to Sass and NPM**
+    - [x] **04 Introduction to Sass and NPM**
       - [x] 1. Section Intro
       - [x] 2. What is Sass?
       - [x] 3. First Steps with Sass: Variables and Nesting
@@ -207,7 +207,7 @@
       - [x] 5. A Brief Introduction to the Command Line
       - [x] 6. NPM Packages: Let's Install Sass Locally
       - [x] 7. NPM Scripts: Let's Write and Compile Sass Locally
-      - [ ] 8. The Easiest Way of Automatically Reloading a Page on File Changes
+      - [x] 8. The Easiest Way of Automatically Reloading a Page on File Changes
     - [ ] **05 Natours Project - Using Advanced CSS and Sass (Part 2)**
       - [ ] 1. Section Intro
       - [ ] 2. Converting Our CSS Code to Sass: Variables and Nesting
