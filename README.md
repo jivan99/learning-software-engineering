@@ -209,7 +209,7 @@
       - [x] 7. NPM Scripts: Let's Write and Compile Sass Locally
       - [x] 8. The Easiest Way of Automatically Reloading a Page on File Changes
     - [ ] **05 Natours Project - Using Advanced CSS and Sass (Part 2)**
-      - [ ] 1. Section Intro
+      - [x] 1. Section Intro
       - [ ] 2. Converting Our CSS Code to Sass: Variables and Nesting
       - [ ] 3. Implementing the 7-1 CSS Architecture with Sass
       - [ ] 4. Review: Basic Principles of Responsive Design and Layout Types
