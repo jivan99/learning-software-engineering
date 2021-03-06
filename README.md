@@ -213,7 +213,7 @@
       - [x] 2. Converting Our CSS Code to Sass: Variables and Nesting
       - [x] 3. Implementing the 7-1 CSS Architecture with Sass
       - [x] 4. Review: Basic Principles of Responsive Design and Layout Types
-      - [ ] 5. Building a Custom Grid with Floats
+      - [x] 5. Building a Custom Grid with Floats
       - [ ] 6. Building the About Section - Part 1
       - [ ] 7. Building the About Section - Part 2
       - [ ] 8. Building the About Section - Part 3
