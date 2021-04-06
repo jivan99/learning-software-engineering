@@ -123,31 +123,31 @@
       - [x] 6. NPM Packages: Let's Install Sass Locally
       - [x] 7. NPM Scripts: Let's Write and Compile Sass Locally
       - [x] 8. The Easiest Way of Automatically Reloading a Page on File Changes
-    - [ ] **05 Natours Project - Using Advanced CSS and Sass (Part 2)**
+    - [x] **05 Natours Project - Using Advanced CSS and Sass (Part 2)**
       - [x] 1. Section Intro
       - [x] 2. Converting Our CSS Code to Sass: Variables and Nesting
       - [x] 3. Implementing the 7-1 CSS Architecture with Sass
       - [x] 4. Review: Basic Principles of Responsive Design and Layout Types
       - [x] 5. Building a Custom Grid with Floats
-      - [ ] 6. Building the About Section - Part 1
-      - [ ] 7. Building the About Section - Part 2
-      - [ ] 8. Building the About Section - Part 3
-      - [ ] 9. Building the Features Section
-      - [ ] 10. Building the Tours Section - Part 1
-      - [ ] 11. Building the Tours Section - Part 2
-      - [ ] 12. Building the Tours Section - Part 3
-      - [ ] 13. Building the Stories Section - Part 1
-      - [ ] 14. Building the Stories Section - Part 2
-      - [ ] 15. Building the Stories Section - Part 3
-      - [ ] 16. Building the Booking Section - Part 1
-      - [ ] 17. Building the Booking Section - Part 2
-      - [ ] 18. Building the Booking Section - Part 3
-      - [ ] 19. Building the Footer
-      - [ ] 20. Building the Navigation - Part 1
-      - [ ] 21. Building the Navigation - Part 2
-      - [ ] 22. Building the Navigation - Part 3
-      - [ ] 23. Building a Pure CSS Popup - Part 1
-      - [ ] 24. Building a Pure CSs Popup - Part 2
+      - [x] 6. Building the About Section - Part 1
+      - [x] 7. Building the About Section - Part 2
+      - [x] 8. Building the About Section - Part 3
+      - [x] 9. Building the Features Section
+      - [x] 10. Building the Tours Section - Part 1
+      - [x] 11. Building the Tours Section - Part 2
+      - [x] 12. Building the Tours Section - Part 3
+      - [x] 13. Building the Stories Section - Part 1
+      - [x] 14. Building the Stories Section - Part 2
+      - [x] 15. Building the Stories Section - Part 3
+      - [x] 16. Building the Booking Section - Part 1
+      - [x] 17. Building the Booking Section - Part 2
+      - [x] 18. Building the Booking Section - Part 3
+      - [x] 19. Building the Footer
+      - [x] 20. Building the Navigation - Part 1
+      - [x] 21. Building the Navigation - Part 2
+      - [x] 22. Building the Navigation - Part 3
+      - [x] 23. Building a Pure CSS Popup - Part 1
+      - [x] 24. Building a Pure CSs Popup - Part 2
     - [ ] **06 Natours Project - Advanced Responsive Design (Part 3)**
       - [ ] 1. Section Intro
       - [ ] 2. Mobile-First vs Desktop-First and Breakpoints
