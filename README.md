@@ -162,29 +162,29 @@
       - [x] 11. Testing for Browser Support with @supports
       - [x] 12. Setting up a Simple Build Process with NPM Scripts
       - [x] 13. Wrapping up the Naoutrs Project: Final Considerations
-    - [ ] **07 Trillo Project - Master Flexbox!**
-      - [ ] 1. Section Intro
-      - [ ] 2. Why Flexbox: An Overview of the Philosophy Behind Flexbox
-      - [ ] 3. A Basic Intro to Flexbox: The Flex Container
-      - [ ] 4. A Basic Intro to Flexbox: Flex Items
-      - [ ] 5. A Basic Intro to Flexbox: Adding More Flex Items
-      - [ ] 6. Project Overview
-      - [ ] 7. Defining Project Settings and Custom Properties
-      - [ ] 8. Building the Overall Layout
-      - [ ] 9. Building the Header - Part 1
-      - [ ] 10. Building the Header - Part 2
-      - [ ] 11. Building the Header - Part 3
-      - [ ] 12. Building the Navigation - Part 1
-      - [ ] 13. Building the Navigation - Part 2
-      - [ ] 14. Building the Hotel Overview - Part 1
-      - [ ] 15. Building the Hotel Overview - Part 2
-      - [ ] 16. Building the Description Section - Part 1
-      - [ ] 17. Building the Description Section - Part 2
-      - [ ] 18. Building the User Reviews Section
-      - [ ] 19. Building the CTA Section
-      - [ ] 20. Writing Media Queries - Part 1
-      - [ ] 21. Writing Media Queries - Part 2
-      - [ ] 22. Wrapping up the Trillo Project: Final Considerations
+    - [x] **07 Trillo Project - Master Flexbox!**
+      - [x] 1. Section Intro
+      - [x] 2. Why Flexbox: An Overview of the Philosophy Behind Flexbox
+      - [x] 3. A Basic Intro to Flexbox: The Flex Container
+      - [x] 4. A Basic Intro to Flexbox: Flex Items
+      - [x] 5. A Basic Intro to Flexbox: Adding More Flex Items
+      - [x] 6. Project Overview
+      - [x] 7. Defining Project Settings and Custom Properties
+      - [x] 8. Building the Overall Layout
+      - [x] 9. Building the Header - Part 1
+      - [x] 10. Building the Header - Part 2
+      - [x] 11. Building the Header - Part 3
+      - [x] 12. Building the Navigation - Part 1
+      - [x] 13. Building the Navigation - Part 2
+      - [x] 14. Building the Hotel Overview - Part 1
+      - [x] 15. Building the Hotel Overview - Part 2
+      - [x] 16. Building the Description Section - Part 1
+      - [x] 17. Building the Description Section - Part 2
+      - [x] 18. Building the User Reviews Section
+      - [x] 19. Building the CTA Section
+      - [x] 20. Writing Media Queries - Part 1
+      - [x] 21. Writing Media Queries - Part 2
+      - [x] 22. Wrapping up the Trillo Project: Final Considerations
     - [ ] **08 A Quick Introduction to CSS Grid Layouts**
       - [ ] 1. Section Intro
       - [ ] 2. Why CSS Grid: A Whole New Mindset
