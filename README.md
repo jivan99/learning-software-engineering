@@ -148,20 +148,20 @@
       - [x] 22. Building the Navigation - Part 3
       - [x] 23. Building a Pure CSS Popup - Part 1
       - [x] 24. Building a Pure CSs Popup - Part 2
-    - [ ] **06 Natours Project - Advanced Responsive Design (Part 3)**
-      - [ ] 1. Section Intro
-      - [ ] 2. Mobile-First vs Desktop-First and Breakpoints
-      - [ ] 3. Let's Use the Power of Sass Mixins to Write Media Queries
-      - [ ] 4. Writing Media Queries - Base, Typography and Layout
-      - [ ] 5. Writing Media Queries - Layout, About and Features Sections
-      - [ ] 6. Writing Media Queries - Tours, Stories and Booking Sections
-      - [ ] 7. An Overview of Responsive Images
-      - [ ] 8. Responsive Images in HTML - Art Direction and Density Switching
-      - [ ] 9. Responsive Images in HTML - Density and Resolution Switching
-      - [ ] 10. Responsive Images in CSS
-      - [ ] 11. Testing for Browser Support with @supports
-      - [ ] 12. Setting up a Simple Build Process with NPM Scripts
-      - [ ] 13. Wrapping up the Naoutrs Project: Final Considerations
+    - [x] **06 Natours Project - Advanced Responsive Design (Part 3)**
+      - [x] 1. Section Intro
+      - [x] 2. Mobile-First vs Desktop-First and Breakpoints
+      - [x] 3. Let's Use the Power of Sass Mixins to Write Media Queries
+      - [x] 4. Writing Media Queries - Base, Typography and Layout
+      - [x] 5. Writing Media Queries - Layout, About and Features Sections
+      - [x] 6. Writing Media Queries - Tours, Stories and Booking Sections
+      - [x] 7. An Overview of Responsive Images
+      - [x] 8. Responsive Images in HTML - Art Direction and Density Switching
+      - [x] 9. Responsive Images in HTML - Density and Resolution Switching
+      - [x] 10. Responsive Images in CSS
+      - [x] 11. Testing for Browser Support with @supports
+      - [x] 12. Setting up a Simple Build Process with NPM Scripts
+      - [x] 13. Wrapping up the Naoutrs Project: Final Considerations
     - [ ] **07 Trillo Project - Master Flexbox!**
       - [ ] 1. Section Intro
       - [ ] 2. Why Flexbox: An Overview of the Philosophy Behind Flexbox
