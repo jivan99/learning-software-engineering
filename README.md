@@ -185,23 +185,23 @@
       - [x] 20. Writing Media Queries - Part 1
       - [x] 21. Writing Media Queries - Part 2
       - [x] 22. Wrapping up the Trillo Project: Final Considerations
-    - [ ] **08 A Quick Introduction to CSS Grid Layouts**
-      - [ ] 1. Section Intro
-      - [ ] 2. Why CSS Grid: A Whole New Mindset
-      - [ ] 3. Quick Setup for This Section
-      - [ ] 4. Creating Our First Grid
-      - [ ] 5. Getting Familiar with the fr Unit
-      - [ ] 6. Positioning Grid Items
-      - [ ] 7. Spanning Grid Items
-      - [ ] 8. Grid Challenge
-      - [ ] 9. Grid Challenge: A Basic Solution
-      - [ ] 10. Naming Grid Lines
-      - [ ] 11. Naming Grid Areas
-      - [ ] 12. Implicit Grids vs. Explicit Grids
-      - [ ] 13. Aligning Grid Items
-      - [ ] 14. Aligning Tracks
-      - [ ] 15. Using min-content, max-content and the minmax() function
-      - [ ] 16. Responsive Layouts with auto-fit and auto-fill
+    - [x] **08 A Quick Introduction to CSS Grid Layouts**
+      - [x] 1. Section Intro
+      - [x] 2. Why CSS Grid: A Whole New Mindset
+      - [x] 3. Quick Setup for This Section
+      - [x] 4. Creating Our First Grid
+      - [x] 5. Getting Familiar with the fr Unit
+      - [x] 6. Positioning Grid Items
+      - [x] 7. Spanning Grid Items
+      - [x] 8. Grid Challenge
+      - [x] 9. Grid Challenge: A Basic Solution
+      - [x] 10. Naming Grid Lines
+      - [x] 11. Naming Grid Areas
+      - [x] 12. Implicit Grids vs. Explicit Grids
+      - [x] 13. Aligning Grid Items
+      - [x] 14. Aligning Tracks
+      - [x] 15. Using min-content, max-content and the minmax() function
+      - [x] 16. Responsive Layouts with auto-fit and auto-fill
     - [ ] **09 Nexter Project - Master CSS Grid Layouts**
       - [ ] 1. Project Overview and Setup
       - [ ] 2. Building the Overall Layout - Part 1
