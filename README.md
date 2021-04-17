@@ -223,8 +223,8 @@
       - [x] 18. Writing Media Queries - Part 2
       - [x] 19. Browser Support for CSS Grid
       - [x] 20. Wrapping up the Nexter Project: Final Considerations
-    - [ ] **10 That's It, Everyone!**
-      - [ ] 1. See You Next Time, CSS Master!
+    - [x] **10 That's It, Everyone!**
+      - [x] 1. See You Next Time, CSS Master!
 - [ ] [Book: CSS Secrets](https://www.oreilly.com/library/view/css-secrets/9781449372736/)
 
 #### Be Proficient in JS
