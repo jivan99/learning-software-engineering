@@ -202,27 +202,27 @@
       - [x] 14. Aligning Tracks
       - [x] 15. Using min-content, max-content and the minmax() function
       - [x] 16. Responsive Layouts with auto-fit and auto-fill
-    - [ ] **09 Nexter Project - Master CSS Grid Layouts**
-      - [ ] 1. Project Overview and Setup
-      - [ ] 2. Building the Overall Layout - Part 1
-      - [ ] 3. Building the Overall Layout - Part 2
-      - [ ] 4. Building the Features Section - Part 1
-      - [ ] 5. Building the Features Section - Part 2
-      - [ ] 6. Building the Story Section - Part 1
-      - [ ] 7. Building the Story Section - Part 2
-      - [ ] 8. Building the Homes Section - Part 1
-      - [ ] 9. Building the Homes Section - Part 2
-      - [ ] 10. Building the Gallery - Part 1
-      - [ ] 11. Building the Gallery - Part 2
-      - [ ] 12. Building the Footer
-      - [ ] 13. Building the Sidebar
-      - [ ] 14. Building the Header - Part 1
-      - [ ] 15. Building the Header - Part 2
-      - [ ] 16. Building the Realtors Section
-      - [ ] 17. Writing Media Queries - Part 1
-      - [ ] 18. Writing Media Queries - Part 2
-      - [ ] 19. Browser Support for CSS Grid
-      - [ ] 20. Wrapping up the Nexter Project: Final Considerations
+    - [x] **09 Nexter Project - Master CSS Grid Layouts**
+      - [x] 1. Project Overview and Setup
+      - [x] 2. Building the Overall Layout - Part 1
+      - [x] 3. Building the Overall Layout - Part 2
+      - [x] 4. Building the Features Section - Part 1
+      - [x] 5. Building the Features Section - Part 2
+      - [x] 6. Building the Story Section - Part 1
+      - [x] 7. Building the Story Section - Part 2
+      - [x] 8. Building the Homes Section - Part 1
+      - [x] 9. Building the Homes Section - Part 2
+      - [x] 10. Building the Gallery - Part 1
+      - [x] 11. Building the Gallery - Part 2
+      - [x] 12. Building the Footer
+      - [x] 13. Building the Sidebar
+      - [x] 14. Building the Header - Part 1
+      - [x] 15. Building the Header - Part 2
+      - [x] 16. Building the Realtors Section
+      - [x] 17. Writing Media Queries - Part 1
+      - [x] 18. Writing Media Queries - Part 2
+      - [x] 19. Browser Support for CSS Grid
+      - [x] 20. Wrapping up the Nexter Project: Final Considerations
     - [ ] **10 That's It, Everyone!**
       - [ ] 1. See You Next Time, CSS Master!
 - [ ] [Book: CSS Secrets](https://www.oreilly.com/library/view/css-secrets/9781449372736/)
