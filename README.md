@@ -206,7 +206,7 @@
     - [x] 14. Primitives vs. Objects in Practice
   - [ ] **09 Data Structures, Modern Operators and Strings**
     - [x] 1. Section Intro
-    - [ ] 2. Section Roadmap
+    - [x] 2. Section Roadmap
     - [ ] 3. Destructuring Arrays
     - [ ] 4. Destructuring Objects
     - [ ] 5. The Spread Operator (...)
