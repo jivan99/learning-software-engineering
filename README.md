@@ -208,7 +208,7 @@
     - [x] 1. Section Intro
     - [x] 2. Section Roadmap
     - [x] 3. Destructuring Arrays
-    - [ ] 4. Destructuring Objects
+    - [x] 4. Destructuring Objects
     - [ ] 5. The Spread Operator (...)
     - [ ] 6. Rest Pattern and Parameters
     - [ ] 7. Short Circuiting (&& and ||)
