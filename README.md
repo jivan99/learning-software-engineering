@@ -205,7 +205,7 @@
     - [x] 13. Primitives vs. Objects (Primitive vs. Reference Types)
     - [x] 14. Primitives vs. Objects in Practice
   - [ ] **09 Data Structures, Modern Operators and Strings**
-    - [ ] 1. Section Intro
+    - [x] 1. Section Intro
     - [ ] 2. Section Roadmap
     - [ ] 3. Destructuring Arrays
     - [ ] 4. Destructuring Objects
