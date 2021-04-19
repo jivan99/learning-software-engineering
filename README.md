@@ -207,7 +207,7 @@
   - [ ] **09 Data Structures, Modern Operators and Strings**
     - [x] 1. Section Intro
     - [x] 2. Section Roadmap
-    - [ ] 3. Destructuring Arrays
+    - [x] 3. Destructuring Arrays
     - [ ] 4. Destructuring Objects
     - [ ] 5. The Spread Operator (...)
     - [ ] 6. Rest Pattern and Parameters
