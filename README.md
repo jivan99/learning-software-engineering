@@ -64,8 +64,8 @@
     - [ ] 08 Working with Internals of ASP.NET Core
     - [ ] 09 Deploying ASP.NET Core Web Applications
   - [ ] [Pluralsight: Building Web Applications with ASP.NET Core MVC](https://app.pluralsight.com/library/courses/building-aspdotnet-core-mvc-web-applications/table-of-contents)
-    - [ ] **01 Course Overview**
-      - [ ] 1. Course Overview
+    - [x] **01 Course Overview**
+      - [x] 1. Course Overview
     - [ ] **02 Course Introduction**
       - [ ] 1. Module Introduction
       - [ ] 2. What Will You Learn from This Course
