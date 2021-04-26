@@ -64,6 +64,87 @@
     - [ ] 08 Working with Internals of ASP.NET Core
     - [ ] 09 Deploying ASP.NET Core Web Applications
   - [ ] [Pluralsight: Building Web Applications with ASP.NET Core MVC](https://app.pluralsight.com/library/courses/building-aspdotnet-core-mvc-web-applications/table-of-contents)
+    - [ ] **01 Course Overview**
+      - [ ] 1. Course Overview
+    - [ ] **02 Course Introduction**
+      - [ ] 1. Module Introduction
+      - [ ] 2. What Will You Learn from This Course
+      - [ ] 3. Demo Looking at the Finished Application
+      - [ ] 4. What Is ASPNET Core
+      - [ ] 5. Getting Your Machine Ready
+      - [ ] 6. Demo Getting Your Machine Ready
+      - [ ] 7. Summary
+    - [ ] **03 Setting Up an MVC Application**
+      - [ ] 1. Module Introduction
+      - [ ] 2. Exploring the Project Structure
+      - [ ] 3. Demo Exploring the Project Structure
+      - [ ] 4. Site Configuration
+      - [ ] 5. Demo Site Configuration
+      - [ ] 6. Summary
+    - [ ] **04 Creating the List Page**
+      - [ ] 1. Module Introduction
+      - [ ] 2. Demo Looking at the Final Page
+      - [ ] 3. Hello MVC
+      - [ ] 4. Creating the Model and the Repository
+      - [ ] 5. Creating the Controller
+      - [ ] 6. Demo Creating the Controller
+      - [ ] 7. Demo Creating the Controller
+      - [ ] 8. Adding the View
+      - [ ] 9. Demo Creating the View and the ViewModel
+      - [ ] 10. Adding Different View Files
+      - [ ] 11. Demo Adding a Layout ViewImports and ViewStart
+      - [ ] 12. Styling the View
+      - [ ] 13. Demo Styling the View
+      - [ ] 14. Summary
+    - [ ] **05 Working with Real Data using Entity Framework Core**
+      - [ ] 1. Module Introduction
+      - [ ] 2. Hello EF Core
+      - [ ] 3. Adding EF Core to the Application
+      - [ ] 4. Demo Adding the Packages and Creating the Context
+      - [ ] 5. Querying and Modifying Data
+      - [ ] 6. Demo Creating the Real Repository
+      - [ ] 7. Creating and Initializing the Database
+      - [ ] 8. Demo Creating and Initializing the Database
+      - [ ] 9. Modifying the Model
+      - [ ] 10. Demo Updating the Database
+      - [ ] 11. Summary
+    - [ ] **06 Adding Navigation to the Site**
+      - [ ] 1. Module Introduction
+      - [ ] 2. Understanding Routing in ASPNET Core MVC
+      - [ ] 3. Configuring the Routing System
+      - [ ] 4. Navigation with Tag Helpers
+      - [ ] 5. Demo Adding Navigation
+      - [ ] 6. Summary
+    - [ ] **07 Improving the Views in the Application**
+      - [ ] 1. Module Introduction
+      - [ ] 2. Using Partial Views
+      - [ ] 3. Demo Working with Partial Views
+      - [ ] 4. Demo Creating the Home Page
+      - [ ] 5. Creating the Shopping Cart
+      - [ ] 6. Demo Creating the Shopping Cart
+      - [ ] 7. Adding View Components
+      - [ ] 8. Demo Adding View Components
+      - [ ] 9. Creating a Custom Tag Helper
+      - [ ] 10. Demo Creating the Email Tag Helper
+      - [ ] 11. Summary
+    - [ ] **08 Creating an Order Form**
+      - [ ] 1. Module Introduction
+      - [ ] 2. Using Tag Helpers to Create the Form
+      - [ ] 3. Demo Creating an Order Form
+      - [ ] 4. Understanding Model Binding
+      - [ ] 5. Demo Using Model Binding
+      - [ ] 6. Adding Validation
+      - [ ] 7. Demo Adding Validation to the Form
+      - [ ] 8. Summary
+    - [ ] **09 Adding Login Capabilities to the Site**
+      - [ ] 1. Module Introduction
+      - [ ] 2. Exploring ASPNET Core Identity
+      - [ ] 3. Demo Preparing the Site for ASPNET Core Identity
+      - [ ] 4. Adding Authentication
+      - [ ] 5. Demo Adding Login and Registration Functionality
+      - [ ] 6. Enabling Authorization
+      - [ ] 7. Demo Authorizing Users to Place an Order
+      - [ ] 8. Summary and Course Closing
   - [ ] [Pluralsight: Building an API with ASP.NET Core](https://app.pluralsight.com/library/courses/building-api-aspdotnet-core/table-of-contents)
   - [ ] [Pluralsight: Dependency Injection in ASP.NET Core](https://app.pluralsight.com/library/courses/aspdotnet-core-dependency-injection/table-of-contents)
   - [ ] [Pluralsight: Using Configuration and Options in .NET Core and ASP.NET Core Apps](https://app.pluralsight.com/library/courses/dotnet-core-aspnet-core-configuration-options/table-of-contents)
