@@ -74,13 +74,13 @@
       - [x] 5. Getting Your Machine Ready
       - [x] 6. Demo Getting Your Machine Ready
       - [x] 7. Summary
-    - [ ] **03 Setting Up an MVC Application**
-      - [ ] 1. Module Introduction
-      - [ ] 2. Exploring the Project Structure
-      - [ ] 3. Demo Exploring the Project Structure
-      - [ ] 4. Site Configuration
-      - [ ] 5. Demo Site Configuration
-      - [ ] 6. Summary
+    - [x] **03 Setting Up an MVC Application**
+      - [x] 1. Module Introduction
+      - [x] 2. Exploring the Project Structure
+      - [x] 3. Demo Exploring the Project Structure
+      - [x] 4. Site Configuration
+      - [x] 5. Demo Site Configuration
+      - [x] 6. Summary
     - [ ] **04 Creating the List Page**
       - [ ] 1. Module Introduction
       - [ ] 2. Demo Looking at the Final Page
