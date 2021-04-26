@@ -66,14 +66,14 @@
   - [ ] [Pluralsight: Building Web Applications with ASP.NET Core MVC](https://app.pluralsight.com/library/courses/building-aspdotnet-core-mvc-web-applications/table-of-contents)
     - [x] **01 Course Overview**
       - [x] 1. Course Overview
-    - [ ] **02 Course Introduction**
-      - [ ] 1. Module Introduction
-      - [ ] 2. What Will You Learn from This Course
-      - [ ] 3. Demo Looking at the Finished Application
-      - [ ] 4. What Is ASPNET Core
-      - [ ] 5. Getting Your Machine Ready
-      - [ ] 6. Demo Getting Your Machine Ready
-      - [ ] 7. Summary
+    - [x] **02 Course Introduction**
+      - [x] 1. Module Introduction
+      - [x] 2. What Will You Learn from This Course
+      - [x] 3. Demo Looking at the Finished Application
+      - [x] 4. What Is ASPNET Core
+      - [x] 5. Getting Your Machine Ready
+      - [x] 6. Demo Getting Your Machine Ready
+      - [x] 7. Summary
     - [ ] **03 Setting Up an MVC Application**
       - [ ] 1. Module Introduction
       - [ ] 2. Exploring the Project Structure
