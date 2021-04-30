@@ -515,6 +515,199 @@
 #### Be Proficient in TypeScript
 
 - [ ] [Udemy: Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript/)
+  - [ ] **01 Getting Started**
+    - [ ] 1. Welcome to the Course!
+    - [ ] 2. What is TypeScript & Why Should You Use It?
+    - [ ] 3. Join Our Learning Community
+    - [ ] 4. Installing & Using TypeScript
+    - [ ] 5. TypeScript Advantages - Overview
+    - [ ] 6. Course Outline
+    - [ ] 7. How to Get The Most Out of The Course
+    - [ ] 8. Setting Up a Code Editor / IDE
+    - [ ] 9. The Course Project Setup
+  - [ ] **02 TypeScript Basics & Basic Types**
+    - [ ] 1. Module Introduction
+    - [ ] 2. Using Types
+    - [ ] 3. TypeScript Types vs JavaScript Types
+    - [ ] 4. Working with Numbers, Strings & Booleans
+    - [ ] 5. Type Assignment & Type Inference
+    - [ ] 6. Object Types
+    - [ ] 7. Arrays Types
+    - [ ] 8. Working with Tuples
+    - [ ] 9. Working with Enums
+    - [ ] 10. The "any" Type
+    - [ ] 11. Union Types
+    - [ ] 12. Literal Types
+    - [ ] 13. Type Aliases / Custom Types
+    - [ ] 14. Function Return Types & "void"
+    - [ ] 15. Functions as Types
+    - [ ] 16. Function Types & Callbacks
+    - [ ] 17. The "unknown" Type
+    - [ ] 18. The "never" Type
+    - [ ] 19. Wrap Up
+  - [ ] **03 The TypeScript Compiler (and its Configurations)**
+    - [ ] 1. Module Introduction
+    - [ ] 2. Using "Watch Mode"
+    - [ ] 3. Compiling the Entire Project / Multiple Files
+    - [ ] 4. Including & Excluding Files
+    - [ ] 5. Setting a Compilation Target
+    - [ ] 6. Understanding TypeScript Core Libs
+    - [ ] 7. More Configuration & Compilation Options
+    - [ ] 8. Working with Source Maps
+    - [ ] 9. rootDir and outDir
+    - [ ] 10. Stop Emitting Files on Compilation Errors
+    - [ ] 11. Strict Compilation
+    - [ ] 12. Code Quality Options
+    - [ ] 13. Debugging with Visual Studio Code
+    - [ ] 14. Wrap Up
+  - [ ] **04 Next-generation JavaScript & TypeScript**
+    - [ ] 1. Module Introduction
+    - [ ] 2. "let" and "const"
+    - [ ] 3. Arrow Functions
+    - [ ] 4. Default Function Parameters
+    - [ ] 5. The Spread Operator (...)
+    - [ ] 6. Rest Parameters
+    - [ ] 7. Array & Object Destructuring
+    - [ ] 8. How Code Gets Compiled & Wrap Up
+  - [ ] **05 Classes & Interfaces**
+    - [ ] 1. Module Introduction
+    - [ ] 2. What are Classes?
+    - [ ] 3. Creating a First Class
+    - [ ] 4. Compiling to JavaScript
+    - [ ] 5. Constructor Functions & The "this" Keywor6
+    - [ ] 7. "private" and "public" Access Modifiers
+    - [ ] 8. Shorthand Initialization
+    - [ ] 9. "readonly" Properties
+    - [ ] 10. Inheritance
+    - [ ] 11. Overriding Properties & The "protected" Modifier
+    - [ ] 12. Getters & Setters
+    - [ ] 13. Static Methods & Properties
+    - [ ] 14. Abstract Classes
+    - [ ] 15. Singletons & Private Constructors
+    - [ ] 16. Classes - A Summary
+    - [ ] 17. A First Interface
+    - [ ] 18. Using Interfaces with Classes
+    - [ ] 19. Why Interfaces?
+    - [ ] 20. Readonly Interface Properties
+    - [ ] 21. Extending Interfaces
+    - [ ] 22. Interfaces as Function Types
+    - [ ] 23. Optional Parameters & Properties
+    - [ ] 24. Compiling Interfaces to JavaScript
+    - [ ] 25. Wrap Up
+  - [ ] **06 Advanced Types**
+    - [ ] 1. Module Introduction
+    - [ ] 2. Intersection Types
+    - [ ] 3. More on Type Guards
+    - [ ] 4. Discriminated Unions
+    - [ ] 5. Type Casting
+    - [ ] 6. Index Properties
+    - [ ] 7. Function Overloads
+    - [ ] 8. Optional Chaining
+    - [ ] 9. Nullish Coalescing
+    - [ ] 10. Wrap Up
+  - [ ] **07 Generics**
+    - [ ] 1. Module Introduction
+    - [ ] 2. Built-in Generics & What are Generics?
+    - [ ] 3. Creating a Generic Function
+    - [ ] 4. Working with Constraints
+    - [ ] 5. Another Generic Function
+    - [ ] 6. The "keyof" Constraint
+    - [ ] 7. Generic Classes
+    - [ ] 8. A First Summary
+    - [ ] 9. Generic Utility Types
+    - [ ] 10. Generic Types vs Union Types
+  - [ ] **08 Decorators**
+    - [ ] 1. Module Introduction
+    - [ ] 2. A First Class Decorator
+    - [ ] 3. Working with Decorator Factories
+    - [ ] 4. Building More Useful Decorators
+    - [ ] 5. Adding Multiple Decorators
+    - [ ] 6. Diving into Property Decorators
+    - [ ] 7. Accessor & Parameter Decorators
+    - [ ] 8. When Do Decorators Execute?
+    - [ ] 9. Returning (and changing) a Class in a Class Decorator
+    - [ ] 10. Other Decorator Return Types
+    - [ ] 11. Example: Creating an "Autobind" Decorator
+    - [ ] 12. Validation with Decorators - First Steps
+    - [ ] 13. Validation with Decorators - Finished
+    - [ ] 14. Wrap Up
+  - [ ] **09 Practice Time! Let's build a Drag & Drop Project**
+    - [ ] 1. Module Introduction
+    - [ ] 2. Getting Started
+    - [ ] 3. DOM Element Selection & OOP Rendering
+    - [ ] 4. Interacting with DOM Elements
+    - [ ] 5. Creating & Using an "Autobind" Decorator
+    - [ ] 6. Fetching User Input
+    - [ ] 7. Creating a Re-Usable Validation Functionality
+    - [ ] 8. Rendering Project Lists
+    - [ ] 9. Managing Application State with Singletons
+    - [ ] 10. More Classes & Custom Types
+    - [ ] 11. Filtering Projects with Enums
+    - [ ] 12. Adding Inheritance & Generics
+    - [ ] 13. Rendering Project Items with a Class
+    - [ ] 14. Using a Getter
+    - [ ] 15. Utilizing Interfaces to Implement Drag & Drop
+    - [ ] 16. Drag Events & Reflecting the Current State in the UI
+    - [ ] 17. Adding a Droppable Area
+    - [ ] 18. Finishing Drag & Drop
+    - [ ] 19. Wrap Up
+  - [ ] **10 Modules & Namespaces**
+    - [ ] 1. Module Introduction
+    - [ ] 2. Writing Module Code - Your Options
+    - [ ] 3. Working with Namespaces
+    - [ ] 4. Organizing Files & Folders
+    - [ ] 5. A Problem with Namespace Imports
+    - [ ] 6. Using ES Modules
+    - [ ] 7. Understanding various Import & Export Syntaxes
+    - [ ] 8. How Does Code In Modules Execute?
+    - [ ] 9. Wrap Up
+  - [ ] **11 Using Webpack with TypeScript**
+    - [ ] 1. Module Introduction
+    - [ ] 2. What is Webpack & Why do we need it?
+    - [ ] 3. Installing Webpack & Important Dependencies
+    - [ ] 4. Adding Entry & Output Configuration
+    - [ ] 5. Adding TypeScript Support with the ts-loader Package
+    - [ ] 6. Finishing the Setup & Adding webpack-dev-server
+    - [ ] 7. Adding a Production Workflow
+    - [ ] 8. Wrap Up
+  - [ ] **12 3rd Party Libraries & TypeScript**
+    - [ ] 1. Module Introducion
+    - [ ] 2. Using JavaScript (!) Libraries with TypeScript
+    - [ ] 3. Using "declare" as a "Last Resort"
+    - [ ] 4. No Types Needed: class-transformer
+    - [ ] 5. TypeScript-embracing: class-validator
+    - [ ] 6. Wrap Up
+  - [ ] **13 Time to Practice! Let's build a "Select & Share a Place" App (incl. Google Maps)**
+    - [ ] 1. Module Introducion
+    - [ ] 2. Project Setup
+    - [ ] 3. Getting User Input
+    - [ ] 4. Setting Up a Google API Key
+    - [ ] 5. Using Axios to Fetch Coordinates for an Entered Address
+    - [ ] 6. Rendering a Map with Google Maps (incl. Types!)
+  - [ ] **14 React.js & TypeScript**
+    - [ ] 1. Module Introduction
+    - [ ] 2. Setting Up a React + TypeScript Project
+    - [ ] 3. How Do React + TypeScript Work Together?
+    - [ ] 4. Working with Props and Types for Props
+    - [ ] 5. Getting User Input with "refs"
+    - [ ] 6. Cross-Component Communication
+    - [ ] 7. Working with State & Types
+    - [ ] 8. Managing State Better
+    - [ ] 9. More Props & State Work
+    - [ ] 10. Adding Styling
+    - [ ] 11. Types for other React Features (e.g. Redux or Routing)
+    - [ ] 12. Wrap Up
+  - [ ] **15 Node.js + Express & TypeScript**
+    - [ ] 1. Module Introduction
+    - [ ] 2. Executing TypeScript Code with Node.js
+    - [ ] 3. Setting up a Project
+    - [ ] 4. Finished Setup & Working with Types (in Node + Express Apps)
+    - [ ] 5. Adding Middleware & Types
+    - [ ] 6. Working with Controllers & Parsing Request Bodies
+    - [ ] 7. More CRUD Operations
+    - [ ] 8. Wrap Up
+  - [ ] **15 Course Roundup**
+    - [ ] 1. Roundup
 - [ ] [Frontendmasters: JavaScript and TypeScript Monorepos](https://frontendmasters.com/courses/monorepos/)
 - [ ] [Frontendmasters: Production-Grade TypeScript](https://frontendmasters.com/courses/production-typescript/)
 - [ ] [Frontendmasters: Enterprise Architecture Patterns](https://frontendmasters.com/courses/enterprise-patterns/)
