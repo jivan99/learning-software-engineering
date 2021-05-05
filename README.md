@@ -515,16 +515,16 @@
 #### Be Proficient in TypeScript
 
 - [ ] [Udemy: Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript/)
-  - [ ] **01 Getting Started**
-    - [ ] 1. Welcome to the Course!
-    - [ ] 2. What is TypeScript & Why Should You Use It?
-    - [ ] 3. Join Our Learning Community
-    - [ ] 4. Installing & Using TypeScript
-    - [ ] 5. TypeScript Advantages - Overview
-    - [ ] 6. Course Outline
-    - [ ] 7. How to Get The Most Out of The Course
-    - [ ] 8. Setting Up a Code Editor / IDE
-    - [ ] 9. The Course Project Setup
+  - [x] **01 Getting Started**
+    - [x] 1. Welcome to the Course!
+    - [x] 2. What is TypeScript & Why Should You Use It?
+    - [x] 3. Join Our Learning Community
+    - [x] 4. Installing & Using TypeScript
+    - [x] 5. TypeScript Advantages - Overview
+    - [x] 6. Course Outline
+    - [x] 7. How to Get The Most Out of The Course
+    - [x] 8. Setting Up a Code Editor / IDE
+    - [x] 9. The Course Project Setup
   - [ ] **02 TypeScript Basics & Basic Types**
     - [ ] 1. Module Introduction
     - [ ] 2. Using Types
