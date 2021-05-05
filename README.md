@@ -812,4 +812,8 @@
 - [ ] [Frontendmasters: Rapid Development on AWS: React, Node.js & GraphQL](https://frontendmasters.com/courses/aws-react-node-graphql/)
 - [ ] [Frontendmasters: Serverless with AWS Lambda](https://frontendmasters.com/courses/serverless-aws/)
 
+#### Master SQL
+
+- [ ] [Udemy: The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert)
+
 
