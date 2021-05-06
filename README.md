@@ -560,15 +560,15 @@
     - [x] 12. Code Quality Options
     - [x] 13. Debugging with Visual Studio Code
     - [x] 14. Wrap Up
-  - [ ] **04 Next-generation JavaScript & TypeScript**
-    - [ ] 1. Module Introduction
-    - [ ] 2. "let" and "const"
-    - [ ] 3. Arrow Functions
-    - [ ] 4. Default Function Parameters
-    - [ ] 5. The Spread Operator (...)
-    - [ ] 6. Rest Parameters
-    - [ ] 7. Array & Object Destructuring
-    - [ ] 8. How Code Gets Compiled & Wrap Up
+  - [x] **04 Next-generation JavaScript & TypeScript**
+    - [x] 1. Module Introduction
+    - [x] 2. "let" and "const"
+    - [x] 3. Arrow Functions
+    - [x] 4. Default Function Parameters
+    - [x] 5. The Spread Operator (...)
+    - [x] 6. Rest Parameters
+    - [x] 7. Array & Object Destructuring
+    - [x] 8. How Code Gets Compiled & Wrap Up
   - [ ] **05 Classes & Interfaces**
     - [ ] 1. Module Introduction
     - [ ] 2. What are Classes?
