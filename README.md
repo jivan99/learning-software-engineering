@@ -525,26 +525,26 @@
     - [x] 7. How to Get The Most Out of The Course
     - [x] 8. Setting Up a Code Editor / IDE
     - [x] 9. The Course Project Setup
-  - [ ] **02 TypeScript Basics & Basic Types**
-    - [ ] 1. Module Introduction
-    - [ ] 2. Using Types
-    - [ ] 3. TypeScript Types vs JavaScript Types
-    - [ ] 4. Working with Numbers, Strings & Booleans
-    - [ ] 5. Type Assignment & Type Inference
-    - [ ] 6. Object Types
-    - [ ] 7. Arrays Types
-    - [ ] 8. Working with Tuples
-    - [ ] 9. Working with Enums
-    - [ ] 10. The "any" Type
-    - [ ] 11. Union Types
-    - [ ] 12. Literal Types
-    - [ ] 13. Type Aliases / Custom Types
-    - [ ] 14. Function Return Types & "void"
-    - [ ] 15. Functions as Types
-    - [ ] 16. Function Types & Callbacks
-    - [ ] 17. The "unknown" Type
-    - [ ] 18. The "never" Type
-    - [ ] 19. Wrap Up
+  - [x] **02 TypeScript Basics & Basic Types**
+    - [x] 1. Module Introduction
+    - [x] 2. Using Types
+    - [x] 3. TypeScript Types vs JavaScript Types
+    - [x] 4. Working with Numbers, Strings & Booleans
+    - [x] 5. Type Assignment & Type Inference
+    - [x] 6. Object Types
+    - [x] 7. Arrays Types
+    - [x] 8. Working with Tuples
+    - [x] 9. Working with Enums
+    - [x] 10. The "any" Type
+    - [x] 11. Union Types
+    - [x] 12. Literal Types
+    - [x] 13. Type Aliases / Custom Types
+    - [x] 14. Function Return Types & "void"
+    - [x] 15. Functions as Types
+    - [x] 16. Function Types & Callbacks
+    - [x] 17. The "unknown" Type
+    - [x] 18. The "never" Type
+    - [x] 19. Wrap Up
   - [ ] **03 The TypeScript Compiler (and its Configurations)**
     - [ ] 1. Module Introduction
     - [ ] 2. Using "Watch Mode"
