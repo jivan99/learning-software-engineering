@@ -545,21 +545,21 @@
     - [x] 17. The "unknown" Type
     - [x] 18. The "never" Type
     - [x] 19. Wrap Up
-  - [ ] **03 The TypeScript Compiler (and its Configurations)**
-    - [ ] 1. Module Introduction
-    - [ ] 2. Using "Watch Mode"
-    - [ ] 3. Compiling the Entire Project / Multiple Files
-    - [ ] 4. Including & Excluding Files
-    - [ ] 5. Setting a Compilation Target
-    - [ ] 6. Understanding TypeScript Core Libs
-    - [ ] 7. More Configuration & Compilation Options
-    - [ ] 8. Working with Source Maps
-    - [ ] 9. rootDir and outDir
-    - [ ] 10. Stop Emitting Files on Compilation Errors
-    - [ ] 11. Strict Compilation
-    - [ ] 12. Code Quality Options
-    - [ ] 13. Debugging with Visual Studio Code
-    - [ ] 14. Wrap Up
+  - [x] **03 The TypeScript Compiler (and its Configurations)**
+    - [x] 1. Module Introduction
+    - [x] 2. Using "Watch Mode"
+    - [x] 3. Compiling the Entire Project / Multiple Files
+    - [x] 4. Including & Excluding Files
+    - [x] 5. Setting a Compilation Target
+    - [x] 6. Understanding TypeScript Core Libs
+    - [x] 7. More Configuration & Compilation Options
+    - [x] 8. Working with Source Maps
+    - [x] 9. rootDir and outDir
+    - [x] 10. Stop Emitting Files on Compilation Errors
+    - [x] 11. Strict Compilation
+    - [x] 12. Code Quality Options
+    - [x] 13. Debugging with Visual Studio Code
+    - [x] 14. Wrap Up
   - [ ] **04 Next-generation JavaScript & TypeScript**
     - [ ] 1. Module Introduction
     - [ ] 2. "let" and "const"
