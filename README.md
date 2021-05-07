@@ -569,31 +569,31 @@
     - [x] 6. Rest Parameters
     - [x] 7. Array & Object Destructuring
     - [x] 8. How Code Gets Compiled & Wrap Up
-  - [ ] **05 Classes & Interfaces**
-    - [ ] 1. Module Introduction
-    - [ ] 2. What are Classes?
-    - [ ] 3. Creating a First Class
-    - [ ] 4. Compiling to JavaScript
-    - [ ] 5. Constructor Functions & The "this" Keywor6
-    - [ ] 7. "private" and "public" Access Modifiers
-    - [ ] 8. Shorthand Initialization
-    - [ ] 9. "readonly" Properties
-    - [ ] 10. Inheritance
-    - [ ] 11. Overriding Properties & The "protected" Modifier
-    - [ ] 12. Getters & Setters
-    - [ ] 13. Static Methods & Properties
-    - [ ] 14. Abstract Classes
-    - [ ] 15. Singletons & Private Constructors
-    - [ ] 16. Classes - A Summary
-    - [ ] 17. A First Interface
-    - [ ] 18. Using Interfaces with Classes
-    - [ ] 19. Why Interfaces?
-    - [ ] 20. Readonly Interface Properties
-    - [ ] 21. Extending Interfaces
-    - [ ] 22. Interfaces as Function Types
-    - [ ] 23. Optional Parameters & Properties
-    - [ ] 24. Compiling Interfaces to JavaScript
-    - [ ] 25. Wrap Up
+  - [x] **05 Classes & Interfaces**
+    - [x] 1. Module Introduction
+    - [x] 2. What are Classes?
+    - [x] 3. Creating a First Class
+    - [x] 4. Compiling to JavaScript
+    - [x] 5. Constructor Functions & The "this" Keyword
+    - [x] 6. "private" and "public" Access Modifiers
+    - [x] 7. Shorthand Initialization
+    - [x] 8. "readonly" Properties
+    - [x] 9. Inheritance
+    - [x] 10. Overriding Properties & The "protected" Modifie
+    - [x] 11. Getters & Setters
+    - [x] 12. Static Methods & Properties
+    - [x] 13. Abstract Classes
+    - [x] 14. Singletons & Private Constructors
+    - [x] 15. Classes - A Summary
+    - [x] 16. A First Interface
+    - [x] 17. Using Interfaces with Classes
+    - [x] 18. Why Interfaces?
+    - [x] 19. Readonly Interface Properties
+    - [x] 20. Extending Interfaces
+    - [x] 21. Interfaces as Function Types
+    - [x] 22. Optional Parameters & Properties
+    - [x] 23. Compiling Interfaces to JavaScript
+    - [x] 24. Wrap Up
   - [ ] **06 Advanced Types**
     - [ ] 1. Module Introduction
     - [ ] 2. Intersection Types
