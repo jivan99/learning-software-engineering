@@ -594,17 +594,17 @@
     - [x] 22. Optional Parameters & Properties
     - [x] 23. Compiling Interfaces to JavaScript
     - [x] 24. Wrap Up
-  - [ ] **06 Advanced Types**
-    - [ ] 1. Module Introduction
-    - [ ] 2. Intersection Types
-    - [ ] 3. More on Type Guards
-    - [ ] 4. Discriminated Unions
-    - [ ] 5. Type Casting
-    - [ ] 6. Index Properties
-    - [ ] 7. Function Overloads
-    - [ ] 8. Optional Chaining
-    - [ ] 9. Nullish Coalescing
-    - [ ] 10. Wrap Up
+  - [x] **06 Advanced Types**
+    - [x] 1. Module Introduction
+    - [x] 2. Intersection Types
+    - [x] 3. More on Type Guards
+    - [x] 4. Discriminated Unions
+    - [x] 5. Type Casting
+    - [x] 6. Index Properties
+    - [x] 7. Function Overloads
+    - [x] 8. Optional Chaining
+    - [x] 9. Nullish Coalescing
+    - [x] 10. Wrap Up
   - [ ] **07 Generics**
     - [ ] 1. Module Introduction
     - [ ] 2. Built-in Generics & What are Generics?
