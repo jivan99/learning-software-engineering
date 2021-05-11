@@ -821,13 +821,13 @@
     - [x] 3. Syllabus Walkthrough and Prerequisites.mp4
     - [x] 4. Your First 5 Minutes of SQL - Let's Get Coding!.mp4
     - [x] 5. How The Course Works.mp4
-  - [ ] **02 Getting Started Overview and Installation**
-    - [ ] 1. Section Introduction.mp4
-    - [ ] 2. What Is a Database.mp4
-    - [ ] 3. SQL Vs. MySQL.mp4
-    - [ ] 4. Installation Overview - WATCH BEFORE INSTALLING.mp4
-    - [ ] 5. Mac Installation.mp4
-    - [ ] 6. Windows Installation.mp4
+  - [x] **02 Getting Started Overview and Installation**
+    - [x] 1. Section Introduction.mp4
+    - [x] 2. What Is a Database.mp4
+    - [x] 3. SQL Vs. MySQL.mp4
+    - [x] 4. Installation Overview - WATCH BEFORE INSTALLING.mp4
+    - [x] 5. Mac Installation.mp4
+    - [x] 6. Windows Installation.mp4
   - [ ] **03 Creating Databases and Tables**
     - [ ] 1. Introduction.mp4
     - [ ] 2. Creating Databases.mp4
