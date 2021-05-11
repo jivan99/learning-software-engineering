@@ -815,5 +815,205 @@
 #### Master SQL
 
 - [ ] [Udemy: The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert)
+  - [ ] **01 Introduction and 5 Minutes of SQL**
+    - [ ] 1. Course Introduction.mp4
+    - [ ] 2. Instructor Introduction(s).mp4
+    - [ ] 3. Syllabus Walkthrough and Prerequisites.mp4
+    - [ ] 4. Your First 5 Minutes of SQL - Let's Get Coding!.mp4
+    - [ ] 5. How The Course Works.mp4
+  - [ ] **02 Getting Started Overview and Installation**
+    - [ ] 1. Section Introduction.mp4
+    - [ ] 2. What Is a Database.mp4
+    - [ ] 3. SQL Vs. MySQL.mp4
+    - [ ] 4. Installation Overview - WATCH BEFORE INSTALLING.mp4
+    - [ ] 5. Mac Installation.mp4
+    - [ ] 6. Windows Installation.mp4
+  - [ ] **03 Creating Databases and Tables**
+    - [ ] 1. Introduction.mp4
+    - [ ] 2. Creating Databases.mp4
+    - [ ] 3. Dropping Databases.mp4
+    - [ ] 4. Using Databases.mp4
+    - [ ] 5. Introduction to Tables.mp4
+    - [ ] 6. The Basic Datatypes.mp4
+    - [ ] 7. Basic Datatypes Challenge.mp4
+    - [ ] 8. Creating Your Own Tables.mp4
+    - [ ] 9. How Do We Know It Worked.mp4
+    - [ ] 10. Dropping Tables.mp4
+    - [ ] 11. Creating Your Own Tables Challenge.mp4
+  - [ ] **04 Inserting Data(and a couple other things)**
+    - [ ] 1. Introduction.mp4
+    - [ ] 2. Inserting Data.mp4
+    - [ ] 3. Super Quick Intro To SELECT.mp4
+    - [ ] 4. Multiple INSERT.mp4
+    - [ ] 5. INSERT Challenges.mp4
+    - [ ] 6. INSERT Challenges Solution.mp4
+    - [ ] 7. MySQL Warnings.mp4
+    - [ ] 8. NULL and NOT_NULL.mp4
+    - [ ] 9. Setting Default Values.mp4
+    - [ ] 10. A Primer On Primary Keys.mp4
+    - [ ] 11. Table Constraints Exercise.mp4
+    - [ ] 12. Table Constraints Exercise Solution.mp4
+  - [ ] **05 CRUD commands**
+    - [ ] 1. Introduction
+    - [ ] 2. Introduction to CRUD
+    - [ ] 3. Preparing Our Data
+    - [ ] 4. Official Introduction to SELECT
+    - [ ] 5. Introduction to WHERE
+    - [ ] 6. SELECT Challenges
+    - [ ] 7. SELECT Challenges Solution
+    - [ ] 8. Introduction to Aliases
+    - [ ] 9. The UPDATE Command
+    - [ ] 10. UPDATE Challenges
+    - [ ] 11. UPDATE Challenges Solution
+    - [ ] 12 Introduction to DELETE
+    - [ ] 13. DELETE Challenges
+    - [ ] 14. DELETE Challenges Solution
+  - [ ] **06 CRUD Challenge Section**
+    - [ ] 1. Introduction
+    - [ ] 2. CRUD Exercise Overview
+    - [ ] 3. CRUD Exercise Create Solution
+    - [ ] 4. CRUD Exercise Read Solution
+    - [ ] 5. CRUD Exercise Update Solution
+    - [ ] 6. CRUD Exercise Delete Solution
+  - [ ] **07 The World Of String Functions**
+    - [ ] 1. Introduction
+    - [ ] 2. Running SQL Files
+    - [ ] 3. Loading Our Book Data
+    - [ ] 4. Working with CONCAT
+    - [ ] 5. Introducing SUBSTRING
+    - [ ] 6. Introducing REPLACE
+    - [ ] 7. Using REVERSE
+    - [ ] 8. Working with CHAR LENGTH
+    - [ ] 9. Changing Case with UPPER and LOWER
+    - [ ] 10. String Function Challenges
+    - [ ] 11. String Function Challenges Solution
+  - [ ] **08 Refining Our Selections**
+    - [ ] 1. Introduction
+    - [ ] 2. Seed Data: Adding A Couple New Books
+    - [ ] 3. Using DISTINCT
+    - [ ] 4. Sorting Data with ORDER BY
+    - [ ] 5. Using LIMIT
+    - [ ] 6. Better Searches with LIKE
+    - [ ] 7. LIKE Part 2: More Wildcards
+    - [ ] 8. Refining Selection Exercises
+    - [ ] 9. Refining Selection Exercises Solution
+  - [ ] **09 The Magic of Aggregate Functions**
+    - [ ] 1. Introduction
+    - [ ] 2. The Count Function
+    - [ ] 3. The Joys of Group By
+    - [ ] 4. Note about SQL Mode only_full_group_by
+    - [ ] 5. Min and Max Basics
+    - [ ] 6. SUBQUERIES - A Problem with Min and Max
+    - [ ] 7. Using Min and Max with Group By
+    - [ ] 8. The Sum Function
+    - [ ] 9. The Avg Function
+    - [ ] 10. Aggregate Functions Challenges
+    - [ ] 11. Aggregate Functions Challenges Solution
+  - [ ] **10 Revisiting Data Types**
+    - [ ] 1. Introduction
+    - [ ] 2. CHAR and VARCHAR
+    - [ ] 3. DECIMAL
+    - [ ] 4. FLOAT and DOUBLE
+    - [ ] 5. DATE, TIME, and DATETIME
+    - [ ] 6. Creating Our DATE data
+    - [ ] 7. CURDATE, CURTIME, and NOW
+    - [ ] 8. Formatting Dates
+    - [ ] 9. Date Math
+    - [ ] 10. Working with TIMESTAMPS
+    - [ ] 11. Data Types Exercises
+    - [ ] 12. Data Types Exercises Solution
+  - [ ] **11 The Power of Logical Operators**
+    - [ ] 1. Introduction
+    - [ ] 2. Not Equal
+    - [ ] 3. Not Like
+    - [ ] 4. Greater Than
+    - [ ] 5. Less Than
+    - [ ] 6. Logical AND
+    - [ ] 7. Logical OR
+    - [ ] 8. Between
+    - [ ] 9. In And Not In
+    - [ ] 10. Case Statements
+    - [ ] 11. Logical Operators Exercises
+    - [ ] 12. Logical Operators Exercises Solution
+  - [ ] **12 Section 12 - One To Many**
+    - [ ] 1. Introduction
+    - [ ] 2. Real World Data Is Messy
+    - [ ] 3. Types of Data Relationships
+    - [ ] 4. One To Many: The Basics
+    - [ ] 5. Working With Foreign Keys
+    - [ ] 6. Cross Join
+    - [ ] 7. Inner Join
+    - [ ] 8. Left Join
+    - [ ] 9. Right Joins Pt 1
+    - [ ] 10. Right Joins Pt 2
+    - [ ] 11. Right and Left Joins: A Common Question
+    - [ ] 12. Our First Joins Exercise
+    - [ ] 13. Our First Joins Exercise SOLUTION
+    - [ ] 14. Our First Joins Exercise SOLUTION PT. 2
+  - [ ] **13 Section 13 - Many To Many**
+    - [ ] 1. Introduction
+    - [ ] 2. Many To Many Basics
+    - [ ] 3. Creating Our Tables
+    - [ ] 4. TV Joins Challenge 1
+    - [ ] 5. TV Joins Challenge 2
+    - [ ] 6. TV Joins Challenge 3
+    - [ ] 7. TV Joins Challenge 4
+    - [ ] 8. TV Joins Challenge 5
+    - [ ] 9. TV Joins Challenge 6
+    - [ ] 10. TV Joins Challenge 7
+  - [ ] **14 Instagram Database Clone**
+    - [ ] 1. Introduction
+    - [ ] 2. Introduction To Instagram Clone Schema
+    - [ ] 3. Cloning Instagram's DB: Users Schema
+    - [ ] 4. Cloning Instagram's DB: Photos Schema
+    - [ ] 5. Cloning Instagram's DB: Comments Schema
+    - [ ] 6. Cloning Instagram's DB: Likes Schema
+    - [ ] 7. Cloning Instagram's DB: Followers Schema
+    - [ ] 8. Cloning Instagram's DB: Hashtags Part 1
+    - [ ] 9. Cloning Instagram's DB: Hashtags Part 2
+  - [ ] **15 Working with Logs of Instagram Data**
+    - [ ] 1. Introduction
+    - [ ] 2. Loading The JUMBO dataset
+    - [ ] 3. Instagram Clone Challenge 1
+    - [ ] 4. Instagram Clone Challenge 2
+    - [ ] 5. Instagram Clone Challenge 3
+    - [ ] 6. Instagram Clone Challenge 4
+    - [ ] 7. Instagram Clone Challenge 5
+    - [ ] 8. Instagram Clone Challenge 6
+    - [ ] 9. Instagram Clone Challenge 7
+  - [ ] **Section 16 - Introducing Node**
+    - [ ] 1. Introduction
+    - [ ] 2. MySQL and Other Languages
+    - [ ] 3. BUT WHAT ABOUT PHP
+    - [ ] 4. Introduction to JOIN US app
+    - [ ] 5. 5 Minute NodeJS Crash Course
+    - [ ] 6. Introduction to NPM and Faker
+    - [ ] 7. Introducing the MySQL Package
+    - [ ] 8. Connecting Node to MySQL
+    - [ ] 9. Creating Our Users Table
+    - [ ] 10. Selecting Using Node
+    - [ ] 11. Inserting Using Node
+    - [ ] 12. Some MySQL/Node Magic
+    - [ ] 13. Bulk Inserting 500 Users - Finally!
+    - [ ] 14. 500 Users Exercises
+    - [ ] 15. 500 Users Exercises Solutions
+  - [ ] **Section 17 - Building Our Web App**
+    - [ ] 1. Introduction
+    - [ ] 2. Introducing Express
+    - [ ] 3. NPM Init and package.json files
+    - [ ] 4. Our First Simple Web App
+    - [ ] 5. Adding Multiple Routes
+    - [ ] 6. Connecting Express and MySQL
+    - [ ] 7. Adding EJS Templates
+    - [ ] 8. Connecting The Form
+    - [ ] 9. Styling Part 1
+    - [ ] 10. Styling Part 2
+  - [ ] **Section 18 - Database Triggers**
+    - [ ] 1. Introduction to Database Triggers
+    - [ ] 2. Writing Our First Trigger Part 1
+    - [ ] 3. Writing Our First Trigger Part 2
+    - [ ] 4. Preventing Instagram Self-Follows With Triggers
+    - [ ] 5. Creating Logger Triggers
+    - [ ] 6. Managing Triggers And A Warning
 
 
