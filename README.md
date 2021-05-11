@@ -605,17 +605,17 @@
     - [x] 8. Optional Chaining
     - [x] 9. Nullish Coalescing
     - [x] 10. Wrap Up
-  - [ ] **07 Generics**
-    - [ ] 1. Module Introduction
-    - [ ] 2. Built-in Generics & What are Generics?
-    - [ ] 3. Creating a Generic Function
-    - [ ] 4. Working with Constraints
-    - [ ] 5. Another Generic Function
-    - [ ] 6. The "keyof" Constraint
-    - [ ] 7. Generic Classes
-    - [ ] 8. A First Summary
-    - [ ] 9. Generic Utility Types
-    - [ ] 10. Generic Types vs Union Types
+  - [x] **07 Generics**
+    - [x] 1. Module Introduction
+    - [x] 2. Built-in Generics & What are Generics?
+    - [x] 3. Creating a Generic Function
+    - [x] 4. Working with Constraints
+    - [x] 5. Another Generic Function
+    - [x] 6. The "keyof" Constraint
+    - [x] 7. Generic Classes
+    - [x] 8. A First Summary
+    - [x] 9. Generic Utility Types
+    - [x] 10. Generic Types vs Union Types
   - [ ] **08 Decorators**
     - [ ] 1. Module Introduction
     - [ ] 2. A First Class Decorator
