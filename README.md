@@ -828,18 +828,18 @@
     - [x] 4. Installation Overview - WATCH BEFORE INSTALLING.mp4
     - [x] 5. Mac Installation.mp4
     - [x] 6. Windows Installation.mp4
-  - [ ] **03 Creating Databases and Tables**
-    - [ ] 1. Introduction.mp4
-    - [ ] 2. Creating Databases.mp4
-    - [ ] 3. Dropping Databases.mp4
-    - [ ] 4. Using Databases.mp4
-    - [ ] 5. Introduction to Tables.mp4
-    - [ ] 6. The Basic Datatypes.mp4
-    - [ ] 7. Basic Datatypes Challenge.mp4
-    - [ ] 8. Creating Your Own Tables.mp4
-    - [ ] 9. How Do We Know It Worked.mp4
-    - [ ] 10. Dropping Tables.mp4
-    - [ ] 11. Creating Your Own Tables Challenge.mp4
+  - [x] **03 Creating Databases and Tables**
+    - [x] 1. Introduction.mp4
+    - [x] 2. Creating Databases.mp4
+    - [x] 3. Dropping Databases.mp4
+    - [x] 4. Using Databases.mp4
+    - [x] 5. Introduction to Tables.mp4
+    - [x] 6. The Basic Datatypes.mp4
+    - [x] 7. Basic Datatypes Challenge.mp4
+    - [x] 8. Creating Your Own Tables.mp4
+    - [x] 9. How Do We Know It Worked.mp4
+    - [x] 10. Dropping Tables.mp4
+    - [x] 11. Creating Your Own Tables Challenge.mp4
   - [ ] **04 Inserting Data(and a couple other things)**
     - [ ] 1. Introduction.mp4
     - [ ] 2. Inserting Data.mp4
