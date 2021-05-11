@@ -815,12 +815,12 @@
 #### Master SQL
 
 - [ ] [Udemy: The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert)
-  - [ ] **01 Introduction and 5 Minutes of SQL**
-    - [ ] 1. Course Introduction.mp4
-    - [ ] 2. Instructor Introduction(s).mp4
-    - [ ] 3. Syllabus Walkthrough and Prerequisites.mp4
-    - [ ] 4. Your First 5 Minutes of SQL - Let's Get Coding!.mp4
-    - [ ] 5. How The Course Works.mp4
+  - [x] **01 Introduction and 5 Minutes of SQL**
+    - [x] 1. Course Introduction.mp4
+    - [x] 2. Instructor Introduction(s).mp4
+    - [x] 3. Syllabus Walkthrough and Prerequisites.mp4
+    - [x] 4. Your First 5 Minutes of SQL - Let's Get Coding!.mp4
+    - [x] 5. How The Course Works.mp4
   - [ ] **02 Getting Started Overview and Installation**
     - [ ] 1. Section Introduction.mp4
     - [ ] 2. What Is a Database.mp4
