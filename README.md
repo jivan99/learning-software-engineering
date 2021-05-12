@@ -853,21 +853,21 @@
     - [x] 10. A Primer On Primary Keys
     - [x] 11. Table Constraints Exercise
     - [x] 12. Table Constraints Exercise Solution
-  - [ ] **05 CRUD commands**
-    - [ ] 1. Introduction
-    - [ ] 2. Introduction to CRUD
-    - [ ] 3. Preparing Our Data
-    - [ ] 4. Official Introduction to SELECT
-    - [ ] 5. Introduction to WHERE
-    - [ ] 6. SELECT Challenges
-    - [ ] 7. SELECT Challenges Solution
-    - [ ] 8. Introduction to Aliases
-    - [ ] 9. The UPDATE Command
-    - [ ] 10. UPDATE Challenges
-    - [ ] 11. UPDATE Challenges Solution
-    - [ ] 12 Introduction to DELETE
-    - [ ] 13. DELETE Challenges
-    - [ ] 14. DELETE Challenges Solution
+  - [x] **05 CRUD commands**
+    - [x] 1. Introduction
+    - [x] 2. Introduction to CRUD
+    - [x] 3. Preparing Our Data
+    - [x] 4. Official Introduction to SELECT
+    - [x] 5. Introduction to WHERE
+    - [x] 6. SELECT Challenges
+    - [x] 7. SELECT Challenges Solution
+    - [x] 8. Introduction to Aliases
+    - [x] 9. The UPDATE Command
+    - [x] 10. UPDATE Challenges
+    - [x] 11. UPDATE Challenges Solution
+    - [x] 12 Introduction to DELETE
+    - [x] 13. DELETE Challenges
+    - [x] 14. DELETE Challenges Solution
   - [ ] **06 CRUD Challenge Section**
     - [ ] 1. Introduction
     - [ ] 2. CRUD Exercise Overview
