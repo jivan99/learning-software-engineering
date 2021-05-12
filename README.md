@@ -816,43 +816,43 @@
 
 - [ ] [Udemy: The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert)
   - [x] **01 Introduction and 5 Minutes of SQL**
-    - [x] 1. Course Introduction.mp4
-    - [x] 2. Instructor Introduction(s).mp4
-    - [x] 3. Syllabus Walkthrough and Prerequisites.mp4
-    - [x] 4. Your First 5 Minutes of SQL - Let's Get Coding!.mp4
-    - [x] 5. How The Course Works.mp4
+    - [x] 1. Course Introduction
+    - [x] 2. Instructor Introduction(s)
+    - [x] 3. Syllabus Walkthrough and Prerequisites
+    - [x] 4. Your First 5 Minutes of SQL - Let's Get Coding!
+    - [x] 5. How The Course Works
   - [x] **02 Getting Started Overview and Installation**
-    - [x] 1. Section Introduction.mp4
-    - [x] 2. What Is a Database.mp4
-    - [x] 3. SQL Vs. MySQL.mp4
-    - [x] 4. Installation Overview - WATCH BEFORE INSTALLING.mp4
-    - [x] 5. Mac Installation.mp4
-    - [x] 6. Windows Installation.mp4
+    - [x] 1. Section Introduction
+    - [x] 2. What Is a Database
+    - [x] 3. SQL Vs. MySQL
+    - [x] 4. Installation Overview - WATCH BEFORE INSTALLING
+    - [x] 5. Mac Installation
+    - [x] 6. Windows Installation
   - [x] **03 Creating Databases and Tables**
-    - [x] 1. Introduction.mp4
-    - [x] 2. Creating Databases.mp4
-    - [x] 3. Dropping Databases.mp4
-    - [x] 4. Using Databases.mp4
-    - [x] 5. Introduction to Tables.mp4
-    - [x] 6. The Basic Datatypes.mp4
-    - [x] 7. Basic Datatypes Challenge.mp4
-    - [x] 8. Creating Your Own Tables.mp4
-    - [x] 9. How Do We Know It Worked.mp4
-    - [x] 10. Dropping Tables.mp4
-    - [x] 11. Creating Your Own Tables Challenge.mp4
-  - [ ] **04 Inserting Data(and a couple other things)**
-    - [ ] 1. Introduction.mp4
-    - [ ] 2. Inserting Data.mp4
-    - [ ] 3. Super Quick Intro To SELECT.mp4
-    - [ ] 4. Multiple INSERT.mp4
-    - [ ] 5. INSERT Challenges.mp4
-    - [ ] 6. INSERT Challenges Solution.mp4
-    - [ ] 7. MySQL Warnings.mp4
-    - [ ] 8. NULL and NOT_NULL.mp4
-    - [ ] 9. Setting Default Values.mp4
-    - [ ] 10. A Primer On Primary Keys.mp4
-    - [ ] 11. Table Constraints Exercise.mp4
-    - [ ] 12. Table Constraints Exercise Solution.mp4
+    - [x] 1. Introduction
+    - [x] 2. Creating Databases
+    - [x] 3. Dropping Databases
+    - [x] 4. Using Databases
+    - [x] 5. Introduction to Tables
+    - [x] 6. The Basic Datatypes
+    - [x] 7. Basic Datatypes Challenge
+    - [x] 8. Creating Your Own Tables
+    - [x] 9. How Do We Know It Worked
+    - [x] 10. Dropping Tables
+    - [x] 11. Creating Your Own Tables Challenge
+  - [x] **04 Inserting Data(and a couple other things)**
+    - [x] 1. Introduction
+    - [x] 2. Inserting Data
+    - [x] 3. Super Quick Intro To SELECT
+    - [x] 4. Multiple INSERT
+    - [x] 5. INSERT Challenges
+    - [x] 6. INSERT Challenges Solution
+    - [x] 7. MySQL Warnings
+    - [x] 8. NULL and NOT NULL
+    - [x] 9. Setting Default Values
+    - [x] 10. A Primer On Primary Keys
+    - [x] 11. Table Constraints Exercise
+    - [x] 12. Table Constraints Exercise Solution
   - [ ] **05 CRUD commands**
     - [ ] 1. Introduction
     - [ ] 2. Introduction to CRUD
