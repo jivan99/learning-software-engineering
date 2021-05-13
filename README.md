@@ -875,18 +875,18 @@
     - [x] 4. CRUD Exercise Read Solution
     - [x] 5. CRUD Exercise Update Solution
     - [x] 6. CRUD Exercise Delete Solution
-  - [ ] **07 The World Of String Functions**
-    - [ ] 1. Introduction
-    - [ ] 2. Running SQL Files
-    - [ ] 3. Loading Our Book Data
-    - [ ] 4. Working with CONCAT
-    - [ ] 5. Introducing SUBSTRING
-    - [ ] 6. Introducing REPLACE
-    - [ ] 7. Using REVERSE
-    - [ ] 8. Working with CHAR LENGTH
-    - [ ] 9. Changing Case with UPPER and LOWER
-    - [ ] 10. String Function Challenges
-    - [ ] 11. String Function Challenges Solution
+  - [x] **07 The World Of String Functions**
+    - [x] 1. Introduction
+    - [x] 2. Running SQL Files
+    - [x] 3. Loading Our Book Data
+    - [x] 4. Working with CONCAT
+    - [x] 5. Introducing SUBSTRING
+    - [x] 6. Introducing REPLACE
+    - [x] 7. Using REVERSE
+    - [x] 8. Working with CHAR LENGTH
+    - [x] 9. Changing Case with UPPER and LOWER
+    - [x] 10. String Function Challenges
+    - [x] 11. String Function Challenges Solution
   - [ ] **08 Refining Our Selections**
     - [ ] 1. Introduction
     - [ ] 2. Seed Data: Adding A Couple New Books
