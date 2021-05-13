@@ -887,16 +887,16 @@
     - [x] 9. Changing Case with UPPER and LOWER
     - [x] 10. String Function Challenges
     - [x] 11. String Function Challenges Solution
-  - [ ] **08 Refining Our Selections**
-    - [ ] 1. Introduction
-    - [ ] 2. Seed Data: Adding A Couple New Books
-    - [ ] 3. Using DISTINCT
-    - [ ] 4. Sorting Data with ORDER BY
-    - [ ] 5. Using LIMIT
-    - [ ] 6. Better Searches with LIKE
-    - [ ] 7. LIKE Part 2: More Wildcards
-    - [ ] 8. Refining Selection Exercises
-    - [ ] 9. Refining Selection Exercises Solution
+  - [x] **08 Refining Our Selections**
+    - [x] 1. Introduction
+    - [x] 2. Seed Data: Adding A Couple New Books
+    - [x] 3. Using DISTINCT
+    - [x] 4. Sorting Data with ORDER BY
+    - [x] 5. Using LIMIT
+    - [x] 6. Better Searches with LIKE
+    - [x] 7. LIKE Part 2: More Wildcards
+    - [x] 8. Refining Selection Exercises
+    - [x] 9. Refining Selection Exercises Solution
   - [ ] **09 The Magic of Aggregate Functions**
     - [ ] 1. Introduction
     - [ ] 2. The Count Function
