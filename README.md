@@ -616,21 +616,21 @@
     - [x] 8. A First Summary
     - [x] 9. Generic Utility Types
     - [x] 10. Generic Types vs Union Types
-  - [ ] **08 Decorators**
-    - [ ] 1. Module Introduction
-    - [ ] 2. A First Class Decorator
-    - [ ] 3. Working with Decorator Factories
-    - [ ] 4. Building More Useful Decorators
-    - [ ] 5. Adding Multiple Decorators
-    - [ ] 6. Diving into Property Decorators
-    - [ ] 7. Accessor & Parameter Decorators
-    - [ ] 8. When Do Decorators Execute?
-    - [ ] 9. Returning (and changing) a Class in a Class Decorator
-    - [ ] 10. Other Decorator Return Types
-    - [ ] 11. Example: Creating an "Autobind" Decorator
-    - [ ] 12. Validation with Decorators - First Steps
-    - [ ] 13. Validation with Decorators - Finished
-    - [ ] 14. Wrap Up
+  - [x] **08 Decorators**
+    - [x] 1. Module Introduction
+    - [x] 2. A First Class Decorator
+    - [x] 3. Working with Decorator Factories
+    - [x] 4. Building More Useful Decorators
+    - [x] 5. Adding Multiple Decorators
+    - [x] 6. Diving into Property Decorators
+    - [x] 7. Accessor & Parameter Decorators
+    - [x] 8. When Do Decorators Execute?
+    - [x] 9. Returning (and changing) a Class in a Class Decorator
+    - [x] 10. Other Decorator Return Types
+    - [x] 11. Example: Creating an "Autobind" Decorator
+    - [x] 12. Validation with Decorators - First Steps
+    - [x] 13. Validation with Decorators - Finished
+    - [x] 14. Wrap Up
   - [ ] **09 Practice Time! Let's build a Drag & Drop Project**
     - [ ] 1. Module Introduction
     - [ ] 2. Getting Started
