@@ -868,13 +868,13 @@
     - [x] 12 Introduction to DELETE
     - [x] 13. DELETE Challenges
     - [x] 14. DELETE Challenges Solution
-  - [ ] **06 CRUD Challenge Section**
-    - [ ] 1. Introduction
-    - [ ] 2. CRUD Exercise Overview
-    - [ ] 3. CRUD Exercise Create Solution
-    - [ ] 4. CRUD Exercise Read Solution
-    - [ ] 5. CRUD Exercise Update Solution
-    - [ ] 6. CRUD Exercise Delete Solution
+  - [x] **06 CRUD Challenge Section**
+    - [x] 1. Introduction
+    - [x] 2. CRUD Exercise Overview
+    - [x] 3. CRUD Exercise Create Solution
+    - [x] 4. CRUD Exercise Read Solution
+    - [x] 5. CRUD Exercise Update Solution
+    - [x] 6. CRUD Exercise Delete Solution
   - [ ] **07 The World Of String Functions**
     - [ ] 1. Introduction
     - [ ] 2. Running SQL Files
