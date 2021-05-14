@@ -909,19 +909,19 @@
     - [x] 9. The Avg Function
     - [x] 10. Aggregate Functions Challenges
     - [x] 11. Aggregate Functions Challenges Solution
-  - [ ] **10 Revisiting Data Types**
-    - [ ] 1. Introduction
-    - [ ] 2. CHAR and VARCHAR
-    - [ ] 3. DECIMAL
-    - [ ] 4. FLOAT and DOUBLE
-    - [ ] 5. DATE, TIME, and DATETIME
-    - [ ] 6. Creating Our DATE data
-    - [ ] 7. CURDATE, CURTIME, and NOW
-    - [ ] 8. Formatting Dates
-    - [ ] 9. Date Math
-    - [ ] 10. Working with TIMESTAMPS
-    - [ ] 11. Data Types Exercises
-    - [ ] 12. Data Types Exercises Solution
+  - [x] **10 Revisiting Data Types**
+    - [x] 1. Introduction
+    - [x] 2. CHAR and VARCHAR
+    - [x] 3. DECIMAL
+    - [x] 4. FLOAT and DOUBLE
+    - [x] 5. DATE, TIME, and DATETIME
+    - [x] 6. Creating Our DATE data
+    - [x] 7. CURDATE, CURTIME, and NOW
+    - [x] 8. Formatting Dates
+    - [x] 9. Date Math
+    - [x] 10. Working with TIMESTAMPS
+    - [x] 11. Data Types Exercises
+    - [x] 12. Data Types Exercises Solution
   - [ ] **11 The Power of Logical Operators**
     - [ ] 1. Introduction
     - [ ] 2. Not Equal
