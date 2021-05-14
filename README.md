@@ -897,18 +897,18 @@
     - [x] 7. LIKE Part 2: More Wildcards
     - [x] 8. Refining Selection Exercises
     - [x] 9. Refining Selection Exercises Solution
-  - [ ] **09 The Magic of Aggregate Functions**
-    - [ ] 1. Introduction
-    - [ ] 2. The Count Function
-    - [ ] 3. The Joys of Group By
-    - [ ] 4. Note about SQL Mode only_full_group_by
-    - [ ] 5. Min and Max Basics
-    - [ ] 6. SUBQUERIES - A Problem with Min and Max
-    - [ ] 7. Using Min and Max with Group By
-    - [ ] 8. The Sum Function
-    - [ ] 9. The Avg Function
-    - [ ] 10. Aggregate Functions Challenges
-    - [ ] 11. Aggregate Functions Challenges Solution
+  - [x] **09 The Magic of Aggregate Functions**
+    - [x] 1. Introduction
+    - [x] 2. The Count Function
+    - [x] 3. The Joys of Group By
+    - [x] 4. Note about SQL Mode only_full_group_by
+    - [x] 5. Min and Max Basics
+    - [x] 6. SUBQUERIES - A Problem with Min and Max
+    - [x] 7. Using Min and Max with Group By
+    - [x] 8. The Sum Function
+    - [x] 9. The Avg Function
+    - [x] 10. Aggregate Functions Challenges
+    - [x] 11. Aggregate Functions Challenges Solution
   - [ ] **10 Revisiting Data Types**
     - [ ] 1. Introduction
     - [ ] 2. CHAR and VARCHAR
