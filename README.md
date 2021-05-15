@@ -922,19 +922,19 @@
     - [x] 10. Working with TIMESTAMPS
     - [x] 11. Data Types Exercises
     - [x] 12. Data Types Exercises Solution
-  - [ ] **11 The Power of Logical Operators**
-    - [ ] 1. Introduction
-    - [ ] 2. Not Equal
-    - [ ] 3. Not Like
-    - [ ] 4. Greater Than
-    - [ ] 5. Less Than
-    - [ ] 6. Logical AND
-    - [ ] 7. Logical OR
-    - [ ] 8. Between
-    - [ ] 9. In And Not In
-    - [ ] 10. Case Statements
-    - [ ] 11. Logical Operators Exercises
-    - [ ] 12. Logical Operators Exercises Solution
+  - [x] **11 The Power of Logical Operators**
+    - [x] 1. Introduction
+    - [x] 2. Not Equal
+    - [x] 3. Not Like
+    - [x] 4. Greater Than
+    - [x] 5. Less Than
+    - [x] 6. Logical AND
+    - [x] 7. Logical OR
+    - [x] 8. Between
+    - [x] 9. In And Not In
+    - [x] 10. Case Statements
+    - [x] 11. Logical Operators Exercises
+    - [x] 12. Logical Operators Exercises Solution
   - [ ] **12 Section 12 - One To Many**
     - [ ] 1. Introduction
     - [ ] 2. Real World Data Is Messy
