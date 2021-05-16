@@ -950,17 +950,17 @@
     - [x] 12. Our First Joins Exercise
     - [x] 13. Our First Joins Exercise SOLUTION
     - [x] 14. Our First Joins Exercise SOLUTION PT. 2
-  - [ ] **13 Section 13 - Many To Many**
-    - [ ] 1. Introduction
-    - [ ] 2. Many To Many Basics
-    - [ ] 3. Creating Our Tables
-    - [ ] 4. TV Joins Challenge 1
-    - [ ] 5. TV Joins Challenge 2
-    - [ ] 6. TV Joins Challenge 3
-    - [ ] 7. TV Joins Challenge 4
-    - [ ] 8. TV Joins Challenge 5
-    - [ ] 9. TV Joins Challenge 6
-    - [ ] 10. TV Joins Challenge 7
+  - [x] **13 Section 13 - Many To Many**
+    - [x] 1. Introduction
+    - [x] 2. Many To Many Basics
+    - [x] 3. Creating Our Tables
+    - [x] 4. TV Joins Challenge 1
+    - [x] 5. TV Joins Challenge 2
+    - [x] 6. TV Joins Challenge 3
+    - [x] 7. TV Joins Challenge 4
+    - [x] 8. TV Joins Challenge 5
+    - [x] 9. TV Joins Challenge 6
+    - [x] 10. TV Joins Challenge 7
   - [ ] **14 Instagram Database Clone**
     - [ ] 1. Introduction
     - [ ] 2. Introduction To Instagram Clone Schema
