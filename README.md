@@ -935,21 +935,21 @@
     - [x] 10. Case Statements
     - [x] 11. Logical Operators Exercises
     - [x] 12. Logical Operators Exercises Solution
-  - [ ] **12 Section 12 - One To Many**
-    - [ ] 1. Introduction
-    - [ ] 2. Real World Data Is Messy
-    - [ ] 3. Types of Data Relationships
-    - [ ] 4. One To Many: The Basics
-    - [ ] 5. Working With Foreign Keys
-    - [ ] 6. Cross Join
-    - [ ] 7. Inner Join
-    - [ ] 8. Left Join
-    - [ ] 9. Right Joins Pt 1
-    - [ ] 10. Right Joins Pt 2
-    - [ ] 11. Right and Left Joins: A Common Question
-    - [ ] 12. Our First Joins Exercise
-    - [ ] 13. Our First Joins Exercise SOLUTION
-    - [ ] 14. Our First Joins Exercise SOLUTION PT. 2
+  - [x] **12 Section 12 - One To Many**
+    - [x] 1. Introduction
+    - [x] 2. Real World Data Is Messy
+    - [x] 3. Types of Data Relationships
+    - [x] 4. One To Many: The Basics
+    - [x] 5. Working With Foreign Keys
+    - [x] 6. Cross Join
+    - [x] 7. Inner Join
+    - [x] 8. Left Join
+    - [x] 9. Right Joins Pt 1
+    - [x] 10. Right Joins Pt 2
+    - [x] 11. Right and Left Joins: A Common Question
+    - [x] 12. Our First Joins Exercise
+    - [x] 13. Our First Joins Exercise SOLUTION
+    - [x] 14. Our First Joins Exercise SOLUTION PT. 2
   - [ ] **13 Section 13 - Many To Many**
     - [ ] 1. Introduction
     - [ ] 2. Many To Many Basics
