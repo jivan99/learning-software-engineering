@@ -1015,5 +1015,11 @@
     - [ ] 4. Preventing Instagram Self-Follows With Triggers
     - [ ] 5. Creating Logger Triggers
     - [ ] 6. Managing Triggers And A Warning
-
+- [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
+- [ ] [Egghead: Advanced SQL for Professional Developers](https://egghead.io/courses/advanced-sql-for-professional-developers)
+- [ ] [Amigoscode: Advanced Databases](https://amigoscode.com/p/advanced-databases)
+- [ ] [Datacamp: Database Desigin](https://www.datacamp.com/courses/database-design)
+- [ ] [LinkedIn Learning: Advanced SQL: Logical Query Processing, Part 1](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1)
+- [ ] [LinkedIn Learning: Advanced SQL: Logical Query Processing, Part 2](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2)
+- [ ] [LinkedIn Learning: Advanced SQL for Query Tuning and Performance Optimization](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization/reduce-query-reponse-time-with-query-tuning)
 
