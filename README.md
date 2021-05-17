@@ -971,16 +971,16 @@
     - [x] 7. Cloning Instagram's DB: Followers Schema
     - [x] 8. Cloning Instagram's DB: Hashtags Part 1
     - [x] 9. Cloning Instagram's DB: Hashtags Part 2
-  - [ ] **15 Working with Lots of Instagram Data**
-    - [ ] 1. Introduction
-    - [ ] 2. Loading The JUMBO dataset
-    - [ ] 3. Instagram Clone Challenge 1
-    - [ ] 4. Instagram Clone Challenge 2
-    - [ ] 5. Instagram Clone Challenge 3
-    - [ ] 6. Instagram Clone Challenge 4
-    - [ ] 7. Instagram Clone Challenge 5
-    - [ ] 8. Instagram Clone Challenge 6
-    - [ ] 9. Instagram Clone Challenge 7
+  - [x] **15 Working with Lots of Instagram Data**
+    - [x] 1. Introduction
+    - [x] 2. Loading The JUMBO dataset
+    - [x] 3. Instagram Clone Challenge 1
+    - [x] 4. Instagram Clone Challenge 2
+    - [x] 5. Instagram Clone Challenge 3
+    - [x] 6. Instagram Clone Challenge 4
+    - [x] 7. Instagram Clone Challenge 5
+    - [x] 8. Instagram Clone Challenge 6
+    - [x] 9. Instagram Clone Challenge 7
   - [ ] **Section 16 - Introducing Node**
     - [ ] 1. Introduction
     - [ ] 2. MySQL and Other Languages
