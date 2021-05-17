@@ -961,17 +961,17 @@
     - [x] 8. TV Joins Challenge 5
     - [x] 9. TV Joins Challenge 6
     - [x] 10. TV Joins Challenge 7
-  - [ ] **14 Instagram Database Clone**
-    - [ ] 1. Introduction
-    - [ ] 2. Introduction To Instagram Clone Schema
-    - [ ] 3. Cloning Instagram's DB: Users Schema
-    - [ ] 4. Cloning Instagram's DB: Photos Schema
-    - [ ] 5. Cloning Instagram's DB: Comments Schema
-    - [ ] 6. Cloning Instagram's DB: Likes Schema
-    - [ ] 7. Cloning Instagram's DB: Followers Schema
-    - [ ] 8. Cloning Instagram's DB: Hashtags Part 1
-    - [ ] 9. Cloning Instagram's DB: Hashtags Part 2
-  - [ ] **15 Working with Logs of Instagram Data**
+  - [x] **14 Instagram Database Clone**
+    - [x] 1. Introduction
+    - [x] 2. Introduction To Instagram Clone Schema
+    - [x] 3. Cloning Instagram's DB: Users Schema
+    - [x] 4. Cloning Instagram's DB: Photos Schema
+    - [x] 5. Cloning Instagram's DB: Comments Schema
+    - [x] 6. Cloning Instagram's DB: Likes Schema
+    - [x] 7. Cloning Instagram's DB: Followers Schema
+    - [x] 8. Cloning Instagram's DB: Hashtags Part 1
+    - [x] 9. Cloning Instagram's DB: Hashtags Part 2
+  - [ ] **15 Working with Lots of Instagram Data**
     - [ ] 1. Introduction
     - [ ] 2. Loading The JUMBO dataset
     - [ ] 3. Instagram Clone Challenge 1
