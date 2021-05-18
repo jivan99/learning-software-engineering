@@ -816,6 +816,303 @@
 
 - [x] [Udemy: The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert)
 - [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
+  - [x] **01 Course Overview**
+      - [x] 1. Welcome Video
+  - [ ] **02 Fundamentals of Databases**
+      - [ ] 1. (headshot) Introduction
+      - [ ] 2. Overview
+      - [ ] 3. Why Use Models
+      - [ ] 4. A Map is a Model of Reality
+      - [ ] 5. Map Example v3
+      - [ ] 6. A Message to Model Makers
+      - [ ] 7. Knowledge Check 1
+      - [ ] 8. To Use or Not To Use
+      - [ ] 9. To Use
+      - [ ] 10. Not To Use
+      - [ ] 11. Outline of Major Topics
+      - [ ] 12. Data Modeling
+      - [ ] 13. Process Modeling
+      - [ ] 14. Data Models-Architecture DBMS Architecture
+      - [ ] 15. Examples of Data Models
+      - [ ] 16. Relational Models Data-Structures
+      - [ ] 17. Relational Model-Constraints
+      - [ ] 18. Data Model-Operations
+      - [ ] 19. Keys and Identifiers
+      - [ ] 20. Knowledge Check 2
+      - [ ] 21. Integrity and Consistency
+      - [ ] 22. Knowledge Check 3
+      - [ ] 23. NULL Values
+      - [ ] 24. Surrogates Things and Names
+      - [ ] 25. ANSI-SPARC
+      - [ ] 26. Conceptual Schema
+      - [ ] 27. External Schema
+      - [ ] 28. Knowledge Check 4
+      - [ ] 29. Internal Schema
+      - [ ] 30. Physical Data Independence
+      - [ ] 31. Logical Data Independence
+      - [ ] 32. Knowledge Check 5
+      - [ ] 33. ANSI-SPARC DBMS Framework, Part 01
+      - [ ] 34. ANSI-SPARC DBMS Framework, Part 02
+      - [ ] 35. Metadata Chart
+      - [ ] 36. Metadata-What is it
+  - [ ] **03 Methodology I: ANALYSIS**
+      - [ ] 1. Database Application Development Methodology-Assumptions
+      - [ ] 2. The Software Process
+      - [ ] 3. Overview of Methodology Data First
+      - [ ] 4. Example Project Description
+      - [ ] 5. (headshot) GTOnline Networking Application
+      - [ ] 6. Case Study Description: GTOnline System
+      - [ ] 7. Analysis
+      - [ ] 8. Analysis-Information Flow Diagram
+      - [ ] 9. Requirements 01
+      - [ ] 10. Requirements 02
+      - [ ] 11. Requirements 03
+      - [ ] 12. Requirements 04
+      - [ ] 13. Requirements 05
+      - [ ] 14. IFD chart
+      - [ ] 15. Don't Go There
+      - [ ] 16. Specification v2
+      - [ ] 17. What goes in out of the Database
+      - [ ] 18. DETOUR: EER MODEL
+  - [ ] **04 Extended-Entity Relationship Model**
+      - [ ] 1. (headshot) Introduction
+      - [ ] 2. Entity Type and Entity Surrogates
+      - [ ] 3. Single-valued Properties
+      - [ ] 4. Identifying Properties
+      - [ ] 5. Composite Properties
+      - [ ] 6. Multi-valued Properties
+      - [ ] 7. Knowledge Check 1
+      - [ ] 8. 1-1 relationship types
+      - [ ] 9. 1-many relationship types
+      - [ ] 10. Mandatory 1-N relationship types
+      - [ ] 11. N-M relationship types
+      - [ ] 12. Knowledge Check 2
+      - [ ] 13. N-ary relationship types
+      - [ ] 14. Many relationship types
+      - [ ] 15. Identifying relationships
+      - [ ] 16. Knowledge Check 3
+      - [ ] 17. Recursive relationship types
+      - [ ] 18. Supertypes and subtypes
+      - [ ] 19. Supertypes and subtypes-inheritance
+      - [ ] 20. Knowledge Check 4
+      - [ ] 21. Union Entity types
+      - [ ] 22. (headshot) Thing, Relationship, Property v2
+      - [ ] 23. Are relationships entities?
+      - [ ] 24. Another Example
+      - [ ] 25. Messing with your brain part 1
+      - [ ] 26. Messing with your brain part 2
+      - [ ] 27. Relationship type or Entity type?
+      - [ ] 28. What can the EER do?
+      - [ ] 29. Car graphic
+      - [ ] 30. Knowledge Check 5
+      - [ ] 31. What's the Result Type of a Query?
+      - [ ] 32. EER Diagram
+      - [ ] 33. (headshot) Relational Model Theoretical Foundation v2
+      - [ ] 34. Relational Model
+      - [ ] 35. Data Structures
+      - [ ] 36. Big Deal
+      - [ ] 37. Knowledge Check 6
+      - [ ] 38. Constraints
+  - [ ] **05 Methodology II: SPECIFICATION**
+      - [ ] 1. Requirements 06
+      - [ ] 2. Use Attribute names
+      - [ ] 3. Requirements 07
+      - [ ] 4. Requirements 08
+      - [ ] 5. Requirements 08.1
+      - [ ] 6. Requirements 09
+      - [ ] 7. EER Mapping
+      - [ ] 8. Reading EER Diagrams
+      - [ ] 9. Data Formats-beg, steal, borrow
+      - [ ] 10. Constraints
+      - [ ] 11. Task Decomposition
+      - [ ] 12. Web apps vs Traditional apps
+      - [ ] 13. Task Decomposition-View Profile v2
+      - [ ] 14. Abstract Code-View Profile v2
+      - [ ] 15. Task Decomposition-Edit Profile v2
+      - [ ] 16. Abstract Code-Edit Profile v2
+      - [ ] 17. Task Decomposition Friend Requests v2
+      - [ ] 18. Specification
+  - [ ] **06 EER Relational Mapping**
+      - [ ] 1. EER Relational Mapping
+      - [ ] 2. ET
+      - [ ] 3. ET-A-F
+      - [ ] 4. ET1-A-ET2
+      - [ ] 5. ET1-R-ET2-1-N
+      - [ ] 6. ET1-R-ET2-N-M
+      - [ ] 7. ET1-R-A-ET2
+      - [ ] 8. Case 1
+      - [ ] 9. Case 2
+      - [ ] 10. Case 3
+      - [ ] 11. Case 4
+      - [ ] 12. ET-B-ET1-ET2
+      - [ ] 12. ET-B-ET1-ET2
+  - [ ] **07 Methodology III: DESIGN**
+      - [ ] 1. Design
+      - [ ] 2. EER Diagram Review 1
+      - [ ] 3. EER Diagram Review 2
+      - [ ] 4. Mapping the Super Subtype v2
+      - [ ] 5. Weak Entity Type Mapping
+      - [ ] 6. Relational Schema
+      - [ ] 7. DETOUR: NORMALIZATION
+  - [ ] **08 Normalization**
+      - [ ] 1. Normalize
+      - [ ] 2. What's it all about?
+      - [ ] 3. (headshot) The Rules
+      - [ ] 4. Not a relation
+      - [ ] 5. Relation with problems
+      - [ ] 6. Relation with Problems-Redundancy
+      - [ ] 7. Relation with Problems-Insertion anomaly
+      - [ ] 8. Relation with Problems-Deletion anomaly
+      - [ ] 9. Relation with Problems-Update anomaly
+      - [ ] 10. Information loss
+      - [ ] 11. Dependency Loss
+      - [ ] 12. Perfect
+      - [ ] 13. Functional Dependencies
+      - [ ] 14. Full Functional Dependencies
+      - [ ] 15. Functional Dependencies and Keys
+      - [ ] 16. Overview of Normal Forms
+      - [ ] 17. Normal Forms-Definitions
+      - [ ] 18. Kent and Diehr quote
+      - [ ] 19. 1NF BCNF flow chart
+      - [ ] 20. Compute with Functional Dependencies-Armstrong's rules
+      - [ ] 21. How to guarantee lossless joins
+      - [ ] 22. How to guarantee preservation of FDs
+      - [ ] 23. Email Interest
+      - [ ] 24. 3NF and BCNF
+      - [ ] 25. It Nevers Happens in Practice
+  - [ ] **09 Methodology III: Design (SQL Statements)**
+      - [ ] 1. SQL-Create Table Statements
+      - [ ] 2. SQL-Create Tables 1
+      - [ ] 3. SQL-Create Tables 2
+      - [ ] 4. Design-on to Abstract Code
+      - [ ] 5. SQL-View Profile 1
+      - [ ] 6. SQL View Profile, part 02
+      - [ ] 7. SQL Edit Profile, part 01
+      - [ ] 8. SQL Edit Profile, part 02
+      - [ ] 9. SQL Edit Profile, part 03
+      - [ ] 10. SQL Request Friend
+      - [ ] 11. SQL View Requests
+      - [ ] 12. SQL Accept, Reject, Cancel Friend Requests
+      - [ ] 13. Design on to Abstract Code w SQL
+  - [ ] **10 Relational Algebra and Calculus**
+      - [ ] 1. Closed Algebra
+      - [ ] 2. Relational Algebra Operators
+      - [ ] 3. Selection
+      - [ ] 4. Selection-Simple Expression
+      - [ ] 5. Selection-Composite Expression
+      - [ ] 6. Projection
+      - [ ] 7. Relations are Sets
+      - [ ] 8. Knowledge Check 1
+      - [ ] 9. Union-U
+      - [ ] 10. Intersection
+      - [ ] 11. Set Difference
+      - [ ] 12. Natural Join
+      - [ ] 13. Theta Join
+      - [ ] 14. Left Outer Join
+      - [ ] 15. Cartesian Product-X
+      - [ ] 16. Cartesian Product-Can be Useful
+      - [ ] 17. Divideby
+      - [ ] 18. Rename
+      - [ ] 19. (headshot) Relational Calculus intro
+      - [ ] 20. Relational Caculus Expressions
+      - [ ] 21. Selection-CALC
+      - [ ] 22. Selection-Composite Expression-CALC
+      - [ ] 23. Projection-CALC
+      - [ ] 24. Union-CALC
+      - [ ] 25. Intersection-CALC
+      - [ ] 26. Set Difference-CALC
+      - [ ] 27. Natural Join-CALC
+      - [ ] 28. Cartesian Product-CALC
+      - [ ] 29. Knowledge Check 2
+      - [ ] 30. Cartesian Product-Can be Useful-CALC
+      - [ ] 31. Divideby-CALC
+      - [ ] 32. Knowledge Check 3
+  - [ ] **11 SQL**
+      - [ ] 1. (headshot) SQL Introduction
+      - [ ] 2. SQL History v2
+      - [ ] 3. Insert
+      - [ ] 4. Delete
+      - [ ] 5. Update
+      - [ ] 6. Knowledge Check 1
+      - [ ] 7. General SQL Query Syntax
+      - [ ] 8. Selection-Wildcard
+      - [ ] 9. Selection-Where clause
+      - [ ] 10. Selection-Composite Where clause
+      - [ ] 11. Projection
+      - [ ] 12. Distinct
+      - [ ] 13. Natural Inner Join-dot notation
+      - [ ] 14. Knowledge Check 2
+      - [ ] 15. Natural Inner Join-aliases
+      - [ ] 16. Left Outer Join
+      - [ ] 17. String Matching
+      - [ ] 18. Sorting
+      - [ ] 19. Set Operations-Union
+      - [ ] 20. Set Operations-Intersect
+      - [ ] 21. Set Operations-Except
+      - [ ] 22. Built in Functions
+      - [ ] 23. Group By
+      - [ ] 24. Having-Condition on the group
+      - [ ] 25. Nested Queries-In/Not In
+      - [ ] 26. Nested Queries-Some/All
+      - [ ] 27. Nested Queries-correlated
+      - [ ] 28. Knowledge Check 3
+  - [ ] **12 Efficiency**
+      - [ ] 1. Efficiency/Indexing/Physical Database...
+      - [ ] 2. Computer Architecture
+      - [ ] 3. Why should you care
+      - [ ] 4. Main Memory vs Disk
+      - [ ] 5. Disk
+      - [ ] 6. Records
+      - [ ] 7. Blocks
+      - [ ] 8. Files
+      - [ ] 9. Assumptions
+      - [ ] 10. Heap-Unsorted
+      - [ ] 11. Heap setup
+      - [ ] 12. Heap
+      - [ ] 13. Sorted but
+      - [ ] 14. Sorted Binary
+      - [ ] 15. Sorted File
+      - [ ] 16. Primary Index -Part 1
+      - [ ] 17. Primary Index -Part 2
+      - [ ] 18. Sparse Index
+      - [ ] 19. Secondary Index
+      - [ ] 20. Multi-Level Index
+      - [ ] 21. Multi-Level Headshot
+      - [ ] 22. Multi-Level Index B-Tree
+      - [ ] 23. Static Hashing Part I
+      - [ ] 24. Static Hashing Part 2
+  - [ ] **13 Methodology IV: Implementation**
+      - [ ] 1. Implementation
+      - [ ] 2. AMP solution stack
+      - [ ] 3. Implementation Data First
+      - [ ] 4. WAMP stack demos (headshot)
+      - [ ] 5. Install the WAMP Stack
+      - [ ] 6. Run the WAMP Stack
+      - [ ] 7. Demo 03
+      - [ ] 8. To Index or Not Many Things to Consider
+      - [ ] 9. To Index or Not Size of Table
+      - [ ] 10. To Index or Not Multiple Access Paths add up
+      - [ ] 11. To Index or Not Reads and or Writes
+      - [ ] 12. To Index or Not Already Indexed
+      - [ ] 13. To Index or Not Some Advice
+      - [ ] 14. Implementation Tasks
+      - [ ] 15. Run PHP Scripts for GTOnline example
+      - [ ] 16. HTML demo
+  - [ ] **14 Metadata**
+      - [ ] 1. Archival Metadata Hardware used
+      - [ ] 2. Experiences with Metadata
+      - [ ] 3. The Question
+      - [ ] 4. Preservation Metadata OAIS Information Model
+      - [ ] 5. OAIS Information Model
+      - [ ] 6. Content Information Package
+      - [ ] 7. OAIS Information Model   part 02
+      - [ ] 8. Preservation Description Information
+      - [ ] 9. OAIS Information Model   part 03
+      - [ ] 10. Standards for Archival Metadata are not mature
+      - [ ] 11. Metadata Representation Standards
+      - [ ] 12. Several elements are necessary
+  - [ ] **15 Course Wrap Up**
+      - [ ] 1. Course Wrap Up
 - [ ] [Egghead: Advanced SQL for Professional Developers](https://egghead.io/courses/advanced-sql-for-professional-developers)
 - [ ] [Amigoscode: Advanced Databases](https://amigoscode.com/p/advanced-databases)
 - [ ] [Datacamp: Database Desigin](https://www.datacamp.com/courses/database-design)
