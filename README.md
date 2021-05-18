@@ -997,17 +997,17 @@
     - [x] 13. Bulk Inserting 500 Users - Finally!
     - [x] 14. 500 Users Exercises
     - [x] 15. 500 Users Exercises Solutions
-  - [ ] **Section 17 - Building Our Web App**
-    - [ ] 1. Introduction
-    - [ ] 2. Introducing Express
-    - [ ] 3. NPM Init and package.json files
-    - [ ] 4. Our First Simple Web App
-    - [ ] 5. Adding Multiple Routes
-    - [ ] 6. Connecting Express and MySQL
-    - [ ] 7. Adding EJS Templates
-    - [ ] 8. Connecting The Form
-    - [ ] 9. Styling Part 1
-    - [ ] 10. Styling Part 2
+  - [x] **Section 17 - Building Our Web App**
+    - [x] 1. Introduction
+    - [x] 2. Introducing Express
+    - [x] 3. NPM Init and package.json files
+    - [x] 4. Our First Simple Web App
+    - [x] 5. Adding Multiple Routes
+    - [x] 6. Connecting Express and MySQL
+    - [x] 7. Adding EJS Templates
+    - [x] 8. Connecting The Form
+    - [x] 9. Styling Part 1
+    - [x] 10. Styling Part 2
   - [ ] **Section 18 - Database Triggers**
     - [ ] 1. Introduction to Database Triggers
     - [ ] 2. Writing Our First Trigger Part 1
