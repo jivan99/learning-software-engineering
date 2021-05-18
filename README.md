@@ -1008,13 +1008,13 @@
     - [x] 8. Connecting The Form
     - [x] 9. Styling Part 1
     - [x] 10. Styling Part 2
-  - [ ] **Section 18 - Database Triggers**
-    - [ ] 1. Introduction to Database Triggers
-    - [ ] 2. Writing Our First Trigger Part 1
-    - [ ] 3. Writing Our First Trigger Part 2
-    - [ ] 4. Preventing Instagram Self-Follows With Triggers
-    - [ ] 5. Creating Logger Triggers
-    - [ ] 6. Managing Triggers And A Warning
+  - [x] **Section 18 - Database Triggers**
+    - [x] 1. Introduction to Database Triggers
+    - [x] 2. Writing Our First Trigger Part 1
+    - [x] 3. Writing Our First Trigger Part 2
+    - [x] 4. Preventing Instagram Self-Follows With Triggers
+    - [x] 5. Creating Logger Triggers
+    - [x] 6. Managing Triggers And A Warning
 - [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
 - [ ] [Egghead: Advanced SQL for Professional Developers](https://egghead.io/courses/advanced-sql-for-professional-developers)
 - [ ] [Amigoscode: Advanced Databases](https://amigoscode.com/p/advanced-databases)
