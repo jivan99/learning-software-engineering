@@ -981,22 +981,22 @@
     - [x] 7. Instagram Clone Challenge 5
     - [x] 8. Instagram Clone Challenge 6
     - [x] 9. Instagram Clone Challenge 7
-  - [ ] **Section 16 - Introducing Node**
-    - [ ] 1. Introduction
-    - [ ] 2. MySQL and Other Languages
-    - [ ] 3. BUT WHAT ABOUT PHP
-    - [ ] 4. Introduction to JOIN US app
-    - [ ] 5. 5 Minute NodeJS Crash Course
-    - [ ] 6. Introduction to NPM and Faker
-    - [ ] 7. Introducing the MySQL Package
-    - [ ] 8. Connecting Node to MySQL
-    - [ ] 9. Creating Our Users Table
-    - [ ] 10. Selecting Using Node
-    - [ ] 11. Inserting Using Node
-    - [ ] 12. Some MySQL/Node Magic
-    - [ ] 13. Bulk Inserting 500 Users - Finally!
-    - [ ] 14. 500 Users Exercises
-    - [ ] 15. 500 Users Exercises Solutions
+  - [x] **Section 16 - Introducing Node**
+    - [x] 1. Introduction
+    - [x] 2. MySQL and Other Languages
+    - [x] 3. BUT WHAT ABOUT PHP
+    - [x] 4. Introduction to JOIN US app
+    - [x] 5. 5 Minute NodeJS Crash Course
+    - [x] 6. Introduction to NPM and Faker
+    - [x] 7. Introducing the MySQL Package
+    - [x] 8. Connecting Node to MySQL
+    - [x] 9. Creating Our Users Table
+    - [x] 10. Selecting Using Node
+    - [x] 11. Inserting Using Node
+    - [x] 12. Some MySQL/Node Magic
+    - [x] 13. Bulk Inserting 500 Users - Finally!
+    - [x] 14. 500 Users Exercises
+    - [x] 15. 500 Users Exercises Solutions
   - [ ] **Section 17 - Building Our Web App**
     - [ ] 1. Introduction
     - [ ] 2. Introducing Express
