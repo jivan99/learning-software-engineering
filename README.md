@@ -818,43 +818,43 @@
 - [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
   - [x] **01 Course Overview**
       - [x] 1. Welcome Video
-  - [ ] **02 Fundamentals of Databases**
-      - [ ] 1. (headshot) Introduction
-      - [ ] 2. Overview
-      - [ ] 3. Why Use Models
-      - [ ] 4. A Map is a Model of Reality
-      - [ ] 5. Map Example v3
-      - [ ] 6. A Message to Model Makers
-      - [ ] 7. Knowledge Check 1
-      - [ ] 8. To Use or Not To Use
-      - [ ] 9. To Use
-      - [ ] 10. Not To Use
-      - [ ] 11. Outline of Major Topics
-      - [ ] 12. Data Modeling
-      - [ ] 13. Process Modeling
-      - [ ] 14. Data Models-Architecture DBMS Architecture
-      - [ ] 15. Examples of Data Models
-      - [ ] 16. Relational Models Data-Structures
-      - [ ] 17. Relational Model-Constraints
-      - [ ] 18. Data Model-Operations
-      - [ ] 19. Keys and Identifiers
-      - [ ] 20. Knowledge Check 2
-      - [ ] 21. Integrity and Consistency
-      - [ ] 22. Knowledge Check 3
-      - [ ] 23. NULL Values
-      - [ ] 24. Surrogates Things and Names
-      - [ ] 25. ANSI-SPARC
-      - [ ] 26. Conceptual Schema
-      - [ ] 27. External Schema
-      - [ ] 28. Knowledge Check 4
-      - [ ] 29. Internal Schema
-      - [ ] 30. Physical Data Independence
-      - [ ] 31. Logical Data Independence
-      - [ ] 32. Knowledge Check 5
-      - [ ] 33. ANSI-SPARC DBMS Framework, Part 01
-      - [ ] 34. ANSI-SPARC DBMS Framework, Part 02
-      - [ ] 35. Metadata Chart
-      - [ ] 36. Metadata-What is it
+  - [x] **`02 Fundamentals of Databases`**
+      - [x] 1. (headshot) Introduction
+      - [x] 2. Overview
+      - [x] 3. Why Use Models
+      - [x] 4. A Map is a Model of Reality
+      - [x] 5. Map Example v3
+      - [x] 6. A Message to Model Makers
+      - [x] 7. Knowledge Check 1
+      - [x] 8. To Use or Not To Use
+      - [x] 9. To Use
+      - [x] 10. Not To Use
+      - [x] 11. Outline of Major Topics
+      - [x] 12. Data Modeling
+      - [x] 13. Process Modeling
+      - [x] 14. Data Models-Architecture DBMS Architecture
+      - [x] 15. Examples of Data Models
+      - [x] 16. Relational Models Data-Structures
+      - [x] 17. Relational Model-Constraints
+      - [x] 18. Data Model-Operations
+      - [x] 19. Keys and Identifiers
+      - [x] 20. Knowledge Check 2
+      - [x] 21. Integrity and Consistency
+      - [x] 22. Knowledge Check 3
+      - [x] 23. NULL Values
+      - [x] 24. Surrogates Things and Names
+      - [x] 25. ANSI-SPARC
+      - [x] 26. Conceptual Schema
+      - [x] 27. External Schema
+      - [x] 28. Knowledge Check 4
+      - [x] 29. Internal Schema
+      - [x] 30. Physical Data Independence
+      - [x] 31. Logical Data Independence
+      - [x] 32. Knowledge Check 5
+      - [x] 33. ANSI-SPARC DBMS Framework, Part 01
+      - [x] 34. ANSI-SPARC DBMS Framework, Part 02
+      - [x] 35. Metadata Chart
+      - [x] 36. Metadata-What is it
   - [ ] **03 Methodology I: ANALYSIS**
       - [ ] 1. Database Application Development Methodology-Assumptions
       - [ ] 2. The Software Process
