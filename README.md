@@ -855,25 +855,25 @@
       - [x] 34. ANSI-SPARC DBMS Framework, Part 02
       - [x] 35. Metadata Chart
       - [x] 36. Metadata-What is it
-  - [ ] **03 Methodology I: ANALYSIS**
-      - [ ] 1. Database Application Development Methodology-Assumptions
-      - [ ] 2. The Software Process
-      - [ ] 3. Overview of Methodology Data First
-      - [ ] 4. Example Project Description
-      - [ ] 5. (headshot) GTOnline Networking Application
-      - [ ] 6. Case Study Description: GTOnline System
-      - [ ] 7. Analysis
-      - [ ] 8. Analysis-Information Flow Diagram
-      - [ ] 9. Requirements 01
-      - [ ] 10. Requirements 02
-      - [ ] 11. Requirements 03
-      - [ ] 12. Requirements 04
-      - [ ] 13. Requirements 05
-      - [ ] 14. IFD chart
-      - [ ] 15. Don't Go There
-      - [ ] 16. Specification v2
-      - [ ] 17. What goes in out of the Database
-      - [ ] 18. DETOUR: EER MODEL
+  - [x] **03 Methodology I: ANALYSIS**
+      - [x] 1. Database Application Development Methodology-Assumptions
+      - [x] 2. The Software Process
+      - [x] 3. Overview of Methodology Data First
+      - [x] 4. Example Project Description
+      - [x] 5. (headshot) GTOnline Networking Application
+      - [x] 6. Case Study Description: GTOnline System
+      - [x] 7. Analysis
+      - [x] 8. Analysis-Information Flow Diagram
+      - [x] 9. Requirements 01
+      - [x] 10. Requirements 02
+      - [x] 11. Requirements 03
+      - [x] 12. Requirements 04
+      - [x] 13. Requirements 05
+      - [x] 14. IFD chart
+      - [x] 15. Don't Go There
+      - [x] 16. Specification v2
+      - [x] 17. What goes in out of the Database
+      - [x] 18. DETOUR: EER MODEL
   - [ ] **04 Extended-Entity Relationship Model**
       - [ ] 1. (headshot) Introduction
       - [ ] 2. Entity Type and Entity Surrogates
