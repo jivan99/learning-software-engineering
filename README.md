@@ -874,45 +874,45 @@
       - [x] 16. Specification v2
       - [x] 17. What goes in out of the Database
       - [x] 18. DETOUR: EER MODEL
-  - [ ] **04 Extended-Entity Relationship Model**
-      - [ ] 1. (headshot) Introduction
-      - [ ] 2. Entity Type and Entity Surrogates
-      - [ ] 3. Single-valued Properties
-      - [ ] 4. Identifying Properties
-      - [ ] 5. Composite Properties
-      - [ ] 6. Multi-valued Properties
-      - [ ] 7. Knowledge Check 1
-      - [ ] 8. 1-1 relationship types
-      - [ ] 9. 1-many relationship types
-      - [ ] 10. Mandatory 1-N relationship types
-      - [ ] 11. N-M relationship types
-      - [ ] 12. Knowledge Check 2
-      - [ ] 13. N-ary relationship types
-      - [ ] 14. Many relationship types
-      - [ ] 15. Identifying relationships
-      - [ ] 16. Knowledge Check 3
-      - [ ] 17. Recursive relationship types
-      - [ ] 18. Supertypes and subtypes
-      - [ ] 19. Supertypes and subtypes-inheritance
-      - [ ] 20. Knowledge Check 4
-      - [ ] 21. Union Entity types
-      - [ ] 22. (headshot) Thing, Relationship, Property v2
-      - [ ] 23. Are relationships entities?
-      - [ ] 24. Another Example
-      - [ ] 25. Messing with your brain part 1
-      - [ ] 26. Messing with your brain part 2
-      - [ ] 27. Relationship type or Entity type?
-      - [ ] 28. What can the EER do?
-      - [ ] 29. Car graphic
-      - [ ] 30. Knowledge Check 5
-      - [ ] 31. What's the Result Type of a Query?
-      - [ ] 32. EER Diagram
-      - [ ] 33. (headshot) Relational Model Theoretical Foundation v2
-      - [ ] 34. Relational Model
-      - [ ] 35. Data Structures
-      - [ ] 36. Big Deal
-      - [ ] 37. Knowledge Check 6
-      - [ ] 38. Constraints
+  - [x] **04 Extended-Entity Relationship Model**
+      - [x] 1. (headshot) Introduction
+      - [x] 2. Entity Type and Entity Surrogates
+      - [x] 3. Single-valued Properties
+      - [x] 4. Identifying Properties
+      - [x] 5. Composite Properties
+      - [x] 6. Multi-valued Properties
+      - [x] 7. Knowledge Check 1
+      - [x] 8. 1-1 relationship types
+      - [x] 9. 1-many relationship types
+      - [x] 10. Mandatory 1-N relationship types
+      - [x] 11. N-M relationship types
+      - [x] 12. Knowledge Check 2
+      - [x] 13. N-ary relationship types
+      - [x] 14. Many relationship types
+      - [x] 15. Identifying relationships
+      - [x] 16. Knowledge Check 3
+      - [x] 17. Recursive relationship types
+      - [x] 18. Supertypes and subtypes
+      - [x] 19. Supertypes and subtypes-inheritance
+      - [x] 20. Knowledge Check 4
+      - [x] 21. Union Entity types
+      - [x] 22. (headshot) Thing, Relationship, Property v2
+      - [x] 23. Are relationships entities?
+      - [x] 24. Another Example
+      - [x] 25. Messing with your brain part 1
+      - [x] 26. Messing with your brain part 2
+      - [x] 27. Relationship type or Entity type?
+      - [x] 28. What can the EER do?
+      - [x] 29. Car graphic
+      - [x] 30. Knowledge Check 5
+      - [x] 31. What's the Result Type of a Query?
+      - [x] 32. EER Diagram
+      - [x] 33. (headshot) Relational Model Theoretical Foundation v2
+      - [x] 34. Relational Model
+      - [x] 35. Data Structures
+      - [x] 36. Big Deal
+      - [x] 37. Knowledge Check 6
+      - [x] 38. Constraints
   - [ ] **05 Methodology II: SPECIFICATION**
       - [ ] 1. Requirements 06
       - [ ] 2. Use Attribute names
