@@ -913,25 +913,25 @@
       - [x] 36. Big Deal
       - [x] 37. Knowledge Check 6
       - [x] 38. Constraints
-  - [ ] **05 Methodology II: SPECIFICATION**
-      - [ ] 1. Requirements 06
-      - [ ] 2. Use Attribute names
-      - [ ] 3. Requirements 07
-      - [ ] 4. Requirements 08
-      - [ ] 5. Requirements 08.1
-      - [ ] 6. Requirements 09
-      - [ ] 7. EER Mapping
-      - [ ] 8. Reading EER Diagrams
-      - [ ] 9. Data Formats-beg, steal, borrow
-      - [ ] 10. Constraints
-      - [ ] 11. Task Decomposition
-      - [ ] 12. Web apps vs Traditional apps
-      - [ ] 13. Task Decomposition-View Profile v2
-      - [ ] 14. Abstract Code-View Profile v2
-      - [ ] 15. Task Decomposition-Edit Profile v2
-      - [ ] 16. Abstract Code-Edit Profile v2
-      - [ ] 17. Task Decomposition Friend Requests v2
-      - [ ] 18. Specification
+  - [x] **05 Methodology II: SPECIFICATION**
+      - [x] 1. Requirements 06
+      - [x] 2. Use Attribute names
+      - [x] 3. Requirements 07
+      - [x] 4. Requirements 08
+      - [x] 5. Requirements 08.1
+      - [x] 6. Requirements 09
+      - [x] 7. EER Mapping
+      - [x] 8. Reading EER Diagrams
+      - [x] 9. Data Formats-beg, steal, borrow
+      - [x] 10. Constraints
+      - [x] 11. Task Decomposition
+      - [x] 12. Web apps vs Traditional apps
+      - [x] 13. Task Decomposition-View Profile v2
+      - [x] 14. Abstract Code-View Profile v2
+      - [x] 15. Task Decomposition-Edit Profile v2
+      - [x] 16. Abstract Code-Edit Profile v2
+      - [x] 17. Task Decomposition Friend Requests v2
+      - [x] 18. Specification
   - [ ] **06 EER Relational Mapping**
       - [ ] 1. EER Relational Mapping
       - [ ] 2. ET
