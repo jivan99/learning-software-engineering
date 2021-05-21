@@ -945,14 +945,14 @@
       - [x] 10. Case 3
       - [x] 11. Case 4
       - [x] 12. ET-B-ET1-ET2
-  - [ ] **07 Methodology III: DESIGN**
-      - [ ] 1. Design
-      - [ ] 2. EER Diagram Review 1
-      - [ ] 3. EER Diagram Review 2
-      - [ ] 4. Mapping the Super Subtype v2
-      - [ ] 5. Weak Entity Type Mapping
-      - [ ] 6. Relational Schema
-      - [ ] 7. DETOUR: NORMALIZATION
+  - [x] **07 Methodology III: DESIGN**
+      - [x] 1. Design
+      - [x] 2. EER Diagram Review 1
+      - [x] 3. EER Diagram Review 2
+      - [x] 4. Mapping the Super Subtype v2
+      - [x] 5. Weak Entity Type Mapping
+      - [x] 6. Relational Schema
+      - [x] 7. DETOUR: NORMALIZATION
   - [ ] **08 Normalization**
       - [ ] 1. Normalize
       - [ ] 2. What's it all about?
