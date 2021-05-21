@@ -818,7 +818,7 @@
 - [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
   - [x] **01 Course Overview**
       - [x] 1. Welcome Video
-  - [x] **`02 Fundamentals of Databases`**
+  - [x] **02 Fundamentals of Databases**
       - [x] 1. (headshot) Introduction
       - [x] 2. Overview
       - [x] 3. Why Use Models
@@ -932,20 +932,19 @@
       - [x] 16. Abstract Code-Edit Profile v2
       - [x] 17. Task Decomposition Friend Requests v2
       - [x] 18. Specification
-  - [ ] **06 EER Relational Mapping**
-      - [ ] 1. EER Relational Mapping
-      - [ ] 2. ET
-      - [ ] 3. ET-A-F
-      - [ ] 4. ET1-A-ET2
-      - [ ] 5. ET1-R-ET2-1-N
-      - [ ] 6. ET1-R-ET2-N-M
-      - [ ] 7. ET1-R-A-ET2
-      - [ ] 8. Case 1
-      - [ ] 9. Case 2
-      - [ ] 10. Case 3
-      - [ ] 11. Case 4
-      - [ ] 12. ET-B-ET1-ET2
-      - [ ] 12. ET-B-ET1-ET2
+  - [x] **06 EER Relational Mapping**
+      - [x] 1. EER Relational Mapping
+      - [x] 2. ET
+      - [x] 3. ET-A-F
+      - [x] 4. ET1-A-ET2
+      - [x] 5. ET1-R-ET2-1-N
+      - [x] 6. ET1-R-ET2-N-M
+      - [x] 7. ET1-R-A-ET2
+      - [x] 8. Case 1
+      - [x] 9. Case 2
+      - [x] 10. Case 3
+      - [x] 11. Case 4
+      - [x] 12. ET-B-ET1-ET2
   - [ ] **07 Methodology III: DESIGN**
       - [ ] 1. Design
       - [ ] 2. EER Diagram Review 1
