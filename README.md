@@ -953,32 +953,32 @@
       - [x] 5. Weak Entity Type Mapping
       - [x] 6. Relational Schema
       - [x] 7. DETOUR: NORMALIZATION
-  - [ ] **08 Normalization**
-      - [ ] 1. Normalize
-      - [ ] 2. What's it all about?
-      - [ ] 3. (headshot) The Rules
-      - [ ] 4. Not a relation
-      - [ ] 5. Relation with problems
-      - [ ] 6. Relation with Problems-Redundancy
-      - [ ] 7. Relation with Problems-Insertion anomaly
-      - [ ] 8. Relation with Problems-Deletion anomaly
-      - [ ] 9. Relation with Problems-Update anomaly
-      - [ ] 10. Information loss
-      - [ ] 11. Dependency Loss
-      - [ ] 12. Perfect
-      - [ ] 13. Functional Dependencies
-      - [ ] 14. Full Functional Dependencies
-      - [ ] 15. Functional Dependencies and Keys
-      - [ ] 16. Overview of Normal Forms
-      - [ ] 17. Normal Forms-Definitions
-      - [ ] 18. Kent and Diehr quote
-      - [ ] 19. 1NF BCNF flow chart
-      - [ ] 20. Compute with Functional Dependencies-Armstrong's rules
-      - [ ] 21. How to guarantee lossless joins
-      - [ ] 22. How to guarantee preservation of FDs
-      - [ ] 23. Email Interest
-      - [ ] 24. 3NF and BCNF
-      - [ ] 25. It Nevers Happens in Practice
+  - [x] **08 Normalization**
+      - [x] 1. Normalize
+      - [x] 2. What's it all about?
+      - [x] 3. (headshot) The Rules
+      - [x] 4. Not a relation
+      - [x] 5. Relation with problems
+      - [x] 6. Relation with Problems-Redundancy
+      - [x] 7. Relation with Problems-Insertion anomaly
+      - [x] 8. Relation with Problems-Deletion anomaly
+      - [x] 9. Relation with Problems-Update anomaly
+      - [x] 10. Information loss
+      - [x] 11. Dependency Loss
+      - [x] 12. Perfect
+      - [x] 13. Functional Dependencies
+      - [x] 14. Full Functional Dependencies
+      - [x] 15. Functional Dependencies and Keys
+      - [x] 16. Overview of Normal Forms
+      - [x] 17. Normal Forms-Definitions
+      - [x] 18. Kent and Diehr quote
+      - [x] 19. 1NF BCNF flow chart
+      - [x] 20. Compute with Functional Dependencies-Armstrong's rules
+      - [x] 21. How to guarantee lossless joins
+      - [x] 22. How to guarantee preservation of FDs
+      - [x] 23. Email Interest
+      - [x] 24. 3NF and BCNF
+      - [x] 25. It Nevers Happens in Practice
   - [ ] **09 Methodology III: Design (SQL Statements)**
       - [ ] 1. SQL-Create Table Statements
       - [ ] 2. SQL-Create Tables 1
