@@ -979,20 +979,20 @@
       - [x] 23. Email Interest
       - [x] 24. 3NF and BCNF
       - [x] 25. It Nevers Happens in Practice
-  - [ ] **09 Methodology III: Design (SQL Statements)**
-      - [ ] 1. SQL-Create Table Statements
-      - [ ] 2. SQL-Create Tables 1
-      - [ ] 3. SQL-Create Tables 2
-      - [ ] 4. Design-on to Abstract Code
-      - [ ] 5. SQL-View Profile 1
-      - [ ] 6. SQL View Profile, part 02
-      - [ ] 7. SQL Edit Profile, part 01
-      - [ ] 8. SQL Edit Profile, part 02
-      - [ ] 9. SQL Edit Profile, part 03
-      - [ ] 10. SQL Request Friend
-      - [ ] 11. SQL View Requests
-      - [ ] 12. SQL Accept, Reject, Cancel Friend Requests
-      - [ ] 13. Design on to Abstract Code w SQL
+  - [x] **09 Methodology III: Design (SQL Statements)**
+      - [x] 1. SQL-Create Table Statements
+      - [x] 2. SQL-Create Tables 1
+      - [x] 3. SQL-Create Tables 2
+      - [x] 4. Design-on to Abstract Code
+      - [x] 5. SQL-View Profile 1
+      - [x] 6. SQL View Profile, part 02
+      - [x] 7. SQL Edit Profile, part 01
+      - [x] 8. SQL Edit Profile, part 02
+      - [x] 9. SQL Edit Profile, part 03
+      - [x] 10. SQL Request Friend
+      - [x] 11. SQL View Requests
+      - [x] 12. SQL Accept, Reject, Cancel Friend Requests
+      - [x] 13. Design on to Abstract Code w SQL
   - [ ] **10 Relational Algebra and Calculus**
       - [ ] 1. Closed Algebra
       - [ ] 2. Relational Algebra Operators
