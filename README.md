@@ -993,39 +993,39 @@
       - [x] 11. SQL View Requests
       - [x] 12. SQL Accept, Reject, Cancel Friend Requests
       - [x] 13. Design on to Abstract Code w SQL
-  - [ ] **10 Relational Algebra and Calculus**
-      - [ ] 1. Closed Algebra
-      - [ ] 2. Relational Algebra Operators
-      - [ ] 3. Selection
-      - [ ] 4. Selection-Simple Expression
-      - [ ] 5. Selection-Composite Expression
-      - [ ] 6. Projection
-      - [ ] 7. Relations are Sets
-      - [ ] 8. Knowledge Check 1
-      - [ ] 9. Union-U
-      - [ ] 10. Intersection
-      - [ ] 11. Set Difference
-      - [ ] 12. Natural Join
-      - [ ] 13. Theta Join
-      - [ ] 14. Left Outer Join
-      - [ ] 15. Cartesian Product-X
-      - [ ] 16. Cartesian Product-Can be Useful
-      - [ ] 17. Divideby
-      - [ ] 18. Rename
-      - [ ] 19. (headshot) Relational Calculus intro
-      - [ ] 20. Relational Caculus Expressions
-      - [ ] 21. Selection-CALC
-      - [ ] 22. Selection-Composite Expression-CALC
-      - [ ] 23. Projection-CALC
-      - [ ] 24. Union-CALC
-      - [ ] 25. Intersection-CALC
-      - [ ] 26. Set Difference-CALC
-      - [ ] 27. Natural Join-CALC
-      - [ ] 28. Cartesian Product-CALC
-      - [ ] 29. Knowledge Check 2
-      - [ ] 30. Cartesian Product-Can be Useful-CALC
-      - [ ] 31. Divideby-CALC
-      - [ ] 32. Knowledge Check 3
+  - [x] **10 Relational Algebra and Calculus**
+      - [x] 1. Closed Algebra
+      - [x] 2. Relational Algebra Operators
+      - [x] 3. Selection
+      - [x] 4. Selection-Simple Expression
+      - [x] 5. Selection-Composite Expression
+      - [x] 6. Projection
+      - [x] 7. Relations are Sets
+      - [x] 8. Knowledge Check 1
+      - [x] 9. Union-U
+      - [x] 10. Intersection
+      - [x] 11. Set Difference
+      - [x] 12. Natural Join
+      - [x] 13. Theta Join
+      - [x] 14. Left Outer Join
+      - [x] 15. Cartesian Product-X
+      - [x] 16. Cartesian Product-Can be Useful
+      - [x] 17. Divideby
+      - [x] 18. Rename
+      - [x] 19. (headshot) Relational Calculus intro
+      - [x] 20. Relational Caculus Expressions
+      - [x] 21. Selection-CALC
+      - [x] 22. Selection-Composite Expression-CALC
+      - [x] 23. Projection-CALC
+      - [x] 24. Union-CALC
+      - [x] 25. Intersection-CALC
+      - [x] 26. Set Difference-CALC
+      - [x] 27. Natural Join-CALC
+      - [x] 28. Cartesian Product-CALC
+      - [x] 29. Knowledge Check 2
+      - [x] 30. Cartesian Product-Can be Useful-CALC
+      - [x] 31. Divideby-CALC
+      - [x] 32. Knowledge Check 3
   - [ ] **11 SQL**
       - [ ] 1. (headshot) SQL Introduction
       - [ ] 2. SQL History v2
