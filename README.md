@@ -1026,35 +1026,35 @@
       - [x] 30. Cartesian Product-Can be Useful-CALC
       - [x] 31. Divideby-CALC
       - [x] 32. Knowledge Check 3
-  - [ ] **11 SQL**
-      - [ ] 1. (headshot) SQL Introduction
-      - [ ] 2. SQL History v2
-      - [ ] 3. Insert
-      - [ ] 4. Delete
-      - [ ] 5. Update
-      - [ ] 6. Knowledge Check 1
-      - [ ] 7. General SQL Query Syntax
-      - [ ] 8. Selection-Wildcard
-      - [ ] 9. Selection-Where clause
-      - [ ] 10. Selection-Composite Where clause
-      - [ ] 11. Projection
-      - [ ] 12. Distinct
-      - [ ] 13. Natural Inner Join-dot notation
-      - [ ] 14. Knowledge Check 2
-      - [ ] 15. Natural Inner Join-aliases
-      - [ ] 16. Left Outer Join
-      - [ ] 17. String Matching
-      - [ ] 18. Sorting
-      - [ ] 19. Set Operations-Union
-      - [ ] 20. Set Operations-Intersect
-      - [ ] 21. Set Operations-Except
-      - [ ] 22. Built in Functions
-      - [ ] 23. Group By
-      - [ ] 24. Having-Condition on the group
-      - [ ] 25. Nested Queries-In/Not In
-      - [ ] 26. Nested Queries-Some/All
-      - [ ] 27. Nested Queries-correlated
-      - [ ] 28. Knowledge Check 3
+  - [x] **11 SQL**
+      - [x] 1. (headshot) SQL Introduction
+      - [x] 2. SQL History v2
+      - [x] 3. Insert
+      - [x] 4. Delete
+      - [x] 5. Update
+      - [x] 6. Knowledge Check 1
+      - [x] 7. General SQL Query Syntax
+      - [x] 8. Selection-Wildcard
+      - [x] 9. Selection-Where clause
+      - [x] 10. Selection-Composite Where clause
+      - [x] 11. Projection
+      - [x] 12. Distinct
+      - [x] 13. Natural Inner Join-dot notation
+      - [x] 14. Knowledge Check 2
+      - [x] 15. Natural Inner Join-aliases
+      - [x] 16. Left Outer Join
+      - [x] 17. String Matching
+      - [x] 18. Sorting
+      - [x] 19. Set Operations-Union
+      - [x] 20. Set Operations-Intersect
+      - [x] 21. Set Operations-Except
+      - [x] 22. Built in Functions
+      - [x] 23. Group By
+      - [x] 24. Having-Condition on the group
+      - [x] 25. Nested Queries-In/Not In
+      - [x] 26. Nested Queries-Some/All
+      - [x] 27. Nested Queries-correlated
+      - [x] 28. Knowledge Check 3
   - [ ] **12 Efficiency**
       - [ ] 1. Efficiency/Indexing/Physical Database...
       - [ ] 2. Computer Architecture
