@@ -1080,23 +1080,23 @@
       - [x] 22. Multi-Level Index B-Tree
       - [x] 23. Static Hashing Part I
       - [x] 24. Static Hashing Part 2
-  - [ ] **13 Methodology IV: Implementation**
-      - [ ] 1. Implementation
-      - [ ] 2. AMP solution stack
-      - [ ] 3. Implementation Data First
-      - [ ] 4. WAMP stack demos (headshot)
-      - [ ] 5. Install the WAMP Stack
-      - [ ] 6. Run the WAMP Stack
-      - [ ] 7. Demo 03
-      - [ ] 8. To Index or Not Many Things to Consider
-      - [ ] 9. To Index or Not Size of Table
-      - [ ] 10. To Index or Not Multiple Access Paths add up
-      - [ ] 11. To Index or Not Reads and or Writes
-      - [ ] 12. To Index or Not Already Indexed
-      - [ ] 13. To Index or Not Some Advice
-      - [ ] 14. Implementation Tasks
-      - [ ] 15. Run PHP Scripts for GTOnline example
-      - [ ] 16. HTML demo
+  - [x] **13 Methodology IV: Implementation**
+      - [x] 1. Implementation
+      - [x] 2. AMP solution stack
+      - [x] 3. Implementation Data First
+      - [x] 4. WAMP stack demos (headshot)
+      - [x] 5. Install the WAMP Stack
+      - [x] 6. Run the WAMP Stack
+      - [x] 7. Demo 03
+      - [x] 8. To Index or Not Many Things to Consider
+      - [x] 9. To Index or Not Size of Table
+      - [x] 10. To Index or Not Multiple Access Paths add up
+      - [x] 11. To Index or Not Reads and or Writes
+      - [x] 12. To Index or Not Already Indexed
+      - [x] 13. To Index or Not Some Advice
+      - [x] 14. Implementation Tasks
+      - [x] 15. Run PHP Scripts for GTOnline example
+      - [x] 16. HTML demo
   - [ ] **14 Metadata**
       - [ ] 1. Archival Metadata Hardware used
       - [ ] 2. Experiences with Metadata
