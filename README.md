@@ -1097,19 +1097,19 @@
       - [x] 14. Implementation Tasks
       - [x] 15. Run PHP Scripts for GTOnline example
       - [x] 16. HTML demo
-  - [ ] **14 Metadata**
-      - [ ] 1. Archival Metadata Hardware used
-      - [ ] 2. Experiences with Metadata
-      - [ ] 3. The Question
-      - [ ] 4. Preservation Metadata OAIS Information Model
-      - [ ] 5. OAIS Information Model
-      - [ ] 6. Content Information Package
-      - [ ] 7. OAIS Information Model   part 02
-      - [ ] 8. Preservation Description Information
-      - [ ] 9. OAIS Information Model   part 03
-      - [ ] 10. Standards for Archival Metadata are not mature
-      - [ ] 11. Metadata Representation Standards
-      - [ ] 12. Several elements are necessary
+  - [x] **14 Metadata**
+      - [x] 1. Archival Metadata Hardware used
+      - [x] 2. Experiences with Metadata
+      - [x] 3. The Question
+      - [x] 4. Preservation Metadata OAIS Information Model
+      - [x] 5. OAIS Information Model
+      - [x] 6. Content Information Package
+      - [x] 7. OAIS Information Model   part 02
+      - [x] 8. Preservation Description Information
+      - [x] 9. OAIS Information Model   part 03
+      - [x] 10. Standards for Archival Metadata are not mature
+      - [x] 11. Metadata Representation Standards
+      - [x] 12. Several elements are necessary
   - [ ] **15 Course Wrap Up**
       - [ ] 1. Course Wrap Up
 - [ ] [Egghead: Advanced SQL for Professional Developers](https://egghead.io/courses/advanced-sql-for-professional-developers)
