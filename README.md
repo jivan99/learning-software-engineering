@@ -1055,31 +1055,31 @@
       - [x] 26. Nested Queries-Some/All
       - [x] 27. Nested Queries-correlated
       - [x] 28. Knowledge Check 3
-  - [ ] **12 Efficiency**
-      - [ ] 1. Efficiency/Indexing/Physical Database...
-      - [ ] 2. Computer Architecture
-      - [ ] 3. Why should you care
-      - [ ] 4. Main Memory vs Disk
-      - [ ] 5. Disk
-      - [ ] 6. Records
-      - [ ] 7. Blocks
-      - [ ] 8. Files
-      - [ ] 9. Assumptions
-      - [ ] 10. Heap-Unsorted
-      - [ ] 11. Heap setup
-      - [ ] 12. Heap
-      - [ ] 13. Sorted but
-      - [ ] 14. Sorted Binary
-      - [ ] 15. Sorted File
-      - [ ] 16. Primary Index -Part 1
-      - [ ] 17. Primary Index -Part 2
-      - [ ] 18. Sparse Index
-      - [ ] 19. Secondary Index
-      - [ ] 20. Multi-Level Index
-      - [ ] 21. Multi-Level Headshot
-      - [ ] 22. Multi-Level Index B-Tree
-      - [ ] 23. Static Hashing Part I
-      - [ ] 24. Static Hashing Part 2
+  - [x] **12 Efficiency**
+      - [x] 1. Efficiency/Indexing/Physical Database...
+      - [x] 2. Computer Architecture
+      - [x] 3. Why should you care
+      - [x] 4. Main Memory vs Disk
+      - [x] 5. Disk
+      - [x] 6. Records
+      - [x] 7. Blocks
+      - [x] 8. Files
+      - [x] 9. Assumptions
+      - [x] 10. Heap-Unsorted
+      - [x] 11. Heap setup
+      - [x] 12. Heap
+      - [x] 13. Sorted but
+      - [x] 14. Sorted Binary
+      - [x] 15. Sorted File
+      - [x] 16. Primary Index -Part 1
+      - [x] 17. Primary Index -Part 2
+      - [x] 18. Sparse Index
+      - [x] 19. Secondary Index
+      - [x] 20. Multi-Level Index
+      - [x] 21. Multi-Level Headshot
+      - [x] 22. Multi-Level Index B-Tree
+      - [x] 23. Static Hashing Part I
+      - [x] 24. Static Hashing Part 2
   - [ ] **13 Methodology IV: Implementation**
       - [ ] 1. Implementation
       - [ ] 2. AMP solution stack
