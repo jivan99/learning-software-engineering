@@ -715,6 +715,54 @@
 #### Be Proficient in React.js
 
 - [ ] [Frontendmasters: Complete Intro to React, v6](https://frontendmasters.com/courses/complete-react-v6/)
+  - [ ] **1. Introduction**
+    - [ ] 1. Introduction
+    - [ ] 2. Who is this Course For
+  - [ ] **2. No Frills React**
+    - [ ] 1. Including Vanilla React & Project Setup
+    - [ ] 2. Your First Vanilla React Component
+    - [ ] 3. Components and Q&A
+    - [ ] 4. Props
+  - [ ] **3. JavaScript Tools**
+    - [ ] 1. npm
+    - [ ] 2. Prettier
+    - [ ] 3. ESLint
+    - [ ] 4. Git
+    - [ ] 5. Parcel
+    - [ ] 6. Babel
+  - [ ] **4. Core React Concepts**
+    - [ ] 1. JSX
+    - [ ] 2. ESLint & React
+    - [ ] 3. Hooks
+    - [ ] 4. Rules of Hooks and Q&A
+    - [ ] 5. ESLint & Hooks
+    - [ ] 6. Animal & Breed Selector Hooks
+    - [ ] 7. Hooks Q&A
+    - [ ] 8. useEffect & Fetching API Data
+    - [ ] 9. Custom Hooks
+    - [ ] 10. Handling User Input
+    - [ ] 11. Component Composition
+    - [ ] 12. Refactoring the Pet Component
+    - [ ] 13. Dev Environment
+    - [ ] 14. Strict Mode
+    - [ ] 15. React Dev Tools
+  - [ ] **5. React Capabilities**
+    - [ ] 1. React Router Route
+    - [ ] 2. React Router Link Tag
+    - [ ] 3. Class Components
+    - [ ] 4. Loading State & Lifecycle Methods
+    - [ ] 5. Class Properties
+    - [ ] 6. Manage State in a Class Component
+    - [ ] 7. Interactive Class Component
+  - [ ] **6. Special Case React Tools**
+    - [ ] 1. Error Boundaries
+    - [ ] 2. Redirect on Error
+    - [ ] 3. Context
+    - [ ] 4. Implementing ThemeContext and Q&A
+    - [ ] 5. Portals, Refs, and Q&A
+    - [ ] 6. Implementing Modals
+  - [ ] **7. Wrapping Up**
+    - [ ] 1. Wrapping Up
 - [ ] [Frontendmasters: Intermediate React, v3](https://frontendmasters.com/courses/intermediate-react-v3/)
 - [ ] [Kent C. Dodds: Epic React](https://epicreact.dev/)
 - [ ] [Frontendmasters: React and TypeScript](https://frontendmasters.com/courses/react-typescript/)
