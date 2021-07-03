@@ -712,6 +712,13 @@
 - [ ] [Frontendmasters: Production-Grade TypeScript](https://frontendmasters.com/courses/production-typescript/)
 - [ ] [Frontendmasters: Enterprise Architecture Patterns](https://frontendmasters.com/courses/enterprise-patterns/)
 
+#### Be Proficient in React.js
+
+- [ ] [Frontendmasters: Complete Intro to React, v6](https://frontendmasters.com/courses/complete-react-v6/)
+- [ ] [Frontendmasters: Intermediate React, v3](https://frontendmasters.com/courses/intermediate-react-v3/)
+- [ ] [Kent C. Dodds: Epic React](https://epicreact.dev/)
+- [ ] [Frontendmasters: React and TypeScript](https://frontendmasters.com/courses/react-typescript/)
+
 #### Learn Cloud Computing
 
 - [ ] [Frontendmasters: AWS for Front-End Engineers (ft. S3, Cloudfront & Route 53)](https://frontendmasters.com/courses/aws-frontend-react/)
