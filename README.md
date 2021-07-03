@@ -715,9 +715,9 @@
 #### Be Proficient in React.js
 
 - [ ] [Frontendmasters: Complete Intro to React, v6](https://frontendmasters.com/courses/complete-react-v6/)
-  - [ ] **1. Introduction**
-    - [ ] 1. Introduction
-    - [ ] 2. Who is this Course For
+  - [x] **1. Introduction**
+    - [x] 1. Introduction
+    - [x] 2. Who is this Course For
   - [ ] **2. No Frills React**
     - [ ] 1. Including Vanilla React & Project Setup
     - [ ] 2. Your First Vanilla React Component
