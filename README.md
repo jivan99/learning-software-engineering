@@ -718,11 +718,11 @@
   - [x] **1. Introduction**
     - [x] 1. Introduction
     - [x] 2. Who is this Course For
-  - [ ] **2. No Frills React**
-    - [ ] 1. Including Vanilla React & Project Setup
-    - [ ] 2. Your First Vanilla React Component
-    - [ ] 3. Components and Q&A
-    - [ ] 4. Props
+  - [x] **2. No Frills React**
+    - [x] 1. Including Vanilla React & Project Setup
+    - [x] 2. Your First Vanilla React Component
+    - [x] 3. Components and Q&A
+    - [x] 4. Props
   - [ ] **3. JavaScript Tools**
     - [ ] 1. npm
     - [ ] 2. Prettier
