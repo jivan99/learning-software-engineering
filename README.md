@@ -723,13 +723,13 @@
     - [x] 2. Your First Vanilla React Component
     - [x] 3. Components and Q&A
     - [x] 4. Props
-  - [ ] **3. JavaScript Tools**
-    - [ ] 1. npm
-    - [ ] 2. Prettier
-    - [ ] 3. ESLint
-    - [ ] 4. Git
-    - [ ] 5. Parcel
-    - [ ] 6. Babel
+  - [x] **3. JavaScript Tools**
+    - [x] 1. npm
+    - [x] 2. Prettier
+    - [x] 3. ESLint
+    - [x] 4. Git
+    - [x] 5. Parcel
+    - [x] 6. Babel
   - [ ] **4. Core React Concepts**
     - [ ] 1. JSX
     - [ ] 2. ESLint & React
