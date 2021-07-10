@@ -730,22 +730,22 @@
     - [x] 4. Git
     - [x] 5. Parcel
     - [x] 6. Babel
-  - [ ] **4. Core React Concepts**
-    - [ ] 1. JSX
-    - [ ] 2. ESLint & React
-    - [ ] 3. Hooks
-    - [ ] 4. Rules of Hooks and Q&A
-    - [ ] 5. ESLint & Hooks
-    - [ ] 6. Animal & Breed Selector Hooks
-    - [ ] 7. Hooks Q&A
-    - [ ] 8. useEffect & Fetching API Data
-    - [ ] 9. Custom Hooks
-    - [ ] 10. Handling User Input
-    - [ ] 11. Component Composition
-    - [ ] 12. Refactoring the Pet Component
-    - [ ] 13. Dev Environment
-    - [ ] 14. Strict Mode
-    - [ ] 15. React Dev Tools
+  - [x] **4. Core React Concepts**
+    - [x] 1. JSX
+    - [x] 2. ESLint & React
+    - [x] 3. Hooks
+    - [x] 4. Rules of Hooks and Q&A
+    - [x] 5. ESLint & Hooks
+    - [x] 6. Animal & Breed Selector Hooks
+    - [x] 7. Hooks Q&A
+    - [x] 8. useEffect & Fetching API Data
+    - [x] 9. Custom Hooks
+    - [x] 10. Handling User Input
+    - [x] 11. Component Composition
+    - [x] 12. Refactoring the Pet Component
+    - [x] 13. Dev Environment
+    - [x] 14. Strict Mode
+    - [x] 15. React Dev Tools
   - [ ] **5. React Capabilities**
     - [ ] 1. React Router Route
     - [ ] 2. React Router Link Tag
